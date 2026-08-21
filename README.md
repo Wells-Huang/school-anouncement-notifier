@@ -35,7 +35,7 @@ npm test
 npm run scan
 ```
 
-不想在本地寄信時，不要設定 Gmail secrets；掃描仍會留下 log，但有相關公告時會記錄寄信失敗原因。快速 smoke test 可設定 `DETAIL_SCAN_MODE=recent`，正式 workflow 預設使用 `all` 以檢查詳細頁的最後更新日期。
+不想在本地寄信時，不要設定 Gmail secrets；掃描仍會留下 log，但有相關公告時會記錄寄信失敗原因。GitHub Actions 每日執行預設使用 `DETAIL_SCAN_MODE=recent`，只對最近 24 小時候選公告讀取詳細頁；需要完整歷史詳細頁稽核時，才在本地設定 `DETAIL_SCAN_MODE=all`。
 
 ## Log 欄位
 

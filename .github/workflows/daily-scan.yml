@@ -40,7 +40,8 @@ jobs:
           GMAIL_TO: ${{ secrets.GMAIL_TO }}
           SCHOOL_ANNOUNCEMENT_URL: https://www.gtes.tp.edu.tw/nss/p/index
           LOOKBACK_HOURS: 24
-          DETAIL_SCAN_MODE: all
+          # Only recent candidates need detail-page reads for the daily 24-hour scan.
+          DETAIL_SCAN_MODE: recent
         run: node src/main.js
 
       - name: Upload scan logs as workflow artifact
