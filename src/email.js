@@ -107,7 +107,6 @@ export async function sendSummaryEmail({ subject, text, html, config, env = proc
       attempted: true,
       sent: true,
       provider: "Gmail SMTP",
-      to: recipient,
       response: info.response || "SMTP accepted",
     };
   } catch (error) {
@@ -115,7 +114,6 @@ export async function sendSummaryEmail({ subject, text, html, config, env = proc
       attempted: true,
       sent: false,
       provider: "Gmail SMTP",
-      to: recipient,
       reason: `有相關公告但寄信失敗：${error instanceof Error ? error.message : String(error)}`,
     };
   }

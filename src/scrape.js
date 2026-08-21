@@ -215,6 +215,37 @@ async function readRowsOnPage(page, active, category, options) {
   return { notices, detailAttempts, detailSuccesses, detailFailures };
 }
 
+async function clickNextPage(page, active, category) {
+  const next = active.locator('button[aria-label="下一頁"]').first();
+  if (!(await next.count()) || !(await next.isEnabled())) return false;
+
+  const deadline = Date.now() + 15_000;
+  let disabledSince = null;
+  let lastError = null;
+  while (Date.now() < deadline) {
+    if (await next.isEnabled()) {
+      disabledSince = null;
+      try {
+        await next.click({ timeout: 1_000 });
+        return true;
+      } catch (error) {
+        lastError = error;
+      }
+    } else {
+      disabledSince ??= Date.now();
+      // Vue briefly disables the control while refreshing the table. If it
+      // stays disabled, this is the last page rather than a category failure.
+      if (Date.now() - disabledSince >= 3_000) return false;
+    }
+    await page.waitForTimeout(200);
+  }
+
+  throw new ScanError(`公告分類下一頁按鈕無法穩定點擊：${category}`, {
+    category,
+    cause: lastError instanceof Error ? lastError.message : String(lastError || "timeout"),
+  });
+}
+
 async function scanCategory(page, category, options) {
   const notices = [];
   let detailAttempts = 0;
@@ -235,9 +266,7 @@ async function scanCategory(page, category, options) {
     detailSuccesses += pageResult.detailSuccesses;
     detailFailures += pageResult.detailFailures;
 
-    const next = active.locator('button[aria-label="下一頁"]').first();
-    if (!(await next.count()) || !(await next.isEnabled())) break;
-    await next.click({ timeout: 15_000 });
+    if (!(await clickNextPage(page, active, category))) break;
     for (let attempt = 0; attempt < 30; attempt += 1) {
       const refreshed = await activeCategory(page, category);
       const nextSignature = await tableSignature(refreshed);
