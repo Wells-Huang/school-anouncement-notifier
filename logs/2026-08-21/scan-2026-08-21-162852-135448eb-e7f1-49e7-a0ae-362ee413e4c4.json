@@ -1,0 +1,215 @@
+{
+  "runId": "135448eb-e7f1-49e7-a0ae-362ee413e4c4",
+  "execution": {
+    "startedAtUtc": "2026-08-21T08:28:52.214Z",
+    "completedAtUtc": "2026-08-21T08:31:35.636Z",
+    "executedAtTaipei": "2026/08/21 16:28:52",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-08-20T08:28:52.214Z",
+    "windowEndUtc": "2026-08-21T08:28:52.214Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1880,
+    "recent24h": 15,
+    "relevant": 3,
+    "skipped": 12,
+    "detailAttempts": 15,
+    "detailSuccesses": 15,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "一年級新生午餐報名",
+      "publishedDate": "2026/08/20",
+      "updatedDate": "2026/08/20",
+      "category": "校務公告",
+      "unit": "學務主任",
+      "reason": "提到午餐；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "請閱讀原公告，確認是否需要依校方或主辦單位指示辦理。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86a76eab83b026456e488a?vector=private&static=false",
+      "summary": "詳細內容請見原公告。",
+      "matchedKeywords": [
+        "報名",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "二至六年級午餐報名",
+      "publishedDate": "2026/08/20",
+      "updatedDate": "2026/08/20",
+      "category": "校務公告",
+      "unit": "學務主任",
+      "reason": "提到午餐；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "請閱讀原公告，確認是否需要依校方或主辦單位指示辦理。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86ac4578f7f4255a18c562?vector=private&static=false",
+      "summary": "詳細內容請見原公告。",
+      "matchedKeywords": [
+        "報名",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "二至六年級午餐報名",
+      "publishedDate": "2026/07/07",
+      "updatedDate": "2026/07/09",
+      "category": "校務公告",
+      "unit": "學務主任",
+      "reason": "提到午餐；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "請閱讀原公告，確認是否需要依校方或主辦單位指示辦理。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a4cde2c483f9c277a22e55b?vector=private&static=false",
+      "summary": "詳細內容請見原公告。",
+      "matchedKeywords": [
+        "報名",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "skippedAnnouncements": [
+    {
+      "title": "115學年度暑假第二次轉入生編班公告",
+      "category": "校務公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度「校際交流互訪活動」報名公告",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國際運算思維挑戰賽",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度「校際交流互訪活動」報名公告",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度高級中等以下學校臺灣手語教師培訓及認證",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "本局辦理「臺北市AI無人機教育論壇」活動議程調整",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立臺北教育大學(下稱該校)辦理「教師資訊科技素養導向線上工作坊」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「臺北市115學年度科技教育創意實作競賽-資訊科技組」競賽規則說明及競賽模擬",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "臺北市115學年度「推動中小學數位學習精進方案」數位學習研習",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度高級中等以下學校臺灣手語教師培訓及認證",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】本府115年下半年「家中有長期照護需求同仁」支持講座資訊",
+      "category": "人事服務",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選(級任、自然、特教)第18招甄選結果",
+      "category": "人事服務",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Fri, 21 Aug 2026 08:28:54 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "provider": "Gmail SMTP",
+    "reason": "有相關公告但寄信失敗：未設定 GMAIL_USERNAME/GMAIL_APP_PASSWORD（或 SMTP_USER/SMTP_PASS）"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "有相關公告但寄信失敗：未設定 GMAIL_USERNAME/GMAIL_APP_PASSWORD（或 SMTP_USER/SMTP_PASS）",
+  "failureReason": ""
+}

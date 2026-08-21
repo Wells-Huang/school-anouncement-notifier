@@ -1,0 +1,67 @@
+name: 古亭國小公告每日掃描
+
+on:
+  schedule:
+    # GitHub Actions uses UTC. 00:00 UTC is 08:00 Asia/Taipei.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: school-announcement-daily-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium for rendered-page scanning
+        run: npx playwright install --with-deps chromium
+
+      - name: Scan announcements and send only relevant summaries
+        env:
+          GMAIL_USERNAME: ${{ secrets.GMAIL_USERNAME }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          SCHOOL_ANNOUNCEMENT_URL: https://www.gtes.tp.edu.tw/nss/p/index
+          LOOKBACK_HOURS: 24
+          DETAIL_SCAN_MODE: all
+        run: node src/main.js
+
+      - name: Upload scan logs as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: school-announcement-scan-${{ github.run_id }}
+          path: logs/
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Commit durable scan log
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add logs
+          if git diff --cached --quiet; then
+            echo "No scan log changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: record announcement scan"
+          git push

@@ -1,0 +1,311 @@
+{
+  "runId": "14485abf-7db9-492b-935b-c4e0802cf04c",
+  "execution": {
+    "startedAtUtc": "2026-08-21T08:48:54.569Z",
+    "completedAtUtc": "2026-08-21T08:49:37.023Z",
+    "executedAtTaipei": "2026/08/21 16:48:54",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-08-20T08:48:54.568Z",
+    "windowEndUtc": "2026-08-21T08:48:54.568Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 556,
+    "recent24h": 12,
+    "relevant": 4,
+    "skipped": 8,
+    "detailAttempts": 12,
+    "detailSuccesses": 12,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度「校際交流互訪活動」報名公告",
+      "publishedDate": "2026/08/21",
+      "updatedDate": "2026/08/21",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到家長；屬於活動；有重要日期：2026/09/07，與小五學生或家長的安排有關。",
+      "action": "請留意2026/09/07前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/09/07",
+      "importantDates": [
+        {
+          "date": "2026/09/07",
+          "context": "度校際交流活動開始報名囉~ 請有意願參加的小朋友請徵得家長同意後再報名! 報名時間即日起至115年9月7日16時止(逾時不候) 報名結束後會再篩選,確定獲選後將可參加活動。 活動報名表請自行下載"
+        },
+        {
+          "date": "2026/09/07",
+          "context": "流活動開始報名囉~ 請有意願參加的小朋友請徵得家長同意後再報名! 報名時間即日起至115年9月7日16時止(逾時不候) 報名結束後會再篩選,確定獲選後將可參加活動。 活動報名表請自行下載"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a87a15ee1ac27548224cb46?vector=private&static=false",
+      "summary": "各位家長、同學大家好: 113學年度台東溫泉國小、114學年度澎湖龍門國小活動獲得熱烈回響。 115學年度校際交流活動開始報名囉~ 請有意願參加的小朋友請徵得家長同意後再報名!",
+      "matchedKeywords": [
+        "家長",
+        "報名"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "二至六年級午餐報名",
+      "publishedDate": "2026/08/20",
+      "updatedDate": "2026/08/20",
+      "category": "校務公告",
+      "unit": "學務主任",
+      "reason": "提到學生、家長、午餐；涉及午餐；有重要日期：2026/08/25，與小五學生或家長的安排有關。",
+      "action": "請留意2026/08/25前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/08/25",
+      "importantDates": [
+        {
+          "date": "2026/08/25",
+          "context": "六年級午餐報名 各位家長大家好 目前調查統計貴子弟(二至六年級學生)在校用餐意願 請家長於8月25日前填寫問卷調查"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86ac4578f7f4255a18c562?vector=private&static=false",
+      "summary": "各位家長大家好 目前調查統計貴子弟(二至六年級學生)在校用餐意願 請家長於8月25日前填寫問卷調查",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "本局辦理「臺北市AI無人機教育論壇」活動議程調整",
+      "publishedDate": "2026/08/20",
+      "updatedDate": "2026/08/20",
+      "category": "研習進修",
+      "unit": "教務處資訊組長",
+      "reason": "提到學生；屬於活動、資訊；有重要日期：2026/08/24，與小五學生或家長的安排有關。",
+      "action": "請留意2026/08/24前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/08/24",
+      "importantDates": [
+        {
+          "date": "2026/07/21",
+          "context": "本局辦理「臺北市AI無人機教育論壇」活動議程調整 一、依據本局115年7月21日北市教職字第11530845331號函(諒達)續辦。 二、為因應人工智慧與無人機技術快速發"
+        },
+        {
+          "date": "2026/08/24",
+          "context": "置20公分級無人機足球場,開放學生現場報名,體驗無人機新興運動。 (五)報名方式:即日起至115年8月24日(星期一)止,免報名費,請於報名連結或掃描「報名QR CODE」,填妥報名資料即完成報名。"
+        },
+        {
+          "date": "2026/08/24",
+          "context": "分級無人機足球場,開放學生現場報名,體驗無人機新興運動。 (五)報名方式:即日起至115年8月24日(星期一)止,免報名費,請於報名連結或掃描「報名QR CODE」,填妥報名資料即完成報名。"
+        },
+        {
+          "date": "2026/08/27",
+          "context": "應用。 三、旨揭論壇活動議程有所調整,請以調整後實施計畫為主,資訊摘述如下: (一)時間:115年8月27日(星期四)上午8時30分至下午4時。 (二)地點:臺北市木柵高級工業職業學校活動中心。 ("
+        },
+        {
+          "date": "2026/08/27",
+          "context": "三、旨揭論壇活動議程有所調整,請以調整後實施計畫為主,資訊摘述如下: (一)時間:115年8月27日(星期四)上午8時30分至下午4時。 (二)地點:臺北市木柵高級工業職業學校活動中心。 ("
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86652803cbcc17ea11b57a?vector=private&static=false",
+      "summary": "一、依據本局115年7月21日北市教職字第11530845331號函(諒達)續辦。 二、為因應人工智慧與無人機技術快速發展,並配合本市無人機教育人才培育政策,本局特辦理旨揭論壇,邀集產官學研專家學者分享AI無人機人才培育、無人載具應用、無人機低空經濟等多元主題,並結合學校無人機教學成果展示與體驗活動,鼓勵親師生及民眾瞭解無人機人才培育方向、無人機最新發展實務及應用。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國際運算思維挑戰賽",
+      "publishedDate": "2026/08/20",
+      "updatedDate": "2026/08/20",
+      "category": "活動/競賽",
+      "unit": "教務處資訊組長",
+      "reason": "提到學生；屬於資訊、ai；有重要日期：2026/10/22，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/22前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/22",
+      "importantDates": [
+        {
+          "date": "2026/08/09",
+          "context": "國際運算思維挑戰賽 一、依據國立臺灣師範大學115年8月9日師大資工字第1151021691號函辦理。 二、為協助瞭解學生運算思維知能並激發學習興趣,"
+        },
+        {
+          "date": "2026/09/21",
+          "context": "平臺整合與學習成效分析機制。115學年度第一學期挑戰賽重要日程說明如下: (一)報名期間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習"
+        },
+        {
+          "date": "2026/09/21",
+          "context": "與學習成效分析機制。115學年度第一學期挑戰賽重要日程說明如下: (一)報名期間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習"
+        },
+        {
+          "date": "2026/10/22",
+          "context": "析機制。115學年度第一學期挑戰賽重要日程說明如下: (一)報名期間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正"
+        },
+        {
+          "date": "2026/11/02",
+          "context": "如下: (一)報名期間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節"
+        },
+        {
+          "date": "2026/11/02",
+          "context": "(一)報名期間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節"
+        },
+        {
+          "date": "2026/11/06",
+          "context": "間:115年9月21日至10月22日止(線上報名)。 (二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節課進行)。"
+        },
+        {
+          "date": "2026/11/09",
+          "context": "名)。 (二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節課進行)。 (四)成績與參與證明公佈時間:12月4日。 三、115"
+        },
+        {
+          "date": "2026/11/09",
+          "context": "(二)開放練習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節課進行)。 (四)成績與參與證明公佈時間:12月4日。 三、115"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "習:115年11月2日至11月6日止(線上練習)。 (三)正式挑戰賽:115年11月9日至11月20日止(擇一節課進行)。 (四)成績與參與證明公佈時間:12月4日。 三、115學年度第一、二"
+        },
+        {
+          "date": "2026/12/04",
+          "context": "戰賽:115年11月9日至11月20日止(擇一節課進行)。 (四)成績與參與證明公佈時間:12月4日。 三、115學年度第一、二學期使用之任務相同;115學年度第二學期之挑戰賽時程將於116"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86bbf6674d8b2bc4d291e6?vector=private&static=false",
+      "summary": "一、依據國立臺灣師範大學115年8月9日師大資工字第1151021691號函辦理。 二、為協助瞭解學生運算思維知能並激發學習興趣,旨揭競賽每年與全球近60國同步辦理。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "skippedAnnouncements": [
+    {
+      "title": "一年級新生午餐報名",
+      "category": "校務公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度暑假第二次轉入生編班公告",
+      "category": "校務公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度高級中等以下學校臺灣手語教師培訓及認證",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立臺北教育大學(下稱該校)辦理「教師資訊科技素養導向線上工作坊」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「臺北市115學年度科技教育創意實作競賽-資訊科技組」競賽規則說明及競賽模擬",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市115學年度「推動中小學數位學習精進方案」數位學習研習",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "【轉知】本府115年下半年「家中有長期照護需求同仁」支持講座資訊",
+      "category": "人事服務",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選(級任、自然、特教)第18招甄選結果",
+      "category": "人事服務",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Fri, 21 Aug 2026 08:48:58 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail connector（本次即時掃描）",
+    "messageId": "1a023836c6e46a13",
+    "threadId": "1a023836c6e46a13",
+    "result": "Gmail 已接受並寄出摘要"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "C:\\Users\\Wells\\Projects\\school-anouncement-notifier\\logs\\2026-08-21\\scan-2026-08-21-164854-14485abf-7db9-492b-935b-c4e0802cf04c.json",
+    "latestPath": "C:\\Users\\Wells\\Projects\\school-anouncement-notifier\\logs\\latest.json"
+  }
+}

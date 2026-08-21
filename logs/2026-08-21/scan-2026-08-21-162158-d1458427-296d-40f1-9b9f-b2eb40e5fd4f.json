@@ -1,0 +1,142 @@
+{
+  "runId": "d1458427-296d-40f1-9b9f-b2eb40e5fd4f",
+  "execution": {
+    "startedAtUtc": "2026-08-21T08:21:58.791Z",
+    "completedAtUtc": "2026-08-21T08:23:00.393Z",
+    "executedAtTaipei": "2026/08/21 16:21:58",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-08-20T08:21:58.791Z",
+    "windowEndUtc": "2026-08-21T08:21:58.791Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告"
+    ],
+    "failed": [
+      {
+        "category": "獎補助資訊",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：獎補助資訊"
+      },
+      {
+        "category": "公文公告",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：公文公告"
+      },
+      {
+        "category": "活動/競賽",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：活動/競賽"
+      },
+      {
+        "category": "研習進修",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：研習進修"
+      },
+      {
+        "category": "人事服務",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：人事服務"
+      },
+      {
+        "category": "音樂班聯招",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：音樂班聯招"
+      },
+      {
+        "category": "教師甄選",
+        "success": false,
+        "notices": 0,
+        "reason": "找不到公告分類：教師甄選"
+      }
+    ]
+  },
+  "counts": {
+    "scanned": 316,
+    "recent24h": 1,
+    "relevant": 1,
+    "skipped": 0,
+    "detailAttempts": 1,
+    "detailSuccesses": 1,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "二至六年級午餐報名",
+      "publishedDate": "2026/07/07",
+      "updatedDate": "2026/07/09",
+      "category": "校務公告",
+      "unit": "學務主任",
+      "reason": "提到午餐；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "請閱讀原公告，確認是否需要依校方或主辦單位指示辦理。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "",
+      "summary": "詳細內容請見原公告。",
+      "matchedKeywords": [
+        "報名",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "skippedAnnouncements": [],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Fri, 21 Aug 2026 08:22:05 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "provider": "Gmail SMTP",
+    "reason": "有相關公告但寄信失敗：未設定 GMAIL_USERNAME/GMAIL_APP_PASSWORD（或 SMTP_USER/SMTP_PASS）"
+  },
+  "status": "partial_scan",
+  "noEmailReason": "有相關公告但寄信失敗：未設定 GMAIL_USERNAME/GMAIL_APP_PASSWORD（或 SMTP_USER/SMTP_PASS）",
+  "failureReason": ""
+}
