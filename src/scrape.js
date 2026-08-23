@@ -256,9 +256,8 @@ async function scanCategory(page, category, options) {
   for (let pageNumber = 1; pageNumber <= options.maxPagesPerCategory; pageNumber += 1) {
     const active = await activeCategory(page, category);
     const firstSignature = (await tableSignature(active)) || `page-${pageNumber}`;
-    const signature = `${pageNumber}|${firstSignature}`;
-    if (signatures.has(signature)) break;
-    signatures.add(signature);
+    if (signatures.has(firstSignature)) break;
+    signatures.add(firstSignature);
 
     const pageResult = await readRowsOnPage(page, active, category, options);
     notices.push(...pageResult.notices);
@@ -267,12 +266,17 @@ async function scanCategory(page, category, options) {
     detailFailures += pageResult.detailFailures;
 
     if (!(await clickNextPage(page, active, category))) break;
+    let pageChanged = false;
     for (let attempt = 0; attempt < 30; attempt += 1) {
       const refreshed = await activeCategory(page, category);
       const nextSignature = await tableSignature(refreshed);
-      if (nextSignature && nextSignature !== firstSignature) break;
+      if (nextSignature && nextSignature !== firstSignature) {
+        pageChanged = true;
+        break;
+      }
       await page.waitForTimeout(200);
     }
+    if (!pageChanged) break;
   }
 
   return { notices, detailAttempts, detailSuccesses, detailFailures };

@@ -329,12 +329,38 @@ export function classifyNotice(notice, now = new Date()) {
   };
 }
 
+function emailNoticeIdentity(item) {
+  return JSON.stringify([
+    item.bucket,
+    item.priority,
+    item.title,
+    item.publishedDate,
+    item.updatedDate,
+    item.category,
+    item.reason,
+    item.action,
+    item.deadline,
+    item.summary,
+    item.originalUrl,
+  ]);
+}
+
 export function buildReport(notices, now = new Date(), lookbackHours = 24) {
   const recent = notices
     .map((notice) => ({ ...notice, recent: getRecentState(notice, now, lookbackHours) }))
     .filter((notice) => notice.recent.recent);
 
-  const classified = recent.map((notice) => classifyNotice(notice, now));
+  const seen = new Set();
+  const uniquePairs = recent
+    .map((notice) => ({ notice, item: classifyNotice(notice, now) }))
+    .filter(({ item }) => {
+      const identity = emailNoticeIdentity(item);
+      if (seen.has(identity)) return false;
+      seen.add(identity);
+      return true;
+    });
+  const uniqueRecent = uniquePairs.map(({ notice }) => notice);
+  const classified = uniquePairs.map(({ item }) => item);
   const relevant = classified
     .filter((item) => item.relevant)
     .sort((a, b) => {
@@ -350,14 +376,15 @@ export function buildReport(notices, now = new Date(), lookbackHours = 24) {
     }));
 
   return {
-    recent,
+    recent: uniqueRecent,
     relevant,
     skipped,
     counts: {
       scanned: notices.length,
-      recent24h: recent.length,
+      recent24h: uniqueRecent.length,
       relevant: relevant.length,
       skipped: skipped.length,
+      duplicatesRemoved: recent.length - uniqueRecent.length,
     },
   };
 }

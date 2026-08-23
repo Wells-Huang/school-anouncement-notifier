@@ -111,3 +111,36 @@ test("report counts recent, relevant and skipped notices", () => {
   assert.equal(report.counts.skipped, 1);
   assert.equal(buildEmailSubject("2026-08-21", report), "【古亭國小公告摘要】2026/08/21｜必看 0 則、可參加 1 則");
 });
+
+test("report removes notices whose email content is completely identical", () => {
+  const notice = {
+    title: "115學年度校際交流互訪活動報名公告",
+    category: "活動/競賽",
+    listDate: "2026/08/21",
+    body: "五年級學生可參加，請家長於 2026/09/07 前完成報名。",
+    originalUrl: "https://example.test/announcement/123",
+  };
+  const report = buildReport([notice, { ...notice }], now, 24);
+
+  assert.equal(report.counts.recent24h, 1);
+  assert.equal(report.counts.relevant, 1);
+  assert.equal(report.counts.duplicatesRemoved, 1);
+  assert.equal(report.relevant.length, 1);
+});
+
+test("report keeps same-title notices when their email content differs", () => {
+  const notice = {
+    title: "五年級學生科學活動報名",
+    category: "活動/競賽",
+    listDate: "2026/08/21",
+    body: "五年級學生可參加，請家長於 2026/09/07 前完成報名。",
+  };
+  const report = buildReport([
+    { ...notice, originalUrl: "https://example.test/announcement/123" },
+    { ...notice, originalUrl: "https://example.test/announcement/456" },
+  ], now, 24);
+
+  assert.equal(report.counts.recent24h, 2);
+  assert.equal(report.counts.relevant, 2);
+  assert.equal(report.counts.duplicatesRemoved, 0);
+});
