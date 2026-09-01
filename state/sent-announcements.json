@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:41:11.023Z",
+  "updatedAt": "2026-09-01T12:47:10.241Z",
   "sentVersions": {
+    "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
+      "title": "115學年度第1學期臺北酷課雲多元增能培力班",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/01",
+      "updatedDate": "2026/09/01",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9688819d3a954f8e1b2968",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-01T12:47:10.241Z",
+      "lastSentAt": "2026-09-01T12:47:10.241Z",
+      "source": "smtp"
+    },
     "0cad5f3c411a7d8987b338f5882ea1e590cc68639de78ce9c2f6bef0332655d0": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
       "category": "研習進修",
@@ -10,7 +21,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94ce1712b311f4f58b8d53",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
     },
     "1425738956227a92fcb0c5bba73db8e83e24a54154308dae97e132f85f203910": {
@@ -21,8 +32,19 @@
       "originalUrl": "",
       "identityType": "fallback",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "1babc3fc54f1a5a9e5eccb881caaab5591a61316246596fa826632b8e6886f94": {
+      "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
+      "category": "研習進修",
+      "publishedDate": "2026/08/31",
+      "updatedDate": "2026/09/01",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94ce1712b311f4f58b8d53",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-01T12:47:10.241Z",
+      "lastSentAt": "2026-09-01T12:47:10.241Z",
+      "source": "smtp"
     },
     "2670e28dc6b77f16de1754f15e0d36d9087bdb6c9eff3cd5fa501c86c47096d2": {
       "title": "115學年度第1學期課後社團學生名單公告",
@@ -32,7 +54,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a90177127838bfec962ca8e",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "2cb8de97b053b1159568b00c26c30e017a76b5cd22f452d05dbc06183433febb": {
@@ -43,7 +65,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86bbf6674d8b2bc4d291e6",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-21T10:17:42.041Z",
-      "source": "log:logs\\2026-08-21\\scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
+      "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
     },
     "3099918bb5e6e083710e0b85e74c2c9d8498ea6fbbc5a649bd20a2e5f19fa3bf": {
@@ -54,7 +76,7 @@
       "originalUrl": "",
       "identityType": "fallback",
       "lastSentAt": "2026-08-21T10:17:42.041Z",
-      "source": "log:logs\\2026-08-21\\scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
+      "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T10:17:42.041Z"
     },
     "3e3980e0f4136feb0d4a41a6429577eae24ac7556b363aa1bb432433270a5501": {
@@ -65,7 +87,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a96470f796a1a43cb6ab3e9",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
     },
     "3fc5425789064070754cbe08ad012801e01491cf4de5bb0add002fcef143ccb8": {
@@ -76,7 +98,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a912908407c923d6c43978e",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "41d15066e952952fb6f8c3a5e75a28ef8b7a867d8a04b3a688f9015d7acb2dee": {
@@ -87,8 +109,19 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94dc35f9e25af6eb982a00",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
+    },
+    "454502c97422c7daa67475a8ce8e078cd284f707cfe4c51e2df3246dd4741ba2": {
+      "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/08/31",
+      "updatedDate": "2026/09/01",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94cedf01d073f5146b9b9c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-01T12:47:10.241Z",
+      "lastSentAt": "2026-09-01T12:47:10.241Z",
+      "source": "smtp"
     },
     "5a1f504fca319d3a6000dcb8a7e01ce9fc292c85c062984f3f0855fa17532470": {
       "title": "佳音教育基金會附設英語劇團甄選第23屆團員",
@@ -98,7 +131,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8e8201a696dca5b53482ea",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-27T08:46:07.499Z",
-      "source": "log:logs\\2026-08-27\\scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
+      "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "5af848f62e27f25aef0e2c700f9e92af035af0f3289becaca006f771fa637de9": {
@@ -109,7 +142,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a90f082faadcb24c35fb905",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "5b80826eb88b8a96838cb8a9d7859804ce963a9f58f93a269bae39de0b513f6f": {
@@ -120,7 +153,7 @@
       "originalUrl": "",
       "identityType": "fallback",
       "lastSentAt": "2026-08-27T08:46:07.499Z",
-      "source": "log:logs\\2026-08-27\\scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
+      "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "63fcf03475a8be65b34dbc1251598656a0374af3583d72043997f6ffc367436c": {
@@ -131,7 +164,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a955d8a90acbb14c042d89e",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
     },
     "6582d6c379d6c30cd31d4ea0f30a57ce77a1b939d2f03a8cee468d0237c28041": {
@@ -142,8 +175,19 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8f89edbb3e97d20d26a259",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "6737f18f5880db5c45923fa70a0b9e52d1e67295537dd3ee765d383d3eb08186": {
+      "title": "本市南區特教資源中心辦理115學年度第1學期「情緒行為障礙相關醫療及教育知能研習-在象山腳下,找回學習的興趣」",
+      "category": "研習進修",
+      "publishedDate": "2026/08/31",
+      "updatedDate": "2026/09/01",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94ec2fb987f3f30be81fc0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-01T12:47:10.241Z",
+      "lastSentAt": "2026-09-01T12:47:10.241Z",
+      "source": "smtp"
     },
     "6a6dc5a5fa59ee0fb9e1edadeb6349f99f7e73990e76870d3d355872e2e730d7": {
       "title": "本局辦理「臺北市AI無人機教育論壇」活動議程調整",
@@ -153,7 +197,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86652803cbcc17ea11b57a",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-21T10:17:42.041Z",
-      "source": "log:logs\\2026-08-21\\scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
+      "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
     },
     "6d45016d6bdc4e2de5fcbfab1bb81d7c2c5d44c63b9198fa29a6632ab8a08503": {
@@ -164,7 +208,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8fe79dae6831eb6116d1b0",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "7f215e3d542c11f42060152302a7ec64a35a06879193c26d975f9a67981d66c5": {
@@ -175,7 +219,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8e7f45a696dca5b53381a1",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-27T08:46:07.499Z",
-      "source": "log:logs\\2026-08-27\\scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
+      "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "81f2a50863badc8c26284d72cfe8291a8f36e7d5ec2cd8acf78679311294d03b": {
@@ -186,7 +230,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a87a15ee1ac27548224cb46",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-22T01:40:00.205Z",
-      "source": "log:logs\\2026-08-22\\scan-2026-08-22-093709-e400ad44-92f3-4d4b-bc65-9f801e36ffb1.json",
+      "source": "log:logs/2026-08-22/scan-2026-08-22-093709-e400ad44-92f3-4d4b-bc65-9f801e36ffb1.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
     },
     "828358c6baf6377dfa8e5856d18b0d335b5ea10cd03f0ed7e8cf8243f32d32f3": {
@@ -197,7 +241,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8fbb06fcb9b4e1fe363e21",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "952d71cd512bd60a68edf6b49e0b95eeb47cc96ac54d6744f4c2e3b85086a925": {
@@ -208,7 +252,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a91292c407c923d6c43a4e5",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "984fee1975e6960ad9885e7e3d7ef9f452bed3948a1200ec6a460d81d7511230": {
@@ -219,7 +263,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a90db4a45d4d8241116c6ba",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "9b38e60f55dae333088229e5fde3ddeec120a034554a0aabffa1466bfde93d63": {
@@ -230,7 +274,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8fc90b2636efe339fc7054",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "a6b123b10de1fe8d4fa02732d533dd981588fa3862f3eaadb46dba916869c071": {
@@ -241,7 +285,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a86ac4578f7f4255a18c562",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-21T10:17:42.041Z",
-      "source": "log:logs\\2026-08-21\\scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
+      "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
     },
     "a759a32bb308a44064f49cf70536471f6babce2b281c1cc99da635f188a97326": {
@@ -252,7 +296,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a962c003b2e663d56f75196",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
     },
     "ab9ee187ee29e35aa5dd40558115fe45d2b663bf3d17c0d698b16edd118a44ed": {
@@ -263,8 +307,19 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94ec2fb987f3f30be81fc0",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
+    },
+    "ac19301d35ee6953e8d6a733b3cb453f010e0d5dac3aa11646527b5f95403723": {
+      "title": "臺北市政府教育局「臺北市115學年度學生五項藝術比賽」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/08/31",
+      "updatedDate": "2026/09/01",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a95608f89b3771073b05c09",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-01T12:47:10.241Z",
+      "lastSentAt": "2026-09-01T12:47:10.241Z",
+      "source": "smtp"
     },
     "ace58d4364c77b4633d5553a23478972ed15c47acbb53d2faf6832735a0295e4": {
       "title": "「2026夏凱納聖誕雙語親子Party」活動",
@@ -274,7 +329,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8f8c83faa22dd8f246d11d",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "acfecb7318de3b174e58e510dfaa514bc9fb10ac493ec5cb41d4387ee6fc2bfb": {
@@ -285,7 +340,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8fbda20868e1e22b5f1ebf",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "ad3bea8635015412210985e1cc162817d7d3fb4e7aed24d3e7609e730318a159": {
@@ -296,7 +351,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8d8f8e55bd9778347539e6",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-26T01:47:34.283Z",
-      "source": "log:logs\\2026-08-26\\scan-2026-08-26-094427-556a971f-1cc0-4579-bede-54437f2cc3b4.json",
+      "source": "log:logs/2026-08-26/scan-2026-08-26-094427-556a971f-1cc0-4579-bede-54437f2cc3b4.json",
       "firstSentAt": "2026-08-26T01:47:34.283Z"
     },
     "b0e85ece2ead0fddb757c3bde641dadc7381ab47b2dc3b1345e64c81471198b6": {
@@ -307,7 +362,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a92ee841c02bf959e163fc2",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-30T04:57:41.674Z",
-      "source": "log:logs\\2026-08-30\\scan-2026-08-30-125458-5400ac61-5e85-49d5-a28a-7d6d163c3008.json",
+      "source": "log:logs/2026-08-30/scan-2026-08-30-125458-5400ac61-5e85-49d5-a28a-7d6d163c3008.json",
       "firstSentAt": "2026-08-30T04:57:41.674Z"
     },
     "b7a44d44de5a8906b26b88a687dcb4382bfc9650e204dd5046b369b094ff4033": {
@@ -318,7 +373,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8e4def5c254b9d3fd137c1",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-27T08:46:07.499Z",
-      "source": "log:logs\\2026-08-27\\scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
+      "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "b9dc5b3d03dce9d9882f7e39908741d36d58bca6134f348983874a2af53f2e00": {
@@ -329,7 +384,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9130d7809f2d3ff51c9c2f",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "be16687522feb6d4876e1588d3d75417c773dc2af824f822be89634049b32679": {
@@ -340,7 +395,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a94cedf01d073f5146b9b9c",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
     },
     "c38f7f3eeb270149588513d3901a1c26bbd90f2e03297af0b27bbbb0cbaabcd6": {
@@ -351,7 +406,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a90dc84183c5a21e3604698",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "d407da2a14597c9cf2a256c24e8bcd795cf0ba706303323e17cac7bfc855a30c": {
@@ -362,7 +417,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8fb31f7f51ccdfbeaf8fd2",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "d74ff1e670c5fdfc840328272fe4bbc49c74183f42230b862310589aafefeb65": {
@@ -373,7 +428,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a912d7b3f8de43e8d10614c",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "ddb69762f4bd1ba9bd1d8b24964d05c7eca2c6cb581ec802ad27375bdccb2a3a": {
@@ -384,7 +439,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a90f29cfaadcb24c3606345",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-29T06:45:01.887Z",
-      "source": "log:logs\\2026-08-29\\scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
+      "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
     "e68e7d976de9aae9f148a547a30ffe84f841e22cfa57c31679d7c6b8e1aadb95": {
@@ -395,7 +450,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a95608f89b3771073b05c09",
       "identityType": "originalUrl",
       "lastSentAt": "2026-09-01T04:41:11.023Z",
-      "source": "log:logs\\2026-09-01\\scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
+      "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
     },
     "e8334eecfddad27f722c65fd91778a6a5ed3e15cd745009a6043d89d3b49f3eb": {
@@ -406,7 +461,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8faeeea50fb7e13b1e9d37",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-28T10:58:36.073Z",
-      "source": "log:logs\\2026-08-28\\scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
+      "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
     "ff238012d04b98d5befe2927bca8cce8627628e19c956b7d0f4df734cb055ea0": {
@@ -417,7 +472,7 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a8e875dce7fb8a765d506b5",
       "identityType": "originalUrl",
       "lastSentAt": "2026-08-27T08:46:07.499Z",
-      "source": "log:logs\\2026-08-27\\scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
+      "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     }
   }
