@@ -11,6 +11,8 @@
 - 讀取表格的標題、單位、日期，並點入詳細頁取得內文、發佈／最後更新日期、附件與 `/nss/main/freeze/...` 原始連結。
 - RSS 與 rendered page 一併使用：RSS 提供較精確的發布時間與內容補強，但 RSS 或搜尋引擎不會被拿來單獨判定「今日無公告」。
 - 分頁若沒有真正切換就停止重讀；報表寄送前會移除 Email 顯示內容完全一致的公告，同標題但內容、期限或原始連結不同者仍保留。
+- 跨日寄送狀態保存在 `state/sent-announcements.json`：相同原始公告連結與更新日期只寄一次；更新日期改變時視為新版，可再次寄送。沒有原始連結時才以標題、分類與日期做 fallback。
+- 只有 Gmail SMTP 確認寄送成功後，才把本次公告寫入已寄送狀態。寄信失敗不會標記，下一次會重試；狀態遺失時可由歷史 `email.sent=true` 的掃描 log 自動重建。
 - 只有找到符合小五學生／家長條件的公告才寄信；收件地址由非公開的 `GMAIL_TO` Secret 提供，不寫入 repo。無相關公告、頁面讀取失敗、分類掃描不完整或寄信憑證缺失，都只寫 log，不寄掃描狀態信。
 - 每次執行會產生 `logs/latest.json` 及日期目錄下的歷史 JSON log；GitHub Actions 會把 log 上傳成 artifact 並提交回 repo。
 
@@ -36,8 +38,10 @@ npm test
 npm run scan
 ```
 
+需要從既有成功寄送 log 手動重建狀態時，可執行 `npm run bootstrap-state`。GitHub Actions 會把 `logs/` 與 `state/` 一起上傳成 artifact，並將更新後的狀態提交回 repo。
+
 不想在本地寄信時，不要設定 Gmail secrets；掃描仍會留下 log，但有相關公告時會記錄寄信失敗原因。GitHub Actions 每日執行預設使用 `DETAIL_SCAN_MODE=recent`，只對最近 24 小時候選公告讀取詳細頁；需要完整歷史詳細頁稽核時，才在本地設定 `DETAIL_SCAN_MODE=all`。
 
 ## Log 欄位
 
-`logs/latest.json` 包含：Asia/Taipei 執行時間、使用方法、公告頁與公告列表狀態、成功讀到的分類、最近 24 小時總數、符合條件數、略過數、完全一致公告去除數（`duplicatesRemoved`）、詳細頁成功／失敗數、符合公告完整資料、略過標題、RSS 狀態、寄信結果，以及 JavaScript shell 或讀取失敗摘要。
+`logs/latest.json` 包含：Asia/Taipei 執行時間、使用方法、公告頁與公告列表狀態、成功讀到的分類、最近 24 小時總數、符合條件數、本次新通知數（`newRelevant`）、已寄過而略過數（`alreadySent`）、同版本重複數、完全一致公告去除數（`duplicatesRemoved`）、詳細頁成功／失敗數、Email 實際包含的公告、已寄過公告、RSS 狀態、寄信結果、已寄送狀態讀寫結果，以及 JavaScript shell 或讀取失敗摘要。

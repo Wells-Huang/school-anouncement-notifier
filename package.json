@@ -10,6 +10,7 @@
   "scripts": {
     "start": "node src/main.js",
     "scan": "node src/main.js",
+    "bootstrap-state": "node scripts/bootstrap-sent-state.js",
     "test": "node --test"
   },
   "dependencies": {
