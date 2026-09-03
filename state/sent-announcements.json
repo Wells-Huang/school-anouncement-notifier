@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T12:47:10.243Z",
+  "updatedAt": "2026-09-03T04:02:34.138Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -56,6 +56,17 @@
       "lastSentAt": "2026-08-28T10:58:36.073Z",
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
+    },
+    "28538bbc1b9c7cf88097750c4cca026e149bf87ffe150e9da5553263b1c782bc": {
+      "title": "行天宮助學金專案、急難濟助辦法",
+      "category": "獎補助資訊",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98d4879eb8bdc3fda43690",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-03T04:02:34.138Z",
+      "lastSentAt": "2026-09-03T04:02:34.138Z",
+      "source": "smtp"
     },
     "2cb8de97b053b1159568b00c26c30e017a76b5cd22f452d05dbc06183433febb": {
       "title": "國際運算思維挑戰賽",
@@ -210,6 +221,17 @@
       "lastSentAt": "2026-08-28T10:58:36.073Z",
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "704c42b63d8707e39d15c307b615e661889281498d76bbbe2eb83a60fc146f12": {
+      "title": "115-1課後班異動截止重要通知",
+      "category": "校務公告",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98c041e30391c10bb63a71",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-03T04:02:34.138Z",
+      "lastSentAt": "2026-09-03T04:02:34.138Z",
+      "source": "smtp"
     },
     "7f215e3d542c11f42060152302a7ec64a35a06879193c26d975f9a67981d66c5": {
       "title": "臺北市溪山實驗國民小學115學年度第1學期發展藝術學校體驗課程開放外校學生申請",
@@ -408,6 +430,17 @@
       "lastSentAt": "2026-08-29T06:45:01.887Z",
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
+    },
+    "c941f0f94dee9f47722fb9d145b45fcf4b027856c702155b53fba25dba01609c": {
+      "title": "115學年度教育盃國民中小學網球錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98d8e913a65fc8f23232c4",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-03T04:02:34.138Z",
+      "lastSentAt": "2026-09-03T04:02:34.138Z",
+      "source": "smtp"
     },
     "d407da2a14597c9cf2a256c24e8bcd795cf0ba706303323e17cac7bfc855a30c": {
       "title": "中正國民中學115年度第1學期假日科學實驗探索營「國小組」及「國中組」",
