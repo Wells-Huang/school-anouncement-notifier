@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T04:02:34.138Z",
+  "updatedAt": "2026-09-04T04:07:33.698Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -65,7 +65,18 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98d4879eb8bdc3fda43690",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-03T04:02:34.138Z",
-      "lastSentAt": "2026-09-03T04:02:34.138Z",
+      "lastSentAt": "2026-09-03T04:02:34.140Z",
+      "source": "log:logs/2026-09-03/scan-2026-09-03-115921-0cb9c1e5-636d-4a4e-bbaa-e9d82feca53f.json"
+    },
+    "2c49b549a6ff6e2d2beabce81af9921c93cb5132174853464035b8e3063e7a5c": {
+      "title": "【轉知】日新自造教育及科技中心115學年度開放外校師生參訪暨體驗學習",
+      "category": "公文公告",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a99380dbc2c20da6d51799b",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-04T04:07:33.698Z",
+      "lastSentAt": "2026-09-04T04:07:33.698Z",
       "source": "smtp"
     },
     "2cb8de97b053b1159568b00c26c30e017a76b5cd22f452d05dbc06183433febb": {
@@ -89,6 +100,28 @@
       "lastSentAt": "2026-08-21T10:17:42.041Z",
       "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T10:17:42.041Z"
+    },
+    "329d9c28fc86a51ee35dedd1dfeb47fe7cce249f87eb459d85ca33040f917ca7": {
+      "title": "2027WMI世界數學邀請賽-臺灣選拔賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a992fddf2b967d9eec7af31",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-04T04:07:33.698Z",
+      "lastSentAt": "2026-09-04T04:07:33.698Z",
+      "source": "smtp"
+    },
+    "3a80430795a41fe6a53ff2f77eefd55303c2cebf4ea0470851c4f8ec259573db": {
+      "title": "行天宮助學金專案、急難濟助辦法",
+      "category": "獎補助資訊",
+      "publishedDate": "2026/09/03",
+      "updatedDate": "2026/09/03",
+      "originalUrl": "",
+      "identityType": "fallback",
+      "firstSentAt": "2026-09-04T04:07:33.698Z",
+      "lastSentAt": "2026-09-04T04:07:33.698Z",
+      "source": "smtp"
     },
     "3e3980e0f4136feb0d4a41a6429577eae24ac7556b363aa1bb432433270a5501": {
       "title": "【轉知】臺北市立北投國民中學自造教育及科技中心辦理「115學年度第一學期中小學教育參訪及學習課程活動」",
@@ -230,8 +263,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98c041e30391c10bb63a71",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-03T04:02:34.138Z",
-      "lastSentAt": "2026-09-03T04:02:34.138Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-03T04:02:34.140Z",
+      "source": "log:logs/2026-09-03/scan-2026-09-03-115921-0cb9c1e5-636d-4a4e-bbaa-e9d82feca53f.json"
     },
     "7f215e3d542c11f42060152302a7ec64a35a06879193c26d975f9a67981d66c5": {
       "title": "臺北市溪山實驗國民小學115學年度第1學期發展藝術學校體驗課程開放外校學生申請",
@@ -439,8 +472,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a98d8e913a65fc8f23232c4",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-03T04:02:34.138Z",
-      "lastSentAt": "2026-09-03T04:02:34.138Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-03T04:02:34.140Z",
+      "source": "log:logs/2026-09-03/scan-2026-09-03-115921-0cb9c1e5-636d-4a4e-bbaa-e9d82feca53f.json"
     },
     "d407da2a14597c9cf2a256c24e8bcd795cf0ba706303323e17cac7bfc855a30c": {
       "title": "中正國民中學115年度第1學期假日科學實驗探索營「國小組」及「國中組」",
