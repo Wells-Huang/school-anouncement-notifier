@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T04:00:40.454Z",
+  "updatedAt": "2026-09-06T04:07:02.478Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -230,8 +230,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9a4a6d54c83f125c6bcc5b",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-05T04:00:40.454Z",
-      "lastSentAt": "2026-09-05T04:00:40.454Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-05T04:00:40.457Z",
+      "source": "log:logs/2026-09-05/scan-2026-09-05-115758-da81d088-7c95-4a54-8514-c163853a8e8f.json"
     },
     "6737f18f5880db5c45923fa70a0b9e52d1e67295537dd3ee765d383d3eb08186": {
       "title": "本市南區特教資源中心辦理115學年度第1學期「情緒行為障礙相關醫療及教育知能研習-在象山腳下,找回學習的興趣」",
@@ -309,6 +309,17 @@
       "lastSentAt": "2026-08-28T10:58:36.073Z",
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
+      "title": "臺北市115學年度學生創意戲劇比賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/05",
+      "updatedDate": "2026/09/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9bcfdaaf85d06300a3203a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-06T04:07:02.478Z",
+      "lastSentAt": "2026-09-06T04:07:02.478Z",
+      "source": "smtp"
     },
     "952d71cd512bd60a68edf6b49e0b95eeb47cc96ac54d6744f4c2e3b85086a925": {
       "title": "【轉知】石牌自造教育及科技中心115學年度第一學期開放外校師生參訪體驗學習",
@@ -518,6 +529,17 @@
       "lastSentAt": "2026-08-29T06:45:01.887Z",
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
+    },
+    "e0bde5a64d0a4192d66c0d3c71af405b4b3e9253711a5030807aaa6bef1d225f": {
+      "title": "115年9月 「天文親子營」天文館一日遊活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/05",
+      "updatedDate": "2026/09/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9bd11f6a9d2c62ed9dec74",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-06T04:07:02.478Z",
+      "lastSentAt": "2026-09-06T04:07:02.478Z",
+      "source": "smtp"
     },
     "e68e7d976de9aae9f148a547a30ffe84f841e22cfa57c31679d7c6b8e1aadb95": {
       "title": "轉知臺北市政府教育局「臺北市115學年度學生五項藝術比賽」",
