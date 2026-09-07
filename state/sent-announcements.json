@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T04:07:02.478Z",
+  "updatedAt": "2026-09-07T04:06:34.927Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -24,6 +24,17 @@
       "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
     },
+    "1128d90bea50c25203291f44ea78ed8c4340ec38e0b92a582df0fa42ab29455f": {
+      "title": "士林區社子國民小學與臺北市教育關懷協會共同辦理「臺北市115學年度第1學期獨輪車實施計畫暨兒童專注力與SEL情緒管理訓練」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e08b2349dded3180a8092",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
+    },
     "1425738956227a92fcb0c5bba73db8e83e24a54154308dae97e132f85f203910": {
       "title": "臺北市115學年度學生音樂比賽實施計畫",
       "category": "活動/競賽",
@@ -46,6 +57,28 @@
       "lastSentAt": "2026-09-01T12:47:10.243Z",
       "source": "log:logs/2026-09-01/scan-2026-09-01-204420-cbe4b29e-5fae-49c7-a54d-3e3e3eff9737.json"
     },
+    "1cb45f628838bc17db6fc95bfa10df196f1081741ac8210b0b226ae4aa984212": {
+      "title": "「全國性第38屆孝悌楷模(含孝悌獎學金)選拔」",
+      "category": "獎補助資訊",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e33d0203affdbf92392be",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
+    },
+    "2241ed33465fde3951e74740cfc352b55cd5f7b2741928979b0908defb1eebc3": {
+      "title": "2026雙北公車友善月『畫出我們的友善公車』兒童繪畫比賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9df3d6d14b71c4e181b761",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
+    },
     "2670e28dc6b77f16de1754f15e0d36d9087bdb6c9eff3cd5fa501c86c47096d2": {
       "title": "115學年度第1學期課後社團學生名單公告",
       "category": "活動/競賽",
@@ -67,6 +100,17 @@
       "firstSentAt": "2026-09-03T04:02:34.138Z",
       "lastSentAt": "2026-09-04T04:07:33.700Z",
       "source": "log:logs/2026-09-04/scan-2026-09-04-120448-86e8af8c-a051-4e7e-9f70-bdc27f7041c6.json"
+    },
+    "29d6b5132c75e842b6f62a94ef229d53fc26489140b1e3327f49d58ae87f015f": {
+      "title": "2026年兒童認識勞動權益四格漫畫徵件競賽",
+      "category": "公文公告",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e2febaf912cd92ae0debe",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
     },
     "2c49b549a6ff6e2d2beabce81af9921c93cb5132174853464035b8e3063e7a5c": {
       "title": "【轉知】日新自造教育及科技中心115學年度開放外校師生參訪暨體驗學習",
@@ -166,6 +210,17 @@
       "firstSentAt": "2026-09-01T12:47:10.241Z",
       "lastSentAt": "2026-09-01T12:47:10.243Z",
       "source": "log:logs/2026-09-01/scan-2026-09-01-204420-cbe4b29e-5fae-49c7-a54d-3e3e3eff9737.json"
+    },
+    "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
+      "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e3251730673dbab1c9172",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
     },
     "5a1f504fca319d3a6000dcb8a7e01ce9fc292c85c062984f3f0855fa17532470": {
       "title": "佳音教育基金會附設英語劇團甄選第23屆團員",
@@ -318,8 +373,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9bcfdaaf85d06300a3203a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-06T04:07:02.478Z",
-      "lastSentAt": "2026-09-06T04:07:02.478Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-06T04:07:02.479Z",
+      "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
     },
     "952d71cd512bd60a68edf6b49e0b95eeb47cc96ac54d6744f4c2e3b85086a925": {
       "title": "【轉知】石牌自造教育及科技中心115學年度第一學期開放外校師生參訪體驗學習",
@@ -464,6 +519,17 @@
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
+    "bc8dc97ccb2535b18ba96dacaa9d9da054599ac629a5ea48bf93664d2e7e59dd": {
+      "title": "115學年度第1學期臺北市戶外教育「芝山岩定向運動」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e30e763d062dad0ba6967",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
+    },
     "be16687522feb6d4876e1588d3d75417c773dc2af824f822be89634049b32679": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
       "category": "活動/競賽",
@@ -474,6 +540,17 @@
       "lastSentAt": "2026-09-01T04:41:11.023Z",
       "source": "log:logs/2026-09-01/scan-2026-09-01-123749-9898a1b7-fd99-4a29-9f39-376afda1dfa9.json",
       "firstSentAt": "2026-08-31T05:02:13.265Z"
+    },
+    "c10ed7c9741eae764749fc93580a58d84620fd6023a3aba0160e06796e5e0e77": {
+      "title": "「全國性第38屆孝悌楷模(含孝悌獎學金)選拔」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "",
+      "identityType": "fallback",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
     },
     "c38f7f3eeb270149588513d3901a1c26bbd90f2e03297af0b27bbbb0cbaabcd6": {
       "title": "115學年度第1學期「臺北市原住民學生教育補助」",
@@ -496,6 +573,17 @@
       "firstSentAt": "2026-09-03T04:02:34.138Z",
       "lastSentAt": "2026-09-04T04:07:33.700Z",
       "source": "log:logs/2026-09-04/scan-2026-09-04-120448-86e8af8c-a051-4e7e-9f70-bdc27f7041c6.json"
+    },
+    "cfd01b325d8846d1c5d5293aa35842182d5ddd4ae9dcb0ab8ec80811999585c8": {
+      "title": "「全國性第38屆孝悌楷模(含孝悌獎學金)選拔」",
+      "category": "獎補助資訊",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "",
+      "identityType": "fallback",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
+      "source": "smtp"
     },
     "d407da2a14597c9cf2a256c24e8bcd795cf0ba706303323e17cac7bfc855a30c": {
       "title": "中正國民中學115年度第1學期假日科學實驗探索營「國小組」及「國中組」",
@@ -538,7 +626,18 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9bd11f6a9d2c62ed9dec74",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-06T04:07:02.478Z",
-      "lastSentAt": "2026-09-06T04:07:02.478Z",
+      "lastSentAt": "2026-09-06T04:07:02.479Z",
+      "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
+    },
+    "e4c7bab2d1da5a01c27d7ba8ed9f1508203ce79754b0763fa053f0077bcc50f7": {
+      "title": "公共電視兒少科普節目「鹹魚小隊第三季」舉辦之徵選活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/07",
+      "updatedDate": "2026/09/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6a9e2edcaf912cd92ae08c22",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-07T04:06:34.927Z",
+      "lastSentAt": "2026-09-07T04:06:34.927Z",
       "source": "smtp"
     },
     "e68e7d976de9aae9f148a547a30ffe84f841e22cfa57c31679d7c6b8e1aadb95": {
