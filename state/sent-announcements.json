@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T04:11:51.079Z",
+  "updatedAt": "2026-09-14T04:29:49.230Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -386,6 +386,17 @@
       "lastSentAt": "2026-08-27T08:46:07.499Z",
       "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "5a62f6351d26d05ef3d72c5118bc7d5732470f2cf2925a72e1b93c2a39212da6": {
+      "title": "臺北市116學年度國民小學一般智能【資賦優異學生鑑定】安置計畫",
+      "category": "校務公告",
+      "publishedDate": "2026/09/14",
+      "updatedDate": "2026/09/14",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aa3a6e9b90b510c83ce77b3",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-14T04:29:49.230Z",
+      "lastSentAt": "2026-09-14T04:29:49.230Z",
+      "source": "smtp"
     },
     "5af848f62e27f25aef0e2c700f9e92af035af0f3289becaca006f771fa637de9": {
       "title": "台北市政府教育局認助清寒學生基金會",
