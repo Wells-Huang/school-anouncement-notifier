@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T04:29:49.230Z",
+  "updatedAt": "2026-09-15T04:30:35.578Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -395,8 +395,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aa3a6e9b90b510c83ce77b3",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-14T04:29:49.230Z",
-      "lastSentAt": "2026-09-14T04:29:49.230Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-14T04:29:49.231Z",
+      "source": "log:logs/2026-09-14/scan-2026-09-14-122701-9b071060-413f-4e0a-b3e6-106350dbe3fb.json"
     },
     "5af848f62e27f25aef0e2c700f9e92af035af0f3289becaca006f771fa637de9": {
       "title": "台北市政府教育局認助清寒學生基金會",
@@ -706,6 +706,17 @@
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
+    "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
+      "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
+      "category": "研習進修",
+      "publishedDate": "2026/09/15",
+      "updatedDate": "2026/09/15",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aa8c79ade6cc115d3a684ee",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-15T04:30:35.578Z",
+      "lastSentAt": "2026-09-15T04:30:35.578Z",
+      "source": "smtp"
+    },
     "a3ac57d99d97429ac90b455f52340d9ab97f54c07dca3db6e769da4f3903364c": {
       "title": "徐匯高級中學辦理「徐匯OPEN DAY」特色課程活動",
       "category": "活動/競賽",
@@ -837,6 +848,17 @@
       "lastSentAt": "2026-08-27T08:46:07.499Z",
       "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "b8c9f41079591b05395215b2d4ef4572f47bccada0eba653eb23097c131a38dc": {
+      "title": "【轉知】臺北市新興科技中心於115學年度第1學期開放外校師生免費參訪暨體驗學習",
+      "category": "公文公告",
+      "publishedDate": "2026/09/15",
+      "updatedDate": "2026/09/15",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aa8c935e2a0a2166cf9ae94",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-15T04:30:35.578Z",
+      "lastSentAt": "2026-09-15T04:30:35.578Z",
+      "source": "smtp"
     },
     "b9dc5b3d03dce9d9882f7e39908741d36d58bca6134f348983874a2af53f2e00": {
       "title": "龍山自造教育及科技中心辦理「115學年度第1學期國小週三學生體驗課程」",
@@ -1046,6 +1068,17 @@
       "lastSentAt": "2026-08-28T10:58:36.073Z",
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "fd40a7e475750ea71bb1e32727a1f6a3dc5c717033fcdf69b0ede687162d7e3f": {
+      "title": "視障教育資源中心「AI工具應用於視障教材製作」研習計畫",
+      "category": "研習進修",
+      "publishedDate": "2026/09/14",
+      "updatedDate": "2026/09/14",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aa7b45130ddf3deb5364b2a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-15T04:30:35.578Z",
+      "lastSentAt": "2026-09-15T04:30:35.578Z",
+      "source": "smtp"
     },
     "fd7390685b12ddb76909ec28e825f0b240ff81a8967db1e93591f3cf61ee5727": {
       "title": "國立臺灣藝術教育館辦理「115年度特殊教育學生『藝植綻放』藝術聯展」",
