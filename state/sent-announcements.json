@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T04:12:39.037Z",
+  "updatedAt": "2026-09-21T04:30:05.493Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -343,6 +343,17 @@
       "lastSentAt": "2026-09-04T04:07:33.700Z",
       "source": "log:logs/2026-09-04/scan-2026-09-04-120448-86e8af8c-a051-4e7e-9f70-bdc27f7041c6.json"
     },
+    "3cce41ca1e67b77b361e548c2cf698e8ae456a80a6e4b336d393c2e01e1dfdb6": {
+      "title": "臺北市家庭教育中心115年第4季「樂活家庭講座」",
+      "category": "研習進修",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab084a62c77d1a403308772",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-21T04:30:05.493Z",
+      "lastSentAt": "2026-09-21T04:30:05.493Z",
+      "source": "smtp"
+    },
     "3da79a306d1c9d7b3424e1cfe440c1499876c2d08d0257a9185d2f504f9a2db1": {
       "title": "115年「國際無車日系列活動-學生低碳通學」活動",
       "category": "活動/競賽",
@@ -419,6 +430,17 @@
       "firstSentAt": "2026-09-12T04:11:51.078Z",
       "lastSentAt": "2026-09-12T04:11:51.079Z",
       "source": "log:logs/2026-09-12/scan-2026-09-12-120832-9582ec32-2436-414e-b8ed-5804341d3246.json"
+    },
+    "49f71c146b58a350c9239eebd55cff11d6b201b619d404b621dde6f25776ec0f": {
+      "title": "【轉知】內政部移民署辦理「培力同行 無限10年」活動,鼓勵僑外生踴躍報名參加",
+      "category": "公文公告",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0813e734f22a422c3ef57",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-21T04:30:05.493Z",
+      "lastSentAt": "2026-09-21T04:30:05.493Z",
+      "source": "smtp"
     },
     "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
       "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
