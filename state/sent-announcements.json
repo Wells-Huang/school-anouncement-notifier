@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T04:30:05.493Z",
+  "updatedAt": "2026-09-22T04:26:23.749Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -156,6 +156,17 @@
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
     },
+    "1e9d2854cc8e221ea055f99ea566cb271280d40a72569f18d0fd3b9c541f5889": {
+      "title": "財團法人永長興社會福利慈善基金會「115學年度第一學期體育學生獎助學金辦法」",
+      "category": "獎補助資訊",
+      "publishedDate": "2026/09/22",
+      "updatedDate": "2026/09/22",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab1e12a56e3aaeaadddcc9a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
     "1ef4818a99d0b0b49dda24fb393030cd1777a42ffbc2b73b612cbcd78afa8bbb": {
       "title": "【轉知】本府衛生局及社會局提供身心障礙者相關照顧服務宣導資料",
       "category": "公文公告",
@@ -233,6 +244,17 @@
       "lastSentAt": "2026-09-10T04:12:47.748Z",
       "source": "log:logs/2026-09-10/scan-2026-09-10-120944-b89d0681-cf79-43bf-b84e-e280549630a2.json"
     },
+    "2bb6a46a8086025df4818042e50224f1ab891e5b5167648c869a74ce9b25ff76": {
+      "title": "第六屆「慈濟xPaGamO【臺北市】縣市盃環保防災勇士PK賽」相關系列活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0df81dd8235b7359989c7",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
     "2c49b549a6ff6e2d2beabce81af9921c93cb5132174853464035b8e3063e7a5c": {
       "title": "【轉知】日新自造教育及科技中心115學年度開放外校師生參訪暨體驗學習",
       "category": "公文公告",
@@ -287,6 +309,17 @@
       "firstSentAt": "2026-09-08T04:08:23.052Z",
       "lastSentAt": "2026-09-09T04:15:19.027Z",
       "source": "log:logs/2026-09-09/scan-2026-09-09-121227-e783b05f-6c9f-4218-ab67-4b066a5565c0.json"
+    },
+    "329bcfcf27a0480dc85352afb5470823d24dfd02c009452e3763a2fc2f590759": {
+      "title": "「臺北市115年度提升教育人員兒少保護、 家庭暴力、性侵害暨性騷擾課程教學組實施計畫」研習活動",
+      "category": "研習進修",
+      "publishedDate": "2026/09/22",
+      "updatedDate": "2026/09/22",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab1e58a9de9bfec45ed072a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
     },
     "329d9c28fc86a51ee35dedd1dfeb47fe7cce249f87eb459d85ca33040f917ca7": {
       "title": "2027WMI世界數學邀請賽-臺灣選拔賽",
@@ -351,8 +384,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab084a62c77d1a403308772",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-21T04:30:05.493Z",
-      "lastSentAt": "2026-09-21T04:30:05.493Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-21T04:30:05.495Z",
+      "source": "log:logs/2026-09-21/scan-2026-09-21-122710-62832c9b-98be-4383-af57-8ae632bc6157.json"
     },
     "3da79a306d1c9d7b3424e1cfe440c1499876c2d08d0257a9185d2f504f9a2db1": {
       "title": "115年「國際無車日系列活動-學生低碳通學」活動",
@@ -439,8 +472,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0813e734f22a422c3ef57",
       "identityType": "originalUrl",
       "firstSentAt": "2026-09-21T04:30:05.493Z",
-      "lastSentAt": "2026-09-21T04:30:05.493Z",
-      "source": "smtp"
+      "lastSentAt": "2026-09-21T04:30:05.495Z",
+      "source": "log:logs/2026-09-21/scan-2026-09-21-122710-62832c9b-98be-4383-af57-8ae632bc6157.json"
     },
     "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
       "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
@@ -452,6 +485,28 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "521d30558c306bbef9013bb7837994361b6091131e5b9bafeea24829c02c801e": {
+      "title": "教育部辦理「115年度數位/網路性別暴力防治短影音暨海報繪畫比賽」人氣票選活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/22",
+      "updatedDate": "2026/09/22",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab1ddd8807872e902f30542",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
+    "52f83a4a41056aae9cf7f399955ef7834025924dcdc7e20a7d329f8f4fcd0c0b": {
+      "title": "臺北市私立靜修高中國中部招生說明會",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0f235b1526bbbfe1e7f01",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
     },
     "53930c4bb07bea7af89fe7b9e064a28219c16b8d2dcc55caed8490aacdd696d2": {
       "title": "115年度「臺北市本土小學堂」教學活動教案甄選計畫",
@@ -816,6 +871,17 @@
       "lastSentAt": "2026-09-06T04:07:02.479Z",
       "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
     },
+    "8b7a94a68bf907871b4a2100450e6f4f98cfc8f41af21ad83065c19c88dcd77f": {
+      "title": "台灣展翅協會 X 台灣微軟《數位素養與網路安全》國中小教師線上研習",
+      "category": "研習進修",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0da37f1226ab65c6bc582",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
     "945797c6a3efebebeddca70d41a3bdbf78d78aa6753ac6ab13a6a9103b6406ff": {
       "title": "國立臺灣師範大學辦理「特定群體資優學生鑑定與輔導」線上研習",
       "category": "研習進修",
@@ -948,6 +1014,17 @@
       "lastSentAt": "2026-09-19T04:12:39.037Z",
       "source": "log:logs/2026-09-19/scan-2026-09-19-120945-e7a1c475-3cd0-4ef9-881b-0d85380ce24c.json"
     },
+    "a9fb61f19f04a099d153249a2c01656662234a74e3966f5959ae8098ce3d005b": {
+      "title": "第六屆「慈濟xPaGamO【臺北市】縣市盃環保防災勇士PK賽」相關系列活動—優良「校園永續教學活動評選獎 勵」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0dd5af1226ab65c6cdc22",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
     "ab749ea6227371f6d8f8284e3a340acb5e30c67622f1d8c91d213474ccbdda0d": {
       "title": "【轉知】教育部「116年表揚推展本土語言傑出貢獻獎」徵件",
       "category": "公文公告",
@@ -958,6 +1035,17 @@
       "firstSentAt": "2026-09-10T04:12:47.746Z",
       "lastSentAt": "2026-09-10T04:12:47.748Z",
       "source": "log:logs/2026-09-10/scan-2026-09-10-120944-b89d0681-cf79-43bf-b84e-e280549630a2.json"
+    },
+    "ab8273a6d83df27a73f8774e289dde9e3e06fdbb0f6b4835ed3a1e8d7c55873e": {
+      "title": "臺北市立實踐國民中學115學年度第1學期心靈成長課程流動的愛家族系統排列工作坊",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0f5b01f1c62b95ab073da",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
     },
     "ab9ee187ee29e35aa5dd40558115fe45d2b663bf3d17c0d698b16edd118a44ed": {
       "title": "本市南區特教資源中心辦理115學年度第1學期「情緒行為障礙相關醫療及教育知能研習-在象山腳下,找回學習的興趣」",
@@ -1212,6 +1300,17 @@
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
+    "d8a994739bc97ece91ab87dbd24ec49b506a8e273004fff4e15ad1f9a7ecc806": {
+      "title": "教育部辦理「全民數位素養自我評量」活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0e360799711b8a9669cda",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
     "ddb69762f4bd1ba9bd1d8b24964d05c7eca2c6cb581ec802ad27375bdccb2a3a": {
       "title": "115學年度第1學期「安心就學溫馨輔導實施計畫」,申請到9/03(四)",
       "category": "獎補助資訊",
@@ -1321,6 +1420,28 @@
       "firstSentAt": "2026-09-17T04:31:52.147Z",
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
+    },
+    "f82b9db454d617c60b5825018d7277965786fd1e4319b013ecd9e514fd4d9380": {
+      "title": "新北市私立淡江高級中學附設國中部116學年度小五、小六獎學金測驗招生活動訊息",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0f1bf2a39e8bb29748de3",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
+    },
+    "f9fe4640047f9c49eb6304100723f0d13b941073f6a63b14a657b5d40911876a": {
+      "title": "信誼基金會【解讀0-8歲社會情緒發展軌跡與SEL教養策略/臺師大兒童社會情緒發展專家程景琳教授】免費親職講座",
+      "category": "活動/競賽",
+      "publishedDate": "2026/09/21",
+      "updatedDate": "2026/09/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ab0efc0ccdc5cb6ba21f597",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-09-22T04:26:23.749Z",
+      "lastSentAt": "2026-09-22T04:26:23.749Z",
+      "source": "smtp"
     },
     "fd40a7e475750ea71bb1e32727a1f6a3dc5c717033fcdf69b0ede687162d7e3f": {
       "title": "視障教育資源中心「AI工具應用於視障教材製作」研習計畫",
