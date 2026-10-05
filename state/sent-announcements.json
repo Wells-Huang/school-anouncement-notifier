@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T04:54:10.616Z",
+  "updatedAt": "2026-10-05T05:10:12.548Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -23,6 +23,17 @@
       "firstSentAt": "2026-09-11T04:11:45.999Z",
       "lastSentAt": "2026-09-11T04:11:46.001Z",
       "source": "log:logs/2026-09-11/scan-2026-09-11-120840-2fbaf931-363f-4f83-a3bf-c02db7cf477f.json"
+    },
+    "031d4197bb7f8ad62144fae7d9a35b409d8fc59484d28ab55187511b069802d0": {
+      "title": "【轉知】衛生福利部健康幣自115年10月1日起推動實施,預防接種為能夠累積健康幣的項目之一",
+      "category": "公文公告",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac30cfa102737cdbe24175a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-05T05:10:12.548Z",
+      "lastSentAt": "2026-10-05T05:10:12.548Z",
+      "source": "smtp"
     },
     "03c0943365c326ace290dc9314c1fb50ed96e9424c69948c4d82469aaf2d7e70": {
       "title": "【轉知】116學年度芳和實驗中學新生入學說明會與網路登記報名",
@@ -232,6 +243,17 @@
       "firstSentAt": "2026-09-12T04:11:51.078Z",
       "lastSentAt": "2026-09-12T04:11:51.079Z",
       "source": "log:logs/2026-09-12/scan-2026-09-12-120832-9582ec32-2436-414e-b8ed-5804341d3246.json"
+    },
+    "203cf5e4937af3f2e936bec7dcb97a0e3ba944e9370d6533b75c4aa50f72588b": {
+      "title": "115 年臺北市全國學校盃西洋棋團體錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f5aae1fe35cd3066c1bf",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-05T05:10:12.548Z",
+      "lastSentAt": "2026-10-05T05:10:12.548Z",
+      "source": "smtp"
     },
     "20fc100a6b05b41725a5647f3988328f8d9608da39a5429378c28a020fbd4c7a": {
       "title": "財團法人永長興社會福利慈善基金會「贊助體育團隊參賽補助辦法」",
@@ -749,6 +771,28 @@
       "lastSentAt": "2026-08-27T08:46:07.499Z",
       "source": "log:logs/2026-08-27/scan-2026-08-27-164302-c0c33d4a-f239-4029-8085-fc44290188bd.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "601ec0779f70df525f20435ec922ce75fd86bbcf0e07fdd5d0a84bab49c1d6bb": {
+      "title": "「臺北市115學年度藝術才能(資優)班教師『跨領域美感教育專題探究課程設計實務』系列研習",
+      "category": "研習進修",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f8966a56e8cc35e65989",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-05T05:10:12.548Z",
+      "lastSentAt": "2026-10-05T05:10:12.548Z",
+      "source": "smtp"
+    },
+    "611b4133f58c3c72135d3a390a5025817329ec3904a47c7080a26bd6f5206a56": {
+      "title": "臺北市115年國民小學地板曲棍球體驗活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f3427d392acc221aece6",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-05T05:10:12.548Z",
+      "lastSentAt": "2026-10-05T05:10:12.548Z",
+      "source": "smtp"
     },
     "61a008b6d50e2db464c19453ad1e624113d898cb46f88a245c89e7f9edda1b3a": {
       "title": "【轉知】10月3場「金融基礎教育教材」推廣工作坊規劃",
