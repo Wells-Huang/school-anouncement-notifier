@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T05:10:12.548Z",
+  "updatedAt": "2026-10-06T05:56:55.468Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -32,8 +32,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac30cfa102737cdbe24175a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.548Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-05T05:10:12.550Z",
+      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
     },
     "03c0943365c326ace290dc9314c1fb50ed96e9424c69948c4d82469aaf2d7e70": {
       "title": "【轉知】116學年度芳和實驗中學新生入學說明會與網路登記報名",
@@ -252,8 +252,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f5aae1fe35cd3066c1bf",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.548Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-05T05:10:12.550Z",
+      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
     },
     "20fc100a6b05b41725a5647f3988328f8d9608da39a5429378c28a020fbd4c7a": {
       "title": "財團法人永長興社會福利慈善基金會「贊助體育團隊參賽補助辦法」",
@@ -485,6 +485,17 @@
       "firstSentAt": "2026-09-11T04:11:45.999Z",
       "lastSentAt": "2026-09-11T04:11:46.001Z",
       "source": "log:logs/2026-09-11/scan-2026-09-11-120840-2fbaf931-363f-4f83-a3bf-c02db7cf477f.json"
+    },
+    "38829dab9a2b9234839e811f1df3f6c0b2f4cbecf95f2912ec3dc6d75153d11b": {
+      "title": "116年度寒假國中、小生職業輔導研習營",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/06",
+      "updatedDate": "2026/10/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac454b0276c2d1437e4591f",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-06T05:56:55.468Z",
+      "lastSentAt": "2026-10-06T05:56:55.468Z",
+      "source": "smtp"
     },
     "3a80430795a41fe6a53ff2f77eefd55303c2cebf4ea0470851c4f8ec259573db": {
       "title": "行天宮助學金專案、急難濟助辦法",
@@ -780,8 +791,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f8966a56e8cc35e65989",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.548Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-05T05:10:12.550Z",
+      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
     },
     "611b4133f58c3c72135d3a390a5025817329ec3904a47c7080a26bd6f5206a56": {
       "title": "臺北市115年國民小學地板曲棍球體驗活動",
@@ -791,8 +802,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f3427d392acc221aece6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.548Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-05T05:10:12.550Z",
+      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
     },
     "61a008b6d50e2db464c19453ad1e624113d898cb46f88a245c89e7f9edda1b3a": {
       "title": "【轉知】10月3場「金融基礎教育教材」推廣工作坊規劃",
@@ -1080,6 +1091,17 @@
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
     },
+    "81a7149e9555a4343e3536f40d964aacbdd156434fd3f13dcd73f4b8772fda43": {
+      "title": "公告台積電孝道親子工作坊錄取名單",
+      "category": "校務公告",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac358e21e6cbde2b0fa254c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-06T05:56:55.468Z",
+      "lastSentAt": "2026-10-06T05:56:55.468Z",
+      "source": "smtp"
+    },
     "81f2a50863badc8c26284d72cfe8291a8f36e7d5ec2cd8acf78679311294d03b": {
       "title": "115學年度「校際交流互訪活動」報名公告",
       "category": "活動/競賽",
@@ -1267,6 +1289,17 @@
       "source": "log:logs/2026-09-01/scan-2026-09-01-204420-cbe4b29e-5fae-49c7-a54d-3e3e3eff9737.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
     },
+    "a7df31e6fb5cbf075b21cf223f01f59efa8f62446eb8ffeddcb4739dac74efef": {
+      "title": "115年教育部因材網「健體小達人」活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/05",
+      "updatedDate": "2026/10/05",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac3685dfb1097e23113dcb9",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-06T05:56:55.468Z",
+      "lastSentAt": "2026-10-06T05:56:55.468Z",
+      "source": "smtp"
+    },
     "a8e9e7e6f40230a250269568e071de14fadb76b034bbbb469bd92b0bf3b28c3a": {
       "title": "2026「小公民大行動」小學生關懷社會行動方案徵選活動",
       "category": "活動/競賽",
@@ -1398,6 +1431,17 @@
       "lastSentAt": "2026-08-30T04:57:41.674Z",
       "source": "log:logs/2026-08-30/scan-2026-08-30-125458-5400ac61-5e85-49d5-a28a-7d6d163c3008.json",
       "firstSentAt": "2026-08-30T04:57:41.674Z"
+    },
+    "b2996d5dcb16ad367f513cd94d84cbc4fd2ec153185bbde2d3bb04465d4746a6": {
+      "title": "115年度國民小學「社會情緒學習SEL議題」分區親職教育系列講座",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/06",
+      "updatedDate": "2026/10/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac45c03ca347a14da65c4b5",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-06T05:56:55.468Z",
+      "lastSentAt": "2026-10-06T05:56:55.468Z",
+      "source": "smtp"
     },
     "b5661e9ea66b2c5e4c7f8e61c2c4ac25291b1f0d2a4e1a3f3bccf6445e5686fe": {
       "title": "115年臺北市學童高度近視防治服務視力保健衛教講座",
