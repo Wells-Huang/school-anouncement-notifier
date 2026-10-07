@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T05:56:55.468Z",
+  "updatedAt": "2026-10-07T05:29:36.231Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -32,8 +32,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac30cfa102737cdbe24175a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.550Z",
-      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "03c0943365c326ace290dc9314c1fb50ed96e9424c69948c4d82469aaf2d7e70": {
       "title": "【轉知】116學年度芳和實驗中學新生入學說明會與網路登記報名",
@@ -252,8 +252,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f5aae1fe35cd3066c1bf",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.550Z",
-      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "20fc100a6b05b41725a5647f3988328f8d9608da39a5429378c28a020fbd4c7a": {
       "title": "財團法人永長興社會福利慈善基金會「贊助體育團隊參賽補助辦法」",
@@ -442,6 +442,17 @@
       "lastSentAt": "2026-10-03T04:54:10.616Z",
       "source": "log:logs/2026-10-03/scan-2026-10-03-125123-bfdd2ea3-574b-48ba-be28-41690972ed2b.json"
     },
+    "34650003723777d3f1f5dcc7966acdaa55445389ca93bdc3c063321a57b835a3": {
+      "title": "國教署委請國立臺灣師範大學辦理「『食農教育、社會情緒學習、年齡平權與世代共融』議題融入領域教材教法設計徵選實施計畫」",
+      "category": "研習進修",
+      "publishedDate": "2026/10/06",
+      "updatedDate": "2026/10/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4aa433877f625be1a2754",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-07T05:29:36.231Z",
+      "lastSentAt": "2026-10-07T05:29:36.231Z",
+      "source": "smtp"
+    },
     "34a8718916b6c14f0c6d562e7e9e55ab63946b27d765c829ddcef9c5091984d9": {
       "title": "【轉知】中國文化大學推廣教育部終身學習中心辦理「臺灣台語語言能力認證【考試輔導班】【實體/遠距】」",
       "category": "公文公告",
@@ -494,8 +505,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac454b0276c2d1437e4591f",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.468Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "3a80430795a41fe6a53ff2f77eefd55303c2cebf4ea0470851c4f8ec259573db": {
       "title": "行天宮助學金專案、急難濟助辦法",
@@ -628,6 +639,17 @@
       "firstSentAt": "2026-09-21T04:30:05.493Z",
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
+    },
+    "4a6424773aed733a11c400771e92fe8ca05445d977b9d91c6e7b9ef0d3af5412": {
+      "title": "115年「臺北GO健康校園挑戰賽」系列活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/07",
+      "updatedDate": "2026/10/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac595c56439524de0389909",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-07T05:29:36.231Z",
+      "lastSentAt": "2026-10-07T05:29:36.231Z",
+      "source": "smtp"
     },
     "4ba866839ca9faa12d8c8cdf7e734d7206dbfc791ed235476c14bbbf9c866998": {
       "title": "115學年度古亭國小體育表演會學生志工徵選",
@@ -791,8 +813,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f8966a56e8cc35e65989",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.550Z",
-      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "611b4133f58c3c72135d3a390a5025817329ec3904a47c7080a26bd6f5206a56": {
       "title": "臺北市115年國民小學地板曲棍球體驗活動",
@@ -802,8 +824,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac2f3427d392acc221aece6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-05T05:10:12.548Z",
-      "lastSentAt": "2026-10-05T05:10:12.550Z",
-      "source": "log:logs/2026-10-05/scan-2026-10-05-130721-bec363f2-1925-462e-b35a-397d5664364e.json"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "61a008b6d50e2db464c19453ad1e624113d898cb46f88a245c89e7f9edda1b3a": {
       "title": "【轉知】10月3場「金融基礎教育教材」推廣工作坊規劃",
@@ -1099,8 +1121,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac358e21e6cbde2b0fa254c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.468Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "81f2a50863badc8c26284d72cfe8291a8f36e7d5ec2cd8acf78679311294d03b": {
       "title": "115學年度「校際交流互訪活動」報名公告",
@@ -1297,8 +1319,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac3685dfb1097e23113dcb9",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.468Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "a8e9e7e6f40230a250269568e071de14fadb76b034bbbb469bd92b0bf3b28c3a": {
       "title": "2026「小公民大行動」小學生關懷社會行動方案徵選活動",
@@ -1440,8 +1462,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac45c03ca347a14da65c4b5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.468Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-06T05:56:55.470Z",
+      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
     "b5661e9ea66b2c5e4c7f8e61c2c4ac25291b1f0d2a4e1a3f3bccf6445e5686fe": {
       "title": "115年臺北市學童高度近視防治服務視力保健衛教講座",
@@ -1718,6 +1740,17 @@
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
     },
+    "de8ab8213955730b30a7aff262363bd6575ef4b5fb911b0e7e6b044514e23f4a": {
+      "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/10/06",
+      "updatedDate": "2026/10/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4ccd25d52c82d89605189",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-07T05:29:36.231Z",
+      "lastSentAt": "2026-10-07T05:29:36.231Z",
+      "source": "smtp"
+    },
     "e0bde5a64d0a4192d66c0d3c71af405b4b3e9253711a5030807aaa6bef1d225f": {
       "title": "115年9月 「天文親子營」天文館一日遊活動",
       "category": "活動/競賽",
@@ -1728,6 +1761,17 @@
       "firstSentAt": "2026-09-06T04:07:02.478Z",
       "lastSentAt": "2026-09-06T04:07:02.479Z",
       "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
+    },
+    "e2405f352abce38545b01237f265bbeb050b688df9a7af9e19394e028dc770d4": {
+      "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/10/06",
+      "updatedDate": "2026/10/07",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4ccd25d52c82d89605189",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-07T05:29:36.231Z",
+      "lastSentAt": "2026-10-07T05:29:36.231Z",
+      "source": "smtp"
     },
     "e4a8b7abff145fa9e9a7dccb3e11275b7355d94f601cf7362d865aca900019fa": {
       "title": "第十六屆「閱讀評量與教學」理論與實務研討會「融入SEL的閱讀課程教學」",
