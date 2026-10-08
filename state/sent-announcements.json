@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T05:29:36.231Z",
+  "updatedAt": "2026-10-08T05:39:30.288Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -450,8 +450,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4aa433877f625be1a2754",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-07T05:29:36.231Z",
-      "lastSentAt": "2026-10-07T05:29:36.231Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "34a8718916b6c14f0c6d562e7e9e55ab63946b27d765c829ddcef9c5091984d9": {
       "title": "【轉知】中國文化大學推廣教育部終身學習中心辦理「臺灣台語語言能力認證【考試輔導班】【實體/遠距】」",
@@ -505,8 +505,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac454b0276c2d1437e4591f",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.470Z",
-      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "3a80430795a41fe6a53ff2f77eefd55303c2cebf4ea0470851c4f8ec259573db": {
       "title": "行天宮助學金專案、急難濟助辦法",
@@ -648,8 +648,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac595c56439524de0389909",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-07T05:29:36.231Z",
-      "lastSentAt": "2026-10-07T05:29:36.231Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "4ba866839ca9faa12d8c8cdf7e734d7206dbfc791ed235476c14bbbf9c866998": {
       "title": "115學年度古亭國小體育表演會學生志工徵選",
@@ -1462,8 +1462,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac45c03ca347a14da65c4b5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-06T05:56:55.468Z",
-      "lastSentAt": "2026-10-06T05:56:55.470Z",
-      "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "b5661e9ea66b2c5e4c7f8e61c2c4ac25291b1f0d2a4e1a3f3bccf6445e5686fe": {
       "title": "115年臺北市學童高度近視防治服務視力保健衛教講座",
@@ -1748,8 +1748,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4ccd25d52c82d89605189",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-07T05:29:36.231Z",
-      "lastSentAt": "2026-10-07T05:29:36.231Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "e0bde5a64d0a4192d66c0d3c71af405b4b3e9253711a5030807aaa6bef1d225f": {
       "title": "115年9月 「天文親子營」天文館一日遊活動",
@@ -1770,8 +1770,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac4ccd25d52c82d89605189",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-07T05:29:36.231Z",
-      "lastSentAt": "2026-10-07T05:29:36.231Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-07T05:29:36.234Z",
+      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
     },
     "e4a8b7abff145fa9e9a7dccb3e11275b7355d94f601cf7362d865aca900019fa": {
       "title": "第十六屆「閱讀評量與教學」理論與實務研討會「融入SEL的閱讀課程教學」",
@@ -1838,6 +1838,17 @@
       "firstSentAt": "2026-09-17T04:31:52.147Z",
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
+    },
+    "eb988779bcaa0eebf7bfb9ec5389f25fa8f5a5cac7c3663d4f0a86e89886868d": {
+      "title": "115年臺北市體育總會長盃棒球錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/08",
+      "updatedDate": "2026/10/08",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac6e0ba57d0d79a51d5a39c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-08T05:39:30.288Z",
+      "lastSentAt": "2026-10-08T05:39:30.288Z",
+      "source": "smtp"
     },
     "f337f512058e65b5cdba15dbbda4dfdf247fd4f66c8dce671c44f6befa8db6ea": {
       "title": "國家兩廳院「數位導覽-廳院顯影」活動資訊",
