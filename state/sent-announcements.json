@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T05:39:30.288Z",
+  "updatedAt": "2026-10-09T05:42:17.694Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -648,8 +648,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac595c56439524de0389909",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-07T05:29:36.231Z",
-      "lastSentAt": "2026-10-07T05:29:36.234Z",
-      "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
+      "lastSentAt": "2026-10-08T05:39:30.290Z",
+      "source": "log:logs/2026-10-08/scan-2026-10-08-133551-7f02dcc0-f611-4794-82be-75df043411cc.json"
     },
     "4ba866839ca9faa12d8c8cdf7e734d7206dbfc791ed235476c14bbbf9c866998": {
       "title": "115學年度古亭國小體育表演會學生志工徵選",
@@ -1696,6 +1696,17 @@
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
     },
+    "d9cefc9e3d6fbfa8b025bbf2d075c31f2b17f72d5effd02ca296146dd9931f03": {
+      "title": "2026故宮亞洲藝術節-喜瑪拉雅月",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/08",
+      "updatedDate": "2026/10/08",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac7437853cda3af28bf77de",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-09T05:42:17.694Z",
+      "lastSentAt": "2026-10-09T05:42:17.694Z",
+      "source": "smtp"
+    },
     "dbfd9b7016c38ef225b7448d6d1d5ad8d63d3be4ed913cd11be858c923ae1df3": {
       "title": "高雄市政府教育局辦理「2026CCCE全國科藝電競大賽」,報名延期至115年10月8日(星期四)",
       "category": "活動/競賽",
@@ -1847,8 +1858,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ac6e0ba57d0d79a51d5a39c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-08T05:39:30.288Z",
-      "lastSentAt": "2026-10-08T05:39:30.288Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-08T05:39:30.290Z",
+      "source": "log:logs/2026-10-08/scan-2026-10-08-133551-7f02dcc0-f611-4794-82be-75df043411cc.json"
     },
     "f337f512058e65b5cdba15dbbda4dfdf247fd4f66c8dce671c44f6befa8db6ea": {
       "title": "國家兩廳院「數位導覽-廳院顯影」活動資訊",
