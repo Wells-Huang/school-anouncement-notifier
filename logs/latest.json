@@ -1,12 +1,12 @@
 {
-  "runId": "99b92a8f-87e9-43db-a6b2-dd859f35bd00",
+  "runId": "43ba650e-c781-4068-9297-e764ad800d38",
   "execution": {
-    "startedAtUtc": "2026-10-11T05:15:47.331Z",
-    "completedAtUtc": "2026-10-11T05:18:17.825Z",
-    "executedAtTaipei": "2026/10/11 13:15:47",
+    "startedAtUtc": "2026-10-12T05:28:25.451Z",
+    "completedAtUtc": "2026-10-12T05:31:19.784Z",
+    "executedAtTaipei": "2026/10/12 13:28:25",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-10-10T05:15:47.331Z",
-    "windowEndUtc": "2026-10-11T05:15:47.331Z"
+    "windowStartUtc": "2026-10-11T05:28:25.451Z",
+    "windowEndUtc": "2026-10-12T05:28:25.451Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
@@ -54,32 +54,331 @@
   },
   "counts": {
     "scanned": 1915,
-    "recent24h": 0,
-    "relevant": 0,
-    "newRelevant": 0,
+    "recent24h": 10,
+    "relevant": 3,
+    "newRelevant": 3,
     "alreadySent": 0,
     "sameVersionDuplicates": 0,
-    "skipped": 0,
-    "duplicatesRemoved": 0,
-    "detailAttempts": 0,
-    "detailSuccesses": 0,
+    "skipped": 7,
+    "duplicatesRemoved": 6,
+    "detailAttempts": 16,
+    "detailSuccesses": 16,
     "detailFailures": 0
   },
-  "relevantAnnouncements": [],
-  "emailAnnouncements": [],
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "轉知115學年度國小自然科學探究實驗班",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2027/01/18，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/18前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/18",
+      "importantDates": [
+        {
+          "date": "2026/01/18",
+          "context": "透鏡到望遠鏡」為主題,詳如簡章。 三、報名與繳費資訊: (一)報名日期:自即日起至116年1月18日(星期一),額滿提 前截止。 (二)報名方式:採先繳費後填寫線上報名辦理(線上報名),繳費"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "實作及以證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校公館校區(臺北市汀州"
+        },
+        {
+          "date": "2026/11/30",
+          "context": ",繳費及報名相關資訊詳 見簡章說明。 (三)活動費用:每人1萬2,000元,另有早鳥優惠(11月30日 前繳費)85%,每人1萬200元,團報3人3萬600元,團報4 人4萬800元,團報5人"
+        },
+        {
+          "date": "2027/01/18",
+          "context": "」及「從透鏡到望遠鏡」為主題,詳如簡章。 三、報名與繳費資訊: (一)報名日期:自即日起至116年1月18日(星期一),額滿提 前截止。 (二)報名方式:採先繳費後填寫線上報名辦理(線上報名),繳費"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6c8b560022ab0d181990?vector=private&static=false",
+      "summary": "說明: 一、以科學探究與實作為核心,結合生物、地球科學及物理等 領域,透過實驗操作、觀察、研究設計及科學儀器組裝等 活動,引導學生主動發現問題、分析與驗證,培養科學探 究、實作及以證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "繳費",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!115學年度台北市美術比賽得獎公告(南區)!",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "榮譽榜",
+      "unit": "教務處設備組長",
+      "reason": "提到高年級、學生；屬於比賽、美術，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc3910792c0ba366c726b7?vector=private&static=false",
+      "summary": "恭喜獲獎學生! !",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "比賽",
+        "美術"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "timestamp"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "轉知烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/26",
+          "context": "轉知烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》 聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦"
+        },
+        {
+          "date": "2026/12/26",
+          "context": "家歌劇院管弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北"
+        },
+        {
+          "date": "2026/12/26",
+          "context": "弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北"
+        },
+        {
+          "date": "2026/12/27",
+          "context": ":衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》 聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦樂團《貝多芬第九號交"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6dc556d2b0a9aa1bb639?vector=private&static=false",
+      "summary": "聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡各級學校教職員工、學生(含社團)及同行家長,折 扣適用3,100元(含)以上票區,訂購不限張數,享9折;2張(含)…",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "社團",
+        "音樂",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "轉知115學年度國小自然科學探究實驗班",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2027/01/18，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/18前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/18",
+      "importantDates": [
+        {
+          "date": "2026/01/18",
+          "context": "透鏡到望遠鏡」為主題,詳如簡章。 三、報名與繳費資訊: (一)報名日期:自即日起至116年1月18日(星期一),額滿提 前截止。 (二)報名方式:採先繳費後填寫線上報名辦理(線上報名),繳費"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "實作及以證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。上午9:00至下午4:30。 (二)地點:本校公館校區(臺北市汀州"
+        },
+        {
+          "date": "2026/11/30",
+          "context": ",繳費及報名相關資訊詳 見簡章說明。 (三)活動費用:每人1萬2,000元,另有早鳥優惠(11月30日 前繳費)85%,每人1萬200元,團報3人3萬600元,團報4 人4萬800元,團報5人"
+        },
+        {
+          "date": "2027/01/18",
+          "context": "」及「從透鏡到望遠鏡」為主題,詳如簡章。 三、報名與繳費資訊: (一)報名日期:自即日起至116年1月18日(星期一),額滿提 前截止。 (二)報名方式:採先繳費後填寫線上報名辦理(線上報名),繳費"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6c8b560022ab0d181990?vector=private&static=false",
+      "summary": "說明: 一、以科學探究與實作為核心,結合生物、地球科學及物理等 領域,透過實驗操作、觀察、研究設計及科學儀器組裝等 活動,引導學生主動發現問題、分析與驗證,培養科學探 究、實作及以證據表達的能力,提升學生對科學學習的興 趣。 二、活動訊息摘要如下: (一)日期:115年2月1日(星期一)至2月3日(星期三),共計三 日。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "繳費",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!115學年度台北市美術比賽得獎公告(南區)!",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "榮譽榜",
+      "unit": "教務處設備組長",
+      "reason": "提到高年級、學生；屬於比賽、美術，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc3910792c0ba366c726b7?vector=private&static=false",
+      "summary": "恭喜獲獎學生! !",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "比賽",
+        "美術"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "timestamp"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "轉知烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/26",
+          "context": "轉知烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》 聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦"
+        },
+        {
+          "date": "2026/12/26",
+          "context": "家歌劇院管弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北"
+        },
+        {
+          "date": "2026/12/26",
+          "context": "弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北"
+        },
+        {
+          "date": "2026/12/27",
+          "context": ":衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》 聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦樂團《貝多芬第九號交"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6dc556d2b0a9aa1bb639?vector=private&static=false",
+      "summary": "聯合數位文創將於115年12月26日(六)及12月27日(日)分別於高雄衛武營音樂廳、台北國家音樂廳舉辦【烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》】 音樂會。 節目資訊: (一)高雄場: 1、時間:2026年12月26日(六) 2、地點:衛武營國家藝術文化中心 音樂廳(高雄市鳳山 區三多一路1號) (二)台北場: 1、時間:2026年12月27日(日) 2、地點:國家音樂廳(台北市中正區中山南路21號) 購票優惠方案及票價: (一)凡各級學校教職員工、學生(含社團)及同行家長,折 扣適用3,100元(含)以上票區,訂購不限張數,享9折;2張(含)…",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "社團",
+        "音樂",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
   "alreadySentAnnouncements": [],
   "sameVersionDuplicateAnnouncements": [],
-  "skippedAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "115學年度第一學期期中評量考試時間表",
+      "category": "校務公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "高級中等以下學校教師及學生參加115學年度本土語文能力認證嘉獎獎勵計畫",
+      "category": "獎補助資訊",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】國家運動科學中心研訂之足球運動熱傷害預防與管理指引",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "轉知國家科學及技術委員會辦理「2026 Kiss Science─科學開門,青春不悶」活動",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "函轉外交部自115年10月9日至19日舉辦《台灣光華雜誌》 50週年攝影展「照見台灣」",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立臺灣師範大學116年國中小自然科學實驗冬令營",
+      "category": "活動/競賽",
+      "reason": "已截止"
+    },
+    {
+      "title": "高級中等學校教師本土語文認證培訓實施計畫—第二十三梯次本土語文認證輔導班",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    }
+  ],
   "rss": {
     "success": true,
     "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
     "itemCount": 100,
-    "lastBuildDate": "Sun, 11 Oct 2026 05:15:52 GMT"
+    "lastBuildDate": "Mon, 12 Oct 2026 05:28:32 GMT"
   },
   "email": {
-    "attempted": false,
-    "sent": false,
-    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1791783079 586e51a60fabf-4a2a86317a5sm8523701fac.17 - gsmtp"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
@@ -88,23 +387,23 @@
     "readError": "",
     "recordsBeforeImport": 175,
     "recordsAfterImport": 175,
-    "historicalLogsRead": 60,
+    "historicalLogsRead": 61,
     "historicalSuccessfulLogs": 40,
     "historicalVersionsImported": 0,
     "historicalVersionsRefreshed": 0,
     "historyErrors": [],
-    "markedAfterEmailSuccess": 0,
-    "recordsAfterRun": 175,
-    "saved": false,
+    "markedAfterEmailSuccess": 3,
+    "recordsAfterRun": 178,
+    "saved": true,
     "saveError": "",
-    "saveNeeded": false,
-    "saveReason": "已寄送狀態無變更"
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
   },
-  "status": "no_related_announcements",
-  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
+  "status": "relevant_found",
+  "noEmailReason": "",
   "failureReason": "",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-11/scan-2026-10-11-131547-99b92a8f-87e9-43db-a6b2-dd859f35bd00.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-12/scan-2026-10-12-132825-43ba650e-c781-4068-9297-e764ad800d38.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T05:42:17.696Z",
+  "updatedAt": "2026-10-12T05:31:19.782Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -331,6 +331,17 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "2a7675dcaea141d3278934db74ba720b40264bf1a7df34310aa49c22c742f84e": {
+      "title": "轉知115學年度國小自然科學探究實驗班",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6c8b560022ab0d181990",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-12T05:31:19.782Z",
+      "lastSentAt": "2026-10-12T05:31:19.782Z",
+      "source": "smtp"
     },
     "2a78e21b32b4821d4a87eacbec6edcadcd32f8c09ccc3370d875805392c71a48": {
       "title": "新北市靈鷲山慈善基金會辦理「第24屆靈鷲山普仁獎」",
@@ -1454,6 +1465,17 @@
       "source": "log:logs/2026-08-30/scan-2026-08-30-125458-5400ac61-5e85-49d5-a28a-7d6d163c3008.json",
       "firstSentAt": "2026-08-30T04:57:41.674Z"
     },
+    "b226e8750992a2775aeef99b6b6715ee316008c41b5bbc46a22ee8e4973dad6e": {
+      "title": "轉知烏克蘭國家歌劇院管弦樂團《貝多芬第九號交響曲》",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6dc556d2b0a9aa1bb639",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-12T05:31:19.782Z",
+      "lastSentAt": "2026-10-12T05:31:19.782Z",
+      "source": "smtp"
+    },
     "b2996d5dcb16ad367f513cd94d84cbc4fd2ec153185bbde2d3bb04465d4746a6": {
       "title": "115年度國民小學「社會情緒學習SEL議題」分區親職教育系列講座",
       "category": "活動/競賽",
@@ -1860,6 +1882,17 @@
       "firstSentAt": "2026-10-08T05:39:30.288Z",
       "lastSentAt": "2026-10-09T05:42:17.696Z",
       "source": "log:logs/2026-10-09/scan-2026-10-09-133934-d08a1c57-1769-4a1c-874b-c0fdb8bd54a7.json"
+    },
+    "efc6ae7813e6519dedcc8415dcc34bbaf708f0a7000cc8a87a9de9f1127ce04f": {
+      "title": "賀!115學年度台北市美術比賽得獎公告(南區)!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/10/12",
+      "updatedDate": "2026/10/12",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc3910792c0ba366c726b7",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-12T05:31:19.782Z",
+      "lastSentAt": "2026-10-12T05:31:19.782Z",
+      "source": "smtp"
     },
     "f337f512058e65b5cdba15dbbda4dfdf247fd4f66c8dce671c44f6befa8db6ea": {
       "title": "國家兩廳院「數位導覽-廳院顯影」活動資訊",
