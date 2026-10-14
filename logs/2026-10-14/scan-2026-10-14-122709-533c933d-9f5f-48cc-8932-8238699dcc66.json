@@ -1,0 +1,587 @@
+{
+  "runId": "533c933d-9f5f-48cc-8932-8238699dcc66",
+  "execution": {
+    "startedAtUtc": "2026-10-14T04:27:09.558Z",
+    "completedAtUtc": "2026-10-14T04:30:12.566Z",
+    "executedAtTaipei": "2026/10/14 12:27:09",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-10-13T04:27:09.558Z",
+    "windowEndUtc": "2026-10-14T04:27:09.558Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1906,
+    "recent24h": 13,
+    "relevant": 7,
+    "newRelevant": 3,
+    "alreadySent": 4,
+    "sameVersionDuplicates": 0,
+    "skipped": 6,
+    "duplicatesRemoved": 2,
+    "detailAttempts": 15,
+    "detailSuccesses": 14,
+    "detailFailures": 1
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "category": "活動/競賽",
+      "unit": "教務處教學組長",
+      "reason": "提到學生；屬於課程、ai；有重要日期：2026/10/23，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/23前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/23",
+      "importantDates": [
+        {
+          "date": "2026/10/05",
+          "context": "言能力認證測驗考前輔導班」簡章 一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋"
+        },
+        {
+          "date": "2026/10/05",
+          "context": "證測驗考前輔導班」簡章 一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋"
+        },
+        {
+          "date": "2026/10/23",
+          "context": "言能力認證測驗」初級、中級、中高級、高級者。 (二)報名方式:採線上報名,網址。 五、請於115年10月23日(星期五)下午5時前填妥線上報名表,本府原民會將依報名表所填寫e-mail通知相關訊息,如"
+        },
+        {
+          "date": "2026/10/23",
+          "context": "證測驗」初級、中級、中高級、高級者。 (二)報名方式:採線上報名,網址。 五、請於115年10月23日(星期五)下午5時前填妥線上報名表,本府原民會將依報名表所填寫e-mail通知相關訊息,如"
+        },
+        {
+          "date": "2026/11/01",
+          "context": "並提升未來就業及升學優勢,特辦理本計畫。 三、課程時間及地點(初級、中級、中高級、高級):115年11月1日、7日、8日、14日、15日及21日下午1時至5時,總計 24小時,以線上授課方式進行。"
+        },
+        {
+          "date": "2026/11/01",
+          "context": "來就業及升學優勢,特辦理本計畫。 三、課程時間及地點(初級、中級、中高級、高級):115年11月1日、7日、8日、14日、15日及21日下午1時至5時,總計 24小時,以線上授課方式進行。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aceddea89e928296c873dc0?vector=private&static=false",
+      "summary": "一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋友通過旨揭測驗,以增加族語儲備人才,並提升未來就業及升學優勢,特辦理本計畫。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「CHA-CHING兒童理財教育」教師研習",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "category": "研習進修",
+      "unit": "教務處教學組長",
+      "reason": "提到學童、酷課；涉及酷課；有重要日期：2026/10/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/20",
+      "importantDates": [
+        {
+          "date": "2026/10/20",
+          "context": "「文林銀行」兒童理財實驗教育計畫,為同名紀錄片《文林銀行》主角。) 七、報名方式:即日起至115年10月20日(二)止,於北市教師在職研習網報名,〔北市研習字第1151007011號〕並完成薦派手續,"
+        },
+        {
+          "date": "2026/10/20",
+          "context": "行」兒童理財實驗教育計畫,為同名紀錄片《文林銀行》主角。) 七、報名方式:即日起至115年10月20日(二)止,於北市教師在職研習網報名,〔北市研習字第1151007011號〕並完成薦派手續,"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "協力提供國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。 三、研習時間:115年10月21日(三)13:30~16:30。 四、研習地點:臺北市光復國民小學明德樓二樓視聽教室。 五、"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。 三、研習時間:115年10月21日(三)13:30~16:30。 四、研習地點:臺北市光復國民小學明德樓二樓視聽教室。 五、"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acedd129ad7992b52cc5fab?vector=private&static=false",
+      "summary": "一、依臺北市政府教育局115學年度高級中等以下學校金融基礎教育融入教學精進推廣計畫辦理。 二、旨揭研習符合108課綱素養導向精神,盼協力提供國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。",
+      "matchedKeywords": [
+        "學童",
+        "報名",
+        "注意事項",
+        "酷課"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於活動、ai，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/21",
+          "context": "【轉知】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會 一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週"
+        },
+        {
+          "date": "2026/11/21",
+          "context": "】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會 一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acde5217f0302f6e277bda0?vector=private&static=false",
+      "summary": "一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週寄發視訊連結至家長email信箱。 三、對象:115學年度小學六年級應屆畢業女學生及其家長。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國家華語測驗推動工作委員會116年「華語文能力測驗」",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "活動/競賽",
+      "unit": "教務處教學組長",
+      "reason": "提到學生；屬於ai，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/05",
+          "context": "國家華語測驗推動工作委員會116年「華語文能力測驗」 一、依據國家華語測驗推動工作委員會115年10月5日華測字第 1152000052號函辦理。 二、該會116年共辦理7次正式考試,每次均於星期"
+        },
+        {
+          "date": "2026/10/05",
+          "context": "語測驗推動工作委員會116年「華語文能力測驗」 一、依據國家華語測驗推動工作委員會115年10月5日華測字第 1152000052號函辦理。 二、該會116年共辦理7次正式考試,每次均於星期"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd9162894fbee27047da85?vector=private&static=false",
+      "summary": "一、依據國家華語測驗推動工作委員會115年10月5日華測字第 1152000052號函辦理。 二、該會116年共辦理7次正式考試,每次均於星期六、日連續 舉行2天;另於4月及10月辦理2次大型預試,供考生熟悉題型與測驗流程。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "繳費",
+        "期限",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "視障教育資源中心辦理「視障生生涯輔導講座:提前準備、迎接挑戰-大專特教資源與轉銜準備」",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "研習進修",
+      "unit": "輔導室特教組長",
+      "reason": "提到學生、家長；屬於資訊；有重要日期：2026/11/05，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/05前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/05",
+      "importantDates": [
+        {
+          "date": "2026/11/05",
+          "context": "室。 (五)講者:劉大文老師(輔仁大學資源教室輔導員)。 三、報名方式: (一)報名期限:115年11月5日(星期四)。 (二)家長/學生報名:請至表單報名。 (三)教師報名:請至臺北市教師在職研習"
+        },
+        {
+          "date": "2026/11/05",
+          "context": "五)講者:劉大文老師(輔仁大學資源教室輔導員)。 三、報名方式: (一)報名期限:115年11月5日(星期四)。 (二)家長/學生報名:請至表單報名。 (三)教師報名:請至臺北市教師在職研習"
+        },
+        {
+          "date": "2026/11/07",
+          "context": "學生 教師及特教助理員等。 2、本市對本次研習內容有興趣的教師、家長及學生。 (三)時間:115年11月7日(星期六)上午10時至12時30分。 (四)地點:臺北市立啟明學校(臺北市士林區忠誠路二段"
+        },
+        {
+          "date": "2026/11/07",
+          "context": "師及特教助理員等。 2、本市對本次研習內容有興趣的教師、家長及學生。 (三)時間:115年11月7日(星期六)上午10時至12時30分。 (四)地點:臺北市立啟明學校(臺北市士林區忠誠路二段"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd739f893a6ce20724d47e?vector=private&static=false",
+      "summary": "一、依據臺北市視障教育資源中心115學年度工作計畫辦理。 二、旨揭研習資訊如下: (一)名稱:視障生生涯輔導講座:提前準備、迎接挑戰-大專特教資源與轉銜準備。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "期限",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市大安區古亭國小親職講座-AI詐騙來了,防詐達人教您守住全家人數位底線,歡迎報名!",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "校務公告",
+      "unit": "輔導主任",
+      "reason": "提到學生、家長、親子；屬於科學、資訊，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/31",
+          "context": "險,學習建立家庭數位使用規範,培養孩子的資訊判讀力與自主思考能力,資訊如下 1.辦理時間:115年10月31日(六)上午10: 00 (9:30開始報到入場) 2.地點:本校明德樓二樓分區教室 3.主"
+        },
+        {
+          "date": "2026/10/31",
+          "context": "建立家庭數位使用規範,培養孩子的資訊判讀力與自主思考能力,資訊如下 1.辦理時間:115年10月31日(六)上午10: 00 (9:30開始報到入場) 2.地點:本校明德樓二樓分區教室 3.主"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd93174d6c4be83ffd9601?vector=private&static=false",
+      "summary": "本講座將從AI網路安全出發,帶領家長認識個人資料保護、網路詐騙、假訊息辨識及不當資訊引導等潛在風險,學習建立家庭數位使用規範,培養孩子的資訊判讀力與自主思考能力,資訊如下 1.辦理時間:115年10月31日(六)上午10: 00 (9:30開始報到入場) 2.地點:本校明德樓二樓分區教室 3.主講介紹: (1)第一小時由John Chang(趨勢科技「防詐達人」)主講 : 有 6 年防詐經驗,防詐達人 LINE 官方帳號目前有超過 116 萬名好友。 - 15 年軟體開發經驗,其中 8 年負責大型系統維運,5 年擔任 Tech Lead 帶領團隊。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "科學",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!本校學生參加 2026誰與爭鋒音樂大賽 榮獲優異佳績!",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "榮譽榜",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd826059ce3ce4e211b467?vector=private&static=false",
+      "summary": "賀! 本校學生參加 2026誰與爭鋒音樂大賽 榮獲優異佳績!",
+      "matchedKeywords": [
+        "學生",
+        "音樂"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "category": "活動/競賽",
+      "unit": "教務處教學組長",
+      "reason": "提到學生；屬於課程、ai；有重要日期：2026/10/23，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/23前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/23",
+      "importantDates": [
+        {
+          "date": "2026/10/05",
+          "context": "言能力認證測驗考前輔導班」簡章 一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋"
+        },
+        {
+          "date": "2026/10/05",
+          "context": "證測驗考前輔導班」簡章 一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋"
+        },
+        {
+          "date": "2026/10/23",
+          "context": "言能力認證測驗」初級、中級、中高級、高級者。 (二)報名方式:採線上報名,網址。 五、請於115年10月23日(星期五)下午5時前填妥線上報名表,本府原民會將依報名表所填寫e-mail通知相關訊息,如"
+        },
+        {
+          "date": "2026/10/23",
+          "context": "證測驗」初級、中級、中高級、高級者。 (二)報名方式:採線上報名,網址。 五、請於115年10月23日(星期五)下午5時前填妥線上報名表,本府原民會將依報名表所填寫e-mail通知相關訊息,如"
+        },
+        {
+          "date": "2026/11/01",
+          "context": "並提升未來就業及升學優勢,特辦理本計畫。 三、課程時間及地點(初級、中級、中高級、高級):115年11月1日、7日、8日、14日、15日及21日下午1時至5時,總計 24小時,以線上授課方式進行。"
+        },
+        {
+          "date": "2026/11/01",
+          "context": "來就業及升學優勢,特辦理本計畫。 三、課程時間及地點(初級、中級、中高級、高級):115年11月1日、7日、8日、14日、15日及21日下午1時至5時,總計 24小時,以線上授課方式進行。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aceddea89e928296c873dc0?vector=private&static=false",
+      "summary": "一、依據臺北市政府原住民族事務委員會(以下簡稱本府原民會)115年10月5日北市原教文字第11530195942號函辦理。 二、本府原民會為協助本市原住民學生及市民朋友通過旨揭測驗,以增加族語儲備人才,並提升未來就業及升學優勢,特辦理本計畫。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「CHA-CHING兒童理財教育」教師研習",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "category": "研習進修",
+      "unit": "教務處教學組長",
+      "reason": "提到學童、酷課；涉及酷課；有重要日期：2026/10/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/20",
+      "importantDates": [
+        {
+          "date": "2026/10/20",
+          "context": "「文林銀行」兒童理財實驗教育計畫,為同名紀錄片《文林銀行》主角。) 七、報名方式:即日起至115年10月20日(二)止,於北市教師在職研習網報名,〔北市研習字第1151007011號〕並完成薦派手續,"
+        },
+        {
+          "date": "2026/10/20",
+          "context": "行」兒童理財實驗教育計畫,為同名紀錄片《文林銀行》主角。) 七、報名方式:即日起至115年10月20日(二)止,於北市教師在職研習網報名,〔北市研習字第1151007011號〕並完成薦派手續,"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "協力提供國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。 三、研習時間:115年10月21日(三)13:30~16:30。 四、研習地點:臺北市光復國民小學明德樓二樓視聽教室。 五、"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。 三、研習時間:115年10月21日(三)13:30~16:30。 四、研習地點:臺北市光復國民小學明德樓二樓視聽教室。 五、"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acedd129ad7992b52cc5fab?vector=private&static=false",
+      "summary": "一、依臺北市政府教育局115學年度高級中等以下學校金融基礎教育融入教學精進推廣計畫辦理。 二、旨揭研習符合108課綱素養導向精神,盼協力提供國小教師生動有趣之理財教案與教具,讓學童在生活情境中學習理財概念。",
+      "matchedKeywords": [
+        "學童",
+        "報名",
+        "注意事項",
+        "酷課"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於活動、ai，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/21",
+          "context": "【轉知】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會 一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週"
+        },
+        {
+          "date": "2026/11/21",
+          "context": "】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會 一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acde5217f0302f6e277bda0?vector=private&static=false",
+      "summary": "一、時間:115年11月21日(週六)上午10:00~11:00 二、方式:以線上視訊方式舉行,報名完成後將於活動前一週寄發視訊連結至家長email信箱。 三、對象:115學年度小學六年級應屆畢業女學生及其家長。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "國家華語測驗推動工作委員會116年「華語文能力測驗」",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd9162894fbee27047da85?vector=private&static=false",
+      "firstSentAt": "2026-10-13T06:29:05.356Z",
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "視障教育資源中心辦理「視障生生涯輔導講座:提前準備、迎接挑戰-大專特教資源與轉銜準備」",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd739f893a6ce20724d47e?vector=private&static=false",
+      "firstSentAt": "2026-10-13T06:29:05.356Z",
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "臺北市大安區古亭國小親職講座-AI詐騙來了,防詐達人教您守住全家人數位底線,歡迎報名!",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "校務公告",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd93174d6c4be83ffd9601?vector=private&static=false",
+      "firstSentAt": "2026-10-13T06:29:05.356Z",
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "賀!本校學生參加 2026誰與爭鋒音樂大賽 榮獲優異佳績!",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "category": "榮譽榜",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd826059ce3ce4e211b467?vector=private&static=false",
+      "firstSentAt": "2026-10-13T06:29:05.356Z",
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "115年臺北市中正盃毽球錦標賽",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度高級中等以下學校運動教練校園性別事件專業增能研習",
+      "category": "研習進修",
+      "reason": "已截止"
+    },
+    {
+      "title": "教育部國民及學前教育署高級中等學校教師本土語文認證培訓實施計畫(草案)─115年原住民族語(布農族語)認證加強班(11月)",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立臺北教育大學「實習輔導教師心理關懷與支持」線上講座",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「2026世界人權日-AI與人權」教材包研習",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Wed, 14 Oct 2026 04:27:17 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1791952212 6a1803df08f44-91b97bce2c5sm43407216d6.36 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 185,
+    "recordsAfterImport": 185,
+    "historicalLogsRead": 63,
+    "historicalSuccessfulLogs": 42,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 10,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 3,
+    "recordsAfterRun": 188,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-14/scan-2026-10-14-122709-533c933d-9f5f-48cc-8932-8238699dcc66.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

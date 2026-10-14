@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T06:29:05.356Z",
+  "updatedAt": "2026-10-14T04:30:12.564Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -87,8 +87,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6accb9d73e806ec0646cc2eb",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "0cad5f3c411a7d8987b338f5882ea1e590cc68639de78ce9c2f6bef0332655d0": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -351,8 +351,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6c8b560022ab0d181990",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-12T05:31:19.782Z",
-      "lastSentAt": "2026-10-12T05:31:19.784Z",
-      "source": "log:logs/2026-10-12/scan-2026-10-12-132825-43ba650e-c781-4068-9297-e764ad800d38.json"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "2a78e21b32b4821d4a87eacbec6edcadcd32f8c09ccc3370d875805392c71a48": {
       "title": "新北市靈鷲山慈善基金會辦理「第24屆靈鷲山普仁獎」",
@@ -604,8 +604,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd93174d6c4be83ffd9601",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "3fc5425789064070754cbe08ad012801e01491cf4de5bb0add002fcef143ccb8": {
       "title": "【轉知】因應近期媒體報導未成年學生因網路購買、蒐集特定民俗物品,衍生與陌生成年人聯繫及遭誘騙赴約等人身安全事件",
@@ -648,8 +648,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd826059ce3ce4e211b467",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "454502c97422c7daa67475a8ce8e078cd284f707cfe4c51e2df3246dd4741ba2": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
@@ -1066,8 +1066,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acdc235dd2753efc5561d42",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "7a72cc4eae2f9b2bd1d48305203a1936bdab8de88efb579a1de30b3a4efef996": {
       "title": "國立臺灣師範大學辦理專任運動教練線上課程資訊",
@@ -1211,6 +1211,17 @@
       "firstSentAt": "2026-09-06T04:07:02.478Z",
       "lastSentAt": "2026-09-06T04:07:02.479Z",
       "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
+    },
+    "898486afde21297ca5d9a9ad896f29ae6e6722edfae69ab2cbb6dfc6b916c1f3": {
+      "title": "【轉知】天主教聖心學校財團法人新北市聖心女子高級中學七年級新生線上招生說明會",
+      "category": "公文公告",
+      "publishedDate": "2026/10/13",
+      "updatedDate": "2026/10/13",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acde5217f0302f6e277bda0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-14T04:30:12.564Z",
+      "lastSentAt": "2026-10-14T04:30:12.564Z",
+      "source": "smtp"
     },
     "8a75ee7f3d71a7ce15a0f3f2078cec5cc7533eabc5220c9d1e807fe1a5eceff6": {
       "title": "2026年三花「小學生為愛說故事」短影片徵件比賽",
@@ -1517,8 +1528,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc6dc556d2b0a9aa1bb639",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-12T05:31:19.782Z",
-      "lastSentAt": "2026-10-12T05:31:19.784Z",
-      "source": "log:logs/2026-10-12/scan-2026-10-12-132825-43ba650e-c781-4068-9297-e764ad800d38.json"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "b2996d5dcb16ad367f513cd94d84cbc4fd2ec153185bbde2d3bb04465d4746a6": {
       "title": "115年度國民小學「社會情緒學習SEL議題」分區親職教育系列講座",
@@ -1596,6 +1607,17 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "bd5c834b79b5dd6a88cb93d45bda310ad61ea4d245a054a9061138915e08af63": {
+      "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aceddea89e928296c873dc0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-14T04:30:12.564Z",
+      "lastSentAt": "2026-10-14T04:30:12.564Z",
+      "source": "smtp"
     },
     "be16687522feb6d4876e1588d3d75417c773dc2af824f822be89634049b32679": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
@@ -1682,8 +1704,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd9162894fbee27047da85",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "cd1d9eb564e761576fa6ff2b4b203dcd191eb905161462d2c7b359ffc5c992e8": {
       "title": "蒲公英希望基金會「蒲公英情緒教育研習營」,歡迎對情緒教育有興趣的老師、家長報名參加~",
@@ -1946,8 +1968,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acd739f893a6ce20724d47e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "efc6ae7813e6519dedcc8415dcc34bbaf708f0a7000cc8a87a9de9f1127ce04f": {
       "title": "賀!115學年度台北市美術比賽得獎公告(南區)!",
@@ -1957,8 +1979,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acc3910792c0ba366c726b7",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-12T05:31:19.782Z",
-      "lastSentAt": "2026-10-12T05:31:19.784Z",
-      "source": "log:logs/2026-10-12/scan-2026-10-12-132825-43ba650e-c781-4068-9297-e764ad800d38.json"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "f337f512058e65b5cdba15dbbda4dfdf247fd4f66c8dce671c44f6befa8db6ea": {
       "title": "國家兩廳院「數位導覽-廳院顯影」活動資訊",
@@ -1979,8 +2001,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6accab2df74f73b928b910a3",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-13T06:29:05.356Z",
-      "lastSentAt": "2026-10-13T06:29:05.356Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-13T06:29:05.359Z",
+      "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
     },
     "f82b9db454d617c60b5825018d7277965786fd1e4319b013ecd9e514fd4d9380": {
       "title": "新北市私立淡江高級中學附設國中部116學年度小五、小六獎學金測驗招生活動訊息",
@@ -1992,6 +2014,17 @@
       "firstSentAt": "2026-09-22T04:26:23.749Z",
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
+    },
+    "f9a780641259e2ad646a3e28b83987d16ea00057575ae95cadc7272d76988c62": {
+      "title": "「CHA-CHING兒童理財教育」教師研習",
+      "category": "研習進修",
+      "publishedDate": "2026/10/14",
+      "updatedDate": "2026/10/14",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acedd129ad7992b52cc5fab",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-14T04:30:12.564Z",
+      "lastSentAt": "2026-10-14T04:30:12.564Z",
+      "source": "smtp"
     },
     "f9fe4640047f9c49eb6304100723f0d13b941073f6a63b14a657b5d40911876a": {
       "title": "信誼基金會【解讀0-8歲社會情緒發展軌跡與SEL教養策略/臺師大兒童社會情緒發展專家程景琳教授】免費親職講座",
