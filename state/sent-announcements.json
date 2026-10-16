@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T04:12:24.756Z",
+  "updatedAt": "2026-10-16T04:08:51.100Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -109,8 +109,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad04c659ccfb2749c5f1422",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.756Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "100d174862d4ef8ebd00edcc73fe8de6e1b2579b7520ad77360655af371540d8": {
       "title": "【轉知】南門自造教育及科技中心辦理「115學年度第1學期臺北市國小師生參訪及學習體驗活動」",
@@ -307,8 +307,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad04f39447ef273564ac04c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.756Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "2670e28dc6b77f16de1754f15e0d36d9087bdb6c9eff3cd5fa501c86c47096d2": {
       "title": "115學年度第1學期課後社團學生名單公告",
@@ -739,6 +739,17 @@
       "lastSentAt": "2026-09-24T04:19:00.368Z",
       "source": "log:logs/2026-09-24/scan-2026-09-24-121603-6d8ddc3d-6a3e-42ff-8695-65fcc8ea911c.json"
     },
+    "50ef40943ee5fe1fbf524bd4ecca6a0f318b35b96b47e89aadcff90cf2b973bf": {
+      "title": "國立臺灣師範大學「115國中生物實驗營II」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad16ef5967236ae34f48237",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-16T04:08:51.100Z",
+      "lastSentAt": "2026-10-16T04:08:51.100Z",
+      "source": "smtp"
+    },
     "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
       "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
       "category": "活動/競賽",
@@ -813,8 +824,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad0240f78e1036d7250ad4b",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.756Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "5956871ce42394f7c08f1bc0b319d1932622608d582eb71e7d10989124adde56": {
       "title": "臺北酷課雲115年酷AI課程包自主學習活動「英語接力跑」",
@@ -890,8 +901,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6acedd129ad7992b52cc5fab",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.756Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "601ec0779f70df525f20435ec922ce75fd86bbcf0e07fdd5d0a84bab49c1d6bb": {
       "title": "「臺北市115學年度藝術才能(資優)班教師『跨領域美感教育專題探究課程設計實務』系列研習",
@@ -903,6 +914,17 @@
       "firstSentAt": "2026-10-05T05:10:12.548Z",
       "lastSentAt": "2026-10-06T05:56:55.470Z",
       "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
+    },
+    "60a175a89de94f502d486d20c73ecf26156a576f990357006e665dd511b82451": {
+      "title": "台灣心輔犬培育團隊115年人才培育計畫課程",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1995f36198fb73d7f4f5b",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-16T04:08:51.100Z",
+      "lastSentAt": "2026-10-16T04:08:51.100Z",
+      "source": "smtp"
     },
     "611b4133f58c3c72135d3a390a5025817329ec3904a47c7080a26bd6f5206a56": {
       "title": "臺北市115年國民小學地板曲棍球體驗活動",
@@ -1121,8 +1143,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad01b370e635267965564b5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.756Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "7a72cc4eae2f9b2bd1d48305203a1936bdab8de88efb579a1de30b3a4efef996": {
       "title": "國立臺灣師範大學辦理專任運動教練線上課程資訊",
@@ -1476,6 +1498,17 @@
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
     },
+    "aa4fcd28e315d4cbe59503e58091fead269b9dc387d12d2e2354d90c3885875a": {
+      "title": "臺北市115年度無人機競賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/15",
+      "updatedDate": "2026/10/15",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad08a19cdfc807d987da92d",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-16T04:08:51.100Z",
+      "lastSentAt": "2026-10-16T04:08:51.100Z",
+      "source": "smtp"
+    },
     "ab749ea6227371f6d8f8284e3a340acb5e30c67622f1d8c91d213474ccbdda0d": {
       "title": "【轉知】教育部「116年表揚推展本土語言傑出貢獻獎」徵件",
       "category": "公文公告",
@@ -1652,6 +1685,17 @@
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
+    "b9fefe2cd04768262c947a43d544b5d6b0f4b3f4ddd59ad6a629f56278a5308f": {
+      "title": "「美感通識課程與美感體驗課程推廣計畫」教師研習工作坊",
+      "category": "研習進修",
+      "publishedDate": "2026/10/15",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad08c2f2209d87fa015e91e",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-16T04:08:51.100Z",
+      "lastSentAt": "2026-10-16T04:08:51.100Z",
+      "source": "smtp"
+    },
     "bc8dc97ccb2535b18ba96dacaa9d9da054599ac629a5ea48bf93664d2e7e59dd": {
       "title": "115學年度第1學期臺北市戶外教育「芝山岩定向運動」",
       "category": "活動/競賽",
@@ -1671,8 +1715,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aceddea89e928296c873dc0",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-14T04:30:12.564Z",
-      "lastSentAt": "2026-10-14T04:30:12.566Z",
-      "source": "log:logs/2026-10-14/scan-2026-10-14-122709-533c933d-9f5f-48cc-8932-8238699dcc66.json"
+      "lastSentAt": "2026-10-15T04:12:24.759Z",
+      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
     },
     "be16687522feb6d4876e1588d3d75417c773dc2af824f822be89634049b32679": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
