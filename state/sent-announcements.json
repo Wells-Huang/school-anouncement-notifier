@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T04:08:51.100Z",
+  "updatedAt": "2026-10-17T03:59:18.543Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -109,8 +109,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad04c659ccfb2749c5f1422",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.759Z",
-      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "100d174862d4ef8ebd00edcc73fe8de6e1b2579b7520ad77360655af371540d8": {
       "title": "【轉知】南門自造教育及科技中心辦理「115學年度第1學期臺北市國小師生參訪及學習體驗活動」",
@@ -307,8 +307,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad04f39447ef273564ac04c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.759Z",
-      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "2670e28dc6b77f16de1754f15e0d36d9087bdb6c9eff3cd5fa501c86c47096d2": {
       "title": "115學年度第1學期課後社團學生名單公告",
@@ -574,6 +574,17 @@
       "lastSentAt": "2026-09-23T04:22:52.590Z",
       "source": "log:logs/2026-09-23/scan-2026-09-23-121940-b6dd09b6-1091-417a-ac04-1334643f13dc.json"
     },
+    "3bacf297135cb53681f1894ef70fe2cc14704907e8e986e049a904b17249c464": {
+      "title": "【轉知】「2026兒童交通安全《出發吧!安全滿分Let's Go》闖關遊戲」教學教材",
+      "category": "公文公告",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1ae8a4fd5fabb2d0531c2",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-17T03:59:18.543Z",
+      "lastSentAt": "2026-10-17T03:59:18.543Z",
+      "source": "smtp"
+    },
     "3cce41ca1e67b77b361e548c2cf698e8ae456a80a6e4b336d393c2e01e1dfdb6": {
       "title": "臺北市家庭教育中心115年第4季「樂活家庭講座」",
       "category": "研習進修",
@@ -747,8 +758,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad16ef5967236ae34f48237",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-16T04:08:51.100Z",
-      "lastSentAt": "2026-10-16T04:08:51.100Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
       "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
@@ -824,8 +835,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad0240f78e1036d7250ad4b",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.759Z",
-      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "5956871ce42394f7c08f1bc0b319d1932622608d582eb71e7d10989124adde56": {
       "title": "臺北酷課雲115年酷AI課程包自主學習活動「英語接力跑」",
@@ -923,8 +934,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1995f36198fb73d7f4f5b",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-16T04:08:51.100Z",
-      "lastSentAt": "2026-10-16T04:08:51.100Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "611b4133f58c3c72135d3a390a5025817329ec3904a47c7080a26bd6f5206a56": {
       "title": "臺北市115年國民小學地板曲棍球體驗活動",
@@ -1047,6 +1058,17 @@
       "lastSentAt": "2026-09-19T04:12:39.037Z",
       "source": "log:logs/2026-09-19/scan-2026-09-19-120945-e7a1c475-3cd0-4ef9-881b-0d85380ce24c.json"
     },
+    "6e069855d838d3174c45d440ee452c052615c6297177faee170fe24b386ec3c8": {
+      "title": "臺北市大安區大安國民小學辦理2場親職講座,歡迎有興趣的家長踴躍報名",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1b716d1f626b95da6fd1d",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-17T03:59:18.543Z",
+      "lastSentAt": "2026-10-17T03:59:18.543Z",
+      "source": "smtp"
+    },
     "6f9205d179a2f12114e83bda31d408d14152a9e8c80b97af300750695111de66": {
       "title": "【轉知】仁愛自造教育及科技中心辦理「115學年度第一學期中小學教育參訪及學習體驗活動」",
       "category": "公文公告",
@@ -1143,8 +1165,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad01b370e635267965564b5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-15T04:12:24.756Z",
-      "lastSentAt": "2026-10-15T04:12:24.759Z",
-      "source": "log:logs/2026-10-15/scan-2026-10-15-120937-3c0e7046-889f-43f9-ad49-58dc2c75da8e.json"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "7a72cc4eae2f9b2bd1d48305203a1936bdab8de88efb579a1de30b3a4efef996": {
       "title": "國立臺灣師範大學辦理專任運動教練線上課程資訊",
@@ -1506,8 +1528,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad08a19cdfc807d987da92d",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-16T04:08:51.100Z",
-      "lastSentAt": "2026-10-16T04:08:51.100Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "ab749ea6227371f6d8f8284e3a340acb5e30c67622f1d8c91d213474ccbdda0d": {
       "title": "【轉知】教育部「116年表揚推展本土語言傑出貢獻獎」徵件",
@@ -1586,6 +1608,17 @@
       "source": "log:logs/2026-08-26/scan-2026-08-26-094427-556a971f-1cc0-4579-bede-54437f2cc3b4.json",
       "firstSentAt": "2026-08-26T01:47:34.283Z"
     },
+    "ae6e48b73afb4aee51fc3d9053d005bb19d9e4e8f778536c7ab86b585c0553e6": {
+      "title": "數位學習教育中心辦理「115學年度第1學期教師增能工作坊實施計畫-B1科技輔助自主學習工作坊及B5-2生成式AI融入學科領域教學工作坊」",
+      "category": "研習進修",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1b699d1f626b95da6dbb6",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-17T03:59:18.543Z",
+      "lastSentAt": "2026-10-17T03:59:18.543Z",
+      "source": "smtp"
+    },
     "af929a5e5709f6cb16ed70d2e5fbbdf49ea3e0c6a75047034216759651661c94": {
       "title": "115年「蛙」現任務~斑腿樹蛙移除與夜間生態探索親子營隊",
       "category": "活動/競賽",
@@ -1629,6 +1662,17 @@
       "firstSentAt": "2026-10-06T05:56:55.468Z",
       "lastSentAt": "2026-10-07T05:29:36.234Z",
       "source": "log:logs/2026-10-07/scan-2026-10-07-132641-6933a2ac-dd6a-4243-af84-ba562ee7e207.json"
+    },
+    "b3c895141bd8b8fcad1f7e560c7d7c8c0aea95708a8c0d5e31d90ce444bcdd0b": {
+      "title": "115學年度教育盃中小學滑輪溜冰錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/16",
+      "updatedDate": "2026/10/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad1c4c8dfa6d8b8a2a2e14d",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-17T03:59:18.543Z",
+      "lastSentAt": "2026-10-17T03:59:18.543Z",
+      "source": "smtp"
     },
     "b5661e9ea66b2c5e4c7f8e61c2c4ac25291b1f0d2a4e1a3f3bccf6445e5686fe": {
       "title": "115年臺北市學童高度近視防治服務視力保健衛教講座",
@@ -1693,8 +1737,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad08c2f2209d87fa015e91e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-16T04:08:51.100Z",
-      "lastSentAt": "2026-10-16T04:08:51.100Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-16T04:08:51.103Z",
+      "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
     "bc8dc97ccb2535b18ba96dacaa9d9da054599ac629a5ea48bf93664d2e7e59dd": {
       "title": "115學年度第1學期臺北市戶外教育「芝山岩定向運動」",
