@@ -1,0 +1,864 @@
+{
+  "runId": "d517e10c-4b0b-445f-a2d0-faeeaa0a2490",
+  "execution": {
+    "startedAtUtc": "2026-10-19T04:12:09.702Z",
+    "completedAtUtc": "2026-10-19T04:15:05.276Z",
+    "executedAtTaipei": "2026/10/19 12:12:09",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-10-18T04:12:09.702Z",
+    "windowEndUtc": "2026-10-19T04:12:09.702Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 13,
+    "relevant": 9,
+    "newRelevant": 9,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 4,
+    "duplicatesRemoved": 2,
+    "detailAttempts": 15,
+    "detailSuccesses": 14,
+    "detailFailures": 1
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/13",
+          "context": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日 一、活動時間:115年11月13日(星期五)上午9時30分至下午4時30分。 二、活動地點:國立臺灣科學教育館一樓廣場及臺北"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad461014ab31c44ff0f65d2?vector=private&static=false",
+      "summary": "一、活動時間:115年11月13日(星期五)上午9時30分至下午4時30分。 二、活動地點:國立臺灣科學教育館一樓廣場及臺北科學藝術園區 三、參加對象:限20人以上團體報名。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "注意事項",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】臺北市「115學年度國民中小學親子性私密影像法治教育實施計畫」",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處生教組長",
+      "reason": "提到學生、家長、親子；屬於資訊；有重要日期：2026/10/21，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/21前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/21",
+      "importantDates": [
+        {
+          "date": "2026/09/18",
+          "context": "法治教育實施計畫」 一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,"
+        },
+        {
+          "date": "2026/09/18",
+          "context": "實施計畫」 一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,"
+        },
+        {
+          "date": "2026/10/02",
+          "context": "生科技應用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。 三、原訂申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),"
+        },
+        {
+          "date": "2026/10/02",
+          "context": "用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。 三、原訂申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),請尚未申請之學校提出申請。 四、本案計畫委託本市永建國小辦理,簡要說明如下:"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "導師為原則,國小得視實際需求,邀請中低年級學生、家長及教師一同參與。 (三)申請方式:請於115年10月21日(星期三)前,將核章後申請書及經費表PDF檔上傳至雲端表單,辦理審核作業。 五、詳細內容請"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),請尚未申請之學校提出申請。 四、本案計畫委託本市永建國小辦理,簡要說明如下:"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "則,國小得視實際需求,邀請中低年級學生、家長及教師一同參與。 (三)申請方式:請於115年10月21日(星期三)前,將核章後申請書及經費表PDF檔上傳至雲端表單,辦理審核作業。 五、詳細內容請"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad563b30498a276f663d867?vector=private&static=false",
+      "summary": "一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,強化資訊倫理 及網路安全意識,健全校園親師生科技應用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "期限",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】Go Art 走去藝術-公立學校參訪美術館贊助計畫",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處訓育組長",
+      "reason": "提到交通；屬於活動、美術；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45c98276465432b1882f6?vector=private&static=false",
+      "summary": "一、贊助對象:全臺公立國小、國中及高中(職)學校,以班級、社團或學習共同體為單位,由教師或學校提出申請,每案參與人數上限為30人。 二、贊助內容:美術館參訪學習活動相關經費,包含交通、門票、保險、導覽及餐費等。",
+      "matchedKeywords": [
+        "社團",
+        "美術",
+        "資訊",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺北大學「2027寒期營隊-ALV國際美國村主題式美語生活營(五日)」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、營隊；有重要日期：2027/01/20，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/20",
+      "importantDates": [
+        {
+          "date": "2026/01/20",
+          "context": "課地點:國立臺北大學合江校區(臺北市中山區合江街53號)。 四、報名時間:即日起至116年1月20日止,額滿為止。 五、課程時間及報名資訊:請至國立臺北大學進修暨推廣部網站查詢。 六、聯絡方"
+        },
+        {
+          "date": "2027/01/20",
+          "context": "三、上課地點:國立臺北大學合江校區(臺北市中山區合江街53號)。 四、報名時間:即日起至116年1月20日止,額滿為止。 五、課程時間及報名資訊:請至國立臺北大學進修暨推廣部網站查詢。 六、聯絡方"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45a7f4412b5402551e184?vector=private&static=false",
+      "summary": "一、營隊特色:以墨西哥文化探索為主題,採ESL分級教學,結合全英文情境學習、文化體驗及團隊活動,透過遊戲、任務與互動,引導學員自然開口說英語,提升英語口說能力與學習自信。 二、課程內容:包含墨西哥文化體驗、草帽DIY、餐廳點餐、城市商店、皮納塔派對、大地尋寶及團體競賽等活動,並安排英文話劇排練與成果演出,搭配「English Only代幣機制」,培養學員英語表達能力及團隊合作精神。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "營隊",
+        "資訊",
+        "英語"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、營隊；有重要日期：2026/11/30，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/30前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/30",
+      "importantDates": [
+        {
+          "date": "2026/01/25",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地"
+        },
+        {
+          "date": "2026/01/28",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地點:國立臺灣師範大"
+        },
+        {
+          "date": "2026/11/30",
+          "context": "立動物園。 三、招生對象:全臺國小二至六年級學生,預計招收60名。 四、報名期間:即日起至115年11月30日(一)止。 五、活動介紹:本營隊由國立臺灣師範大學生命科學系學會舉辦,提供國小學生寒假期間"
+        },
+        {
+          "date": "2026/11/30",
+          "context": "。 三、招生對象:全臺國小二至六年級學生,預計招收60名。 四、報名期間:即日起至115年11月30日(一)止。 五、活動介紹:本營隊由國立臺灣師範大學生命科學系學會舉辦,提供國小學生寒假期間"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad464952f26f045e3c6c526?vector=private&static=false",
+      "summary": "一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地點:國立臺灣師範大學公館校區、臺北市立動物園。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "期限",
+        "營隊",
+        "科學"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺灣藝術大學「兒少小學堂」藝術教育課程",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、兒少、家長；屬於課程、資訊，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad457ec6eef3340ac0b4929?vector=private&static=false",
+      "summary": "國立臺灣藝術大學推廣教育中心規劃「兒少小學堂」系列課程,以兒童藝術教育為核心,依不同年齡及學習需求安排繪畫、創作及多元媒材等課程,透過實際操作與藝術創作,引導兒童探索創意、培養美感及觀察能力。 由具藝術教育及相關專業背景之師資授課,並於國立臺灣藝術大學校園內辦理,提供學生接觸藝術、體驗創作及拓展多元學習經驗的機會。",
+      "matchedKeywords": [
+        "學生",
+        "兒少",
+        "家長",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北醫學大學「2027寒假小小醫學雙語研習課程」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/25",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語學習的機會,特別規"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad454759294914071adddba?vector=private&static=false",
+      "summary": "一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語學習的機會,特別規劃本研習課程,透過主題課程、實作活動及互動體驗,引導學生探索醫學領域,培養學習興趣。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "資訊",
+        "英語"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺灣探究與實作教育學會「2027寒假國小國中醫學科學營」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到高年級、學生、家長；屬於活動、營隊；涉及午餐；有重要日期：2027/01/20，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/20",
+      "importantDates": [
+        {
+          "date": "2026/01/20",
+          "context": "生理解人體運作原理,培養實驗操作、科學推理及問題解決能力。 七、報名期限:即日起至116年1月20日(星期三)晚上12時止。 八、報名方式及活動詳情:採網路報名,請至臺灣探究與實作教育學會網"
+        },
+        {
+          "date": "2026/01/22",
+          "context": "及私中實驗課程,或對科學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28"
+        },
+        {
+          "date": "2026/01/23",
+          "context": "學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29"
+        },
+        {
+          "date": "2026/01/28",
+          "context": "月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯次實驗內容不同,有興趣"
+        },
+        {
+          "date": "2027/01/20",
+          "context": ",引導學生理解人體運作原理,培養實驗操作、科學推理及問題解決能力。 七、報名期限:即日起至116年1月20日(星期三)晚上12時止。 八、報名方式及活動詳情:採網路報名,請至臺灣探究與實作教育學會網"
+        },
+        {
+          "date": "2027/01/22",
+          "context": "理資優班及私中實驗課程,或對科學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28"
+        },
+        {
+          "date": "2027/01/28",
+          "context": "16年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad465dc6186b245f08ce62e?vector=private&static=false",
+      "summary": "一、主辦單位:臺灣探究與實作教育學會。 二、招生對象:國小中、高年級至國中學生,適合有志於準備科學班、數理資優班及私中實驗課程,或對科學探究與實作有興趣之學生。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "家長",
+        "報名",
+        "期限",
+        "營隊",
+        "科學",
+        "資訊",
+        "資優",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "「藝起在艋舺」藝文活動",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/31",
+          "context": "「藝起在艋舺」藝文活動 一、活動時間:115年10月31日(星期六)上午11時至下午6時。 二、活動地點:艋舺公園(免費入場)。 三、活動內容:為慶"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45981072d854258e7acc5?vector=private&static=false",
+      "summary": "一、活動時間:115年10月31日(星期六)上午11時至下午6時。 二、活動地點:艋舺公園(免費入場)。",
+      "matchedKeywords": [
+        "學生",
+        "家長"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/13",
+          "context": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日 一、活動時間:115年11月13日(星期五)上午9時30分至下午4時30分。 二、活動地點:國立臺灣科學教育館一樓廣場及臺北"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad461014ab31c44ff0f65d2?vector=private&static=false",
+      "summary": "一、活動時間:115年11月13日(星期五)上午9時30分至下午4時30分。 二、活動地點:國立臺灣科學教育館一樓廣場及臺北科學藝術園區 三、參加對象:限20人以上團體報名。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "注意事項",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】臺北市「115學年度國民中小學親子性私密影像法治教育實施計畫」",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處生教組長",
+      "reason": "提到學生、家長、親子；屬於資訊；有重要日期：2026/10/21，與小五學生或家長的安排有關。",
+      "action": "請留意2026/10/21前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/10/21",
+      "importantDates": [
+        {
+          "date": "2026/09/18",
+          "context": "法治教育實施計畫」 一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,"
+        },
+        {
+          "date": "2026/09/18",
+          "context": "實施計畫」 一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,"
+        },
+        {
+          "date": "2026/10/02",
+          "context": "生科技應用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。 三、原訂申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),"
+        },
+        {
+          "date": "2026/10/02",
+          "context": "用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。 三、原訂申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "申請截止日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),請尚未申請之學校提出申請。 四、本案計畫委託本市永建國小辦理,簡要說明如下:"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "導師為原則,國小得視實際需求,邀請中低年級學生、家長及教師一同參與。 (三)申請方式:請於115年10月21日(星期三)前,將核章後申請書及經費表PDF檔上傳至雲端表單,辦理審核作業。 五、詳細內容請"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "日期為115年10月2日(星期五), 為鼓勵臺北市所屬學校踴躍參與,延長申請期限至115年10月21日(星期三),請尚未申請之學校提出申請。 四、本案計畫委託本市永建國小辦理,簡要說明如下:"
+        },
+        {
+          "date": "2026/10/21",
+          "context": "則,國小得視實際需求,邀請中低年級學生、家長及教師一同參與。 (三)申請方式:請於115年10月21日(星期三)前,將核章後申請書及經費表PDF檔上傳至雲端表單,辦理審核作業。 五、詳細內容請"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad563b30498a276f663d867?vector=private&static=false",
+      "summary": "一、依據「臺北市115學年度所屬學校科技人文素養教育實施計畫」及教育局115年9月18日北市教資字第11530980377號函續辦。 二、為提升臺北市所屬學校學生科技與人文素養,強化資訊倫理 及網路安全意識,健全校園親師生科技應用、資訊素養倫理及法治概念等全方位知識發展,辦理此項計畫。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "期限",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】Go Art 走去藝術-公立學校參訪美術館贊助計畫",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "公文公告",
+      "unit": "學務處訓育組長",
+      "reason": "提到交通；屬於活動、美術；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45c98276465432b1882f6?vector=private&static=false",
+      "summary": "一、贊助對象:全臺公立國小、國中及高中(職)學校,以班級、社團或學習共同體為單位,由教師或學校提出申請,每案參與人數上限為30人。 二、贊助內容:美術館參訪學習活動相關經費,包含交通、門票、保險、導覽及餐費等。",
+      "matchedKeywords": [
+        "社團",
+        "美術",
+        "資訊",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺北大學「2027寒期營隊-ALV國際美國村主題式美語生活營(五日)」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、營隊；有重要日期：2027/01/20，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/20",
+      "importantDates": [
+        {
+          "date": "2026/01/20",
+          "context": "課地點:國立臺北大學合江校區(臺北市中山區合江街53號)。 四、報名時間:即日起至116年1月20日止,額滿為止。 五、課程時間及報名資訊:請至國立臺北大學進修暨推廣部網站查詢。 六、聯絡方"
+        },
+        {
+          "date": "2027/01/20",
+          "context": "三、上課地點:國立臺北大學合江校區(臺北市中山區合江街53號)。 四、報名時間:即日起至116年1月20日止,額滿為止。 五、課程時間及報名資訊:請至國立臺北大學進修暨推廣部網站查詢。 六、聯絡方"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45a7f4412b5402551e184?vector=private&static=false",
+      "summary": "一、營隊特色:以墨西哥文化探索為主題,採ESL分級教學,結合全英文情境學習、文化體驗及團隊活動,透過遊戲、任務與互動,引導學員自然開口說英語,提升英語口說能力與學習自信。 二、課程內容:包含墨西哥文化體驗、草帽DIY、餐廳點餐、城市商店、皮納塔派對、大地尋寶及團體競賽等活動,並安排英文話劇排練與成果演出,搭配「English Only代幣機制」,培養學員英語表達能力及團隊合作精神。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "營隊",
+        "資訊",
+        "英語"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、營隊；有重要日期：2026/11/30，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/30前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/30",
+      "importantDates": [
+        {
+          "date": "2026/01/25",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地"
+        },
+        {
+          "date": "2026/01/28",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地點:國立臺灣師範大"
+        },
+        {
+          "date": "2026/11/30",
+          "context": "立動物園。 三、招生對象:全臺國小二至六年級學生,預計招收60名。 四、報名期間:即日起至115年11月30日(一)止。 五、活動介紹:本營隊由國立臺灣師範大學生命科學系學會舉辦,提供國小學生寒假期間"
+        },
+        {
+          "date": "2026/11/30",
+          "context": "。 三、招生對象:全臺國小二至六年級學生,預計招收60名。 四、報名期間:即日起至115年11月30日(一)止。 五、活動介紹:本營隊由國立臺灣師範大學生命科學系學會舉辦,提供國小學生寒假期間"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊 一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad464952f26f045e3c6c526?vector=private&static=false",
+      "summary": "一、活動日期:116年1月25日(一)至1月28日(四),共4天,為日間營隊,每日活動結束後返家,不提供住宿。 二、活動地點:國立臺灣師範大學公館校區、臺北市立動物園。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "期限",
+        "營隊",
+        "科學"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺灣藝術大學「兒少小學堂」藝術教育課程",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、兒少、家長；屬於課程、資訊，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad457ec6eef3340ac0b4929?vector=private&static=false",
+      "summary": "國立臺灣藝術大學推廣教育中心規劃「兒少小學堂」系列課程,以兒童藝術教育為核心,依不同年齡及學習需求安排繪畫、創作及多元媒材等課程,透過實際操作與藝術創作,引導兒童探索創意、培養美感及觀察能力。 由具藝術教育及相關專業背景之師資授課,並於國立臺灣藝術大學校園內辦理,提供學生接觸藝術、體驗創作及拓展多元學習經驗的機會。",
+      "matchedKeywords": [
+        "學生",
+        "兒少",
+        "家長",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北醫學大學「2027寒假小小醫學雙語研習課程」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/25",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語學習的機會,特別規"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "臺北醫學大學「2027寒假小小醫學雙語研習課程」 一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad454759294914071adddba?vector=private&static=false",
+      "summary": "一、活動日期:116年1月25日(一)至1月29日(五)。 二、活動內容:臺北醫學大學為提供學生寒假期間接觸醫學知識及雙語學習的機會,特別規劃本研習課程,透過主題課程、實作活動及互動體驗,引導學生探索醫學領域,培養學習興趣。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "資訊",
+        "英語"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺灣探究與實作教育學會「2027寒假國小國中醫學科學營」",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到高年級、學生、家長；屬於活動、營隊；涉及午餐；有重要日期：2027/01/20，與小五學生或家長的安排有關。",
+      "action": "請留意2027/01/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2027/01/20",
+      "importantDates": [
+        {
+          "date": "2026/01/20",
+          "context": "生理解人體運作原理,培養實驗操作、科學推理及問題解決能力。 七、報名期限:即日起至116年1月20日(星期三)晚上12時止。 八、報名方式及活動詳情:採網路報名,請至臺灣探究與實作教育學會網"
+        },
+        {
+          "date": "2026/01/22",
+          "context": "及私中實驗課程,或對科學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28"
+        },
+        {
+          "date": "2026/01/23",
+          "context": "學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29"
+        },
+        {
+          "date": "2026/01/28",
+          "context": "月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯次實驗內容不同,有興趣"
+        },
+        {
+          "date": "2027/01/20",
+          "context": ",引導學生理解人體運作原理,培養實驗操作、科學推理及問題解決能力。 七、報名期限:即日起至116年1月20日(星期三)晚上12時止。 八、報名方式及活動詳情:採網路報名,請至臺灣探究與實作教育學會網"
+        },
+        {
+          "date": "2027/01/22",
+          "context": "理資優班及私中實驗課程,或對科學探究與實作有興趣之學生。 三、營隊梯次及課程內容: (一)116年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28"
+        },
+        {
+          "date": "2027/01/28",
+          "context": "16年1月22日(星期五)至1月23日(星期六):第一梯|眼科醫學營:看見光的科學 (二)116年1月28日(星期四)至1月29日(星期五):第二梯|呼吸與循環系統醫學營:生命的運輸高速公路 ※兩梯"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad465dc6186b245f08ce62e?vector=private&static=false",
+      "summary": "一、主辦單位:臺灣探究與實作教育學會。 二、招生對象:國小中、高年級至國中學生,適合有志於準備科學班、數理資優班及私中實驗課程,或對科學探究與實作有興趣之學生。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "家長",
+        "報名",
+        "期限",
+        "營隊",
+        "科學",
+        "資訊",
+        "資優",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "「藝起在艋舺」藝文活動",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/31",
+          "context": "「藝起在艋舺」藝文活動 一、活動時間:115年10月31日(星期六)上午11時至下午6時。 二、活動地點:艋舺公園(免費入場)。 三、活動內容:為慶"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45981072d854258e7acc5?vector=private&static=false",
+      "summary": "一、活動時間:115年10月31日(星期六)上午11時至下午6時。 二、活動地點:艋舺公園(免費入場)。",
+      "matchedKeywords": [
+        "學生",
+        "家長"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "【轉知】行政院新世代打擊詐欺策略行動-小心「寵物投票」詐騙!",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】戶外教育課程場域與學校合作案例(供教師參考)",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】行政院新世代打擊詐欺策略行動-小心「寵物投票」詐騙!",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "臺北市115學年度數位學習教師增能工作坊-第二梯次研習",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Mon, 19 Oct 2026 04:12:16 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1792383305 d2e1a72fcca58-89f51f26324sm3327025b3a.0 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 201,
+    "recordsAfterImport": 201,
+    "historicalLogsRead": 68,
+    "historicalSuccessfulLogs": 46,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 0,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 9,
+    "recordsAfterRun": 210,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

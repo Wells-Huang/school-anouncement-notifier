@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T03:59:18.545Z",
+  "updatedAt": "2026-10-19T04:15:05.273Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -156,6 +156,17 @@
       "lastSentAt": "2026-09-17T04:31:52.149Z",
       "source": "log:logs/2026-09-17/scan-2026-09-17-122857-29f89038-2bf2-4425-8995-40fcd3848af6.json"
     },
+    "13975114ce09103b4c545d51121c41d65c5ce7ba0b4e774e16107dbbf9e0b663": {
+      "title": "臺北醫學大學「2027寒假小小醫學雙語研習課程」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad454759294914071adddba",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
+    },
     "1425738956227a92fcb0c5bba73db8e83e24a54154308dae97e132f85f203910": {
       "title": "臺北市115學年度學生音樂比賽實施計畫",
       "category": "活動/競賽",
@@ -189,6 +200,17 @@
       "lastSentAt": "2026-10-01T05:24:35.010Z",
       "source": "log:logs/2026-10-01/scan-2026-10-01-132101-9e99b0b3-1145-4aa0-8c4c-50c35087e009.json"
     },
+    "174b5d6abf1651e2832ec210ffe7365b20b379b0ec934068d5856d9d8c6df93f": {
+      "title": "國立臺北大學「2027寒期營隊-ALV國際美國村主題式美語生活營(五日)」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45a7f4412b5402551e184",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
+    },
     "18952ca9383da6df5fb993296b8cd99af1371b3cc85cf8d6eb0b5d2291fcf06d": {
       "title": "【轉知】財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
       "category": "公文公告",
@@ -199,6 +221,17 @@
       "firstSentAt": "2026-09-17T04:31:52.147Z",
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
+    },
+    "1a329119c0c3eb8a53d31c6cee37a76d921d4567b08df971a86c608062d4ff66": {
+      "title": "國立臺灣藝術大學「兒少小學堂」藝術教育課程",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad457ec6eef3340ac0b4929",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
     },
     "1babc3fc54f1a5a9e5eccb881caaab5591a61316246596fa826632b8e6886f94": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -684,6 +717,17 @@
       "lastSentAt": "2026-10-14T04:30:12.566Z",
       "source": "log:logs/2026-10-14/scan-2026-10-14-122709-533c933d-9f5f-48cc-8932-8238699dcc66.json"
     },
+    "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
+      "title": "「藝起在艋舺」藝文活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45981072d854258e7acc5",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
+    },
     "454502c97422c7daa67475a8ce8e078cd284f707cfe4c51e2df3246dd4741ba2": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
       "category": "活動/競賽",
@@ -749,6 +793,17 @@
       "firstSentAt": "2026-09-24T04:19:00.365Z",
       "lastSentAt": "2026-09-24T04:19:00.368Z",
       "source": "log:logs/2026-09-24/scan-2026-09-24-121603-6d8ddc3d-6a3e-42ff-8695-65fcc8ea911c.json"
+    },
+    "4eae9822ca2660202ef61e75a45d015384340bab57aa60e73539af099fee7d9a": {
+      "title": "國立臺灣師範大學「2027幸蝠生科營」寒假營隊",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad464952f26f045e3c6c526",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
     },
     "50ef40943ee5fe1fbf524bd4ecca6a0f318b35b96b47e89aadcff90cf2b973bf": {
       "title": "國立臺灣師範大學「115國中生物實驗營II」",
@@ -1300,6 +1355,17 @@
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
     },
+    "83edd8a1bedf8477ee0bf784bd1a1f597eb8041bcc01b85b43ea1d82e312bb21": {
+      "title": "【轉知】臺北市「115學年度國民中小學親子性私密影像法治教育實施計畫」",
+      "category": "公文公告",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad563b30498a276f663d867",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
+    },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
       "category": "活動/競賽",
@@ -1377,6 +1443,17 @@
       "lastSentAt": "2026-09-11T04:11:46.001Z",
       "source": "log:logs/2026-09-11/scan-2026-09-11-120840-2fbaf931-363f-4f83-a3bf-c02db7cf477f.json"
     },
+    "94babc7cedba03f3a213838232283e85764f236602200baa88eb30e2c44282d7": {
+      "title": "【轉知】Go Art 走去藝術-公立學校參訪美術館贊助計畫",
+      "category": "公文公告",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45c98276465432b1882f6",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
+    },
     "952d71cd512bd60a68edf6b49e0b95eeb47cc96ac54d6744f4c2e3b85086a925": {
       "title": "【轉知】石牌自造教育及科技中心115學年度第一學期開放外校師生參訪體驗學習",
       "category": "公文公告",
@@ -1431,6 +1508,17 @@
       "firstSentAt": "2026-09-18T04:16:12.327Z",
       "lastSentAt": "2026-09-19T04:12:39.037Z",
       "source": "log:logs/2026-09-19/scan-2026-09-19-120945-e7a1c475-3cd0-4ef9-881b-0d85380ce24c.json"
+    },
+    "9f233c9bd43804b706ad1ca34ed94bc058662a575a6252f1a5aa22dda0566cc9": {
+      "title": "臺灣探究與實作教育學會「2027寒假國小國中醫學科學營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad465dc6186b245f08ce62e",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
     },
     "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
       "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
@@ -1739,6 +1827,17 @@
       "firstSentAt": "2026-10-16T04:08:51.100Z",
       "lastSentAt": "2026-10-16T04:08:51.103Z",
       "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
+    },
+    "bc2c1bf33f3fdac2fab96922f9468afc90ff412d304a478a09ea163c8fc1c906": {
+      "title": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日",
+      "category": "公文公告",
+      "publishedDate": "2026/10/18",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad461014ab31c44ff0f65d2",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-19T04:15:05.273Z",
+      "lastSentAt": "2026-10-19T04:15:05.273Z",
+      "source": "smtp"
     },
     "bc8dc97ccb2535b18ba96dacaa9d9da054599ac629a5ea48bf93664d2e7e59dd": {
       "title": "115學年度第1學期臺北市戶外教育「芝山岩定向運動」",
