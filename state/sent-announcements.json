@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T04:15:05.273Z",
+  "updatedAt": "2026-10-20T04:26:53.140Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -164,8 +164,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad454759294914071adddba",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "1425738956227a92fcb0c5bba73db8e83e24a54154308dae97e132f85f203910": {
       "title": "臺北市115學年度學生音樂比賽實施計畫",
@@ -208,8 +208,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45a7f4412b5402551e184",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "18952ca9383da6df5fb993296b8cd99af1371b3cc85cf8d6eb0b5d2291fcf06d": {
       "title": "【轉知】財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
@@ -230,8 +230,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad457ec6eef3340ac0b4929",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "1babc3fc54f1a5a9e5eccb881caaab5591a61316246596fa826632b8e6886f94": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -365,6 +365,17 @@
       "lastSentAt": "2026-09-04T04:07:33.700Z",
       "source": "log:logs/2026-09-04/scan-2026-09-04-120448-86e8af8c-a051-4e7e-9f70-bdc27f7041c6.json"
     },
+    "2880cd36b8ca05e817494da46e32e65545257715738a9ab85dd6af67df695f7c": {
+      "title": "115學年度教育盃中小學射擊錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/20",
+      "updatedDate": "2026/10/20",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6b52488c0dbb6ce8d6e8f",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
+    },
     "28c7892754ee901a93d0fb86a91f277a11604014b3b342bfca0203d79040e1e7": {
       "title": "【轉知】「115年念念不忘美好親子成長營」免費親子活動",
       "category": "公文公告",
@@ -463,6 +474,17 @@
       "firstSentAt": "2026-09-16T04:25:51.070Z",
       "lastSentAt": "2026-09-16T04:25:51.072Z",
       "source": "log:logs/2026-09-16/scan-2026-09-16-122252-32c58700-c326-4940-b60a-5157e0c80572.json"
+    },
+    "2f690565d228f64a96eac85d68eec67ced36f2ad2741e738e8b6cb8abe20907c": {
+      "title": "「2026世界人權日—AI與人權」教材包研習",
+      "category": "研習進修",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad5a8d059f749866a92a189",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
     },
     "3099918bb5e6e083710e0b85e74c2c9d8498ea6fbbc5a649bd20a2e5f19fa3bf": {
       "title": "二至六年級午餐報名",
@@ -725,8 +747,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45981072d854258e7acc5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "454502c97422c7daa67475a8ce8e078cd284f707cfe4c51e2df3246dd4741ba2": {
       "title": "「我與酷獸的大冒險-想像博物館實境解謎」體驗活動",
@@ -802,8 +824,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad464952f26f045e3c6c526",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "50ef40943ee5fe1fbf524bd4ecca6a0f318b35b96b47e89aadcff90cf2b973bf": {
       "title": "國立臺灣師範大學「115國中生物實驗營II」",
@@ -1113,6 +1135,17 @@
       "lastSentAt": "2026-09-19T04:12:39.037Z",
       "source": "log:logs/2026-09-19/scan-2026-09-19-120945-e7a1c475-3cd0-4ef9-881b-0d85380ce24c.json"
     },
+    "6e01f509c2fedeb238fb63415f0ae45d808fbae4dd0b314cd8ede07f8ed4062e": {
+      "title": "115學年度教育盃中小學射箭錦標賽競賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/20",
+      "updatedDate": "2026/10/20",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6b9ba1257d8bad2af4e8f",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
+    },
     "6e069855d838d3174c45d440ee452c052615c6297177faee170fe24b386ec3c8": {
       "title": "臺北市大安區大安國民小學辦理2場親職講座,歡迎有興趣的家長踴躍報名",
       "category": "活動/競賽",
@@ -1363,8 +1396,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad563b30498a276f663d867",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -1451,8 +1484,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad45c98276465432b1882f6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "952d71cd512bd60a68edf6b49e0b95eeb47cc96ac54d6744f4c2e3b85086a925": {
       "title": "【轉知】石牌自造教育及科技中心115學年度第一學期開放外校師生參訪體驗學習",
@@ -1509,6 +1542,17 @@
       "lastSentAt": "2026-09-19T04:12:39.037Z",
       "source": "log:logs/2026-09-19/scan-2026-09-19-120945-e7a1c475-3cd0-4ef9-881b-0d85380ce24c.json"
     },
+    "9ed93de174ea0aebbb4ea9a441ac80d0f3c435bb498c30a842492b078ca0ad55": {
+      "title": "松山工農「國中學生職業試探工業 4.0 機械手臂體驗」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad5d6e0d66429901e2812bb",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
+    },
     "9f233c9bd43804b706ad1ca34ed94bc058662a575a6252f1a5aa22dda0566cc9": {
       "title": "臺灣探究與實作教育學會「2027寒假國小國中醫學科學營」",
       "category": "活動/競賽",
@@ -1517,8 +1561,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad465dc6186b245f08ce62e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
       "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
@@ -1828,6 +1872,17 @@
       "lastSentAt": "2026-10-16T04:08:51.103Z",
       "source": "log:logs/2026-10-16/scan-2026-10-16-120553-f462f563-4164-417e-bf61-e685d16c1e64.json"
     },
+    "bb6475faafee6c83035963822b453da8cdc00eb1e390cb5c15b49ac1a430d9de": {
+      "title": "115年臺北市週末田徑測驗賽(5)",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/19",
+      "updatedDate": "2026/10/19",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad5b34c4e3c18843eb66f44",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
+    },
     "bc2c1bf33f3fdac2fab96922f9468afc90ff412d304a478a09ea163c8fc1c906": {
       "title": "【轉知】2026年第七屆臺灣科學節-校園團體免費參觀日",
       "category": "公文公告",
@@ -1836,8 +1891,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad461014ab31c44ff0f65d2",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-19T04:15:05.273Z",
-      "lastSentAt": "2026-10-19T04:15:05.273Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-19T04:15:05.276Z",
+      "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
     },
     "bc8dc97ccb2535b18ba96dacaa9d9da054599ac629a5ea48bf93664d2e7e59dd": {
       "title": "115學年度第1學期臺北市戶外教育「芝山岩定向運動」",
@@ -1849,6 +1904,17 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "bd44f3384e4997c12b09aa0001a80e9b5e73632b0ba4e0619325cf190db034bb": {
+      "title": "115學年度第2學期課外社團開課申請公告",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/20",
+      "updatedDate": "2026/10/20",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6d28c8506a7c136f2eb47",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-20T04:26:53.140Z",
+      "lastSentAt": "2026-10-20T04:26:53.140Z",
+      "source": "smtp"
     },
     "bd5c834b79b5dd6a88cb93d45bda310ad61ea4d245a054a9061138915e08af63": {
       "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
