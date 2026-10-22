@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T04:17:03.324Z",
+  "updatedAt": "2026-10-22T04:17:30.873Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -373,8 +373,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6b52488c0dbb6ce8d6e8f",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-20T04:26:53.140Z",
-      "lastSentAt": "2026-10-20T04:26:53.143Z",
-      "source": "log:logs/2026-10-20/scan-2026-10-20-122351-e5767016-d49d-4155-80d4-44377499fa0f.json"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "28c7892754ee901a93d0fb86a91f277a11604014b3b342bfca0203d79040e1e7": {
       "title": "【轉知】「115年念念不忘美好親子成長營」免費親子活動",
@@ -494,8 +494,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad81b9871b50400990d2b3a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-21T04:17:03.324Z",
-      "lastSentAt": "2026-10-21T04:17:03.324Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "3099918bb5e6e083710e0b85e74c2c9d8498ea6fbbc5a649bd20a2e5f19fa3bf": {
       "title": "二至六年級午餐報名",
@@ -805,6 +805,17 @@
       "lastSentAt": "2026-10-08T05:39:30.290Z",
       "source": "log:logs/2026-10-08/scan-2026-10-08-133551-7f02dcc0-f611-4794-82be-75df043411cc.json"
     },
+    "4b9f9951c51950c0c43db10bc7960f7a74027c20ae0526d12974f08e171d98d2": {
+      "title": "【轉知】為落實教師正向管教及保障教師教學專業,依《高級中等以下學校教師解聘不續聘停聘或資遣辦法》第8條規定,妥適辦理教師輔導管教相關",
+      "category": "公文公告",
+      "publishedDate": "2026/10/21",
+      "updatedDate": "2026/10/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad84b52522cd909aaef024a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-22T04:17:30.873Z",
+      "lastSentAt": "2026-10-22T04:17:30.873Z",
+      "source": "smtp"
+    },
     "4ba866839ca9faa12d8c8cdf7e734d7206dbfc791ed235476c14bbbf9c866998": {
       "title": "115學年度古亭國小體育表演會學生志工徵選",
       "category": "校務公告",
@@ -989,8 +1000,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6fe9671f2c4c6f162ce6e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-21T04:17:03.324Z",
-      "lastSentAt": "2026-10-21T04:17:03.324Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "5b80826eb88b8a96838cb8a9d7859804ce963a9f58f93a269bae39de0b513f6f": {
       "title": "115課後班編班公告與請假方式",
@@ -1165,8 +1176,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6b9ba1257d8bad2af4e8f",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-20T04:26:53.140Z",
-      "lastSentAt": "2026-10-20T04:26:53.143Z",
-      "source": "log:logs/2026-10-20/scan-2026-10-20-122351-e5767016-d49d-4155-80d4-44377499fa0f.json"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "6e069855d838d3174c45d440ee452c052615c6297177faee170fe24b386ec3c8": {
       "title": "臺北市大安區大安國民小學辦理2場親職講座,歡迎有興趣的家長踴躍報名",
@@ -1792,8 +1803,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6faefd04f9cc7e41fee27",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-21T04:17:03.324Z",
-      "lastSentAt": "2026-10-21T04:17:03.324Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "b0e85ece2ead0fddb757c3bde641dadc7381ab47b2dc3b1345e64c81471198b6": {
       "title": "115年臺北市原住民族學生語言競賽報名簡章",
@@ -1946,8 +1957,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6d28c8506a7c136f2eb47",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-20T04:26:53.140Z",
-      "lastSentAt": "2026-10-20T04:26:53.143Z",
-      "source": "log:logs/2026-10-20/scan-2026-10-20-122351-e5767016-d49d-4155-80d4-44377499fa0f.json"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "bd5c834b79b5dd6a88cb93d45bda310ad61ea4d245a054a9061138915e08af63": {
       "title": "「115年度臺北市原住民族語言能力認證測驗考前輔導班」簡章",
@@ -2034,8 +2045,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad6fe1801ca49c687138114",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-21T04:17:03.324Z",
-      "lastSentAt": "2026-10-21T04:17:03.324Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-21T04:17:03.327Z",
+      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
     "c941f0f94dee9f47722fb9d145b45fcf4b027856c702155b53fba25dba01609c": {
       "title": "115學年度教育盃國民中小學網球錦標賽",
