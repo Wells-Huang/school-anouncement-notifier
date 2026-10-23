@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T04:17:30.873Z",
+  "updatedAt": "2026-10-23T04:21:10.452Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -310,6 +310,17 @@
       "lastSentAt": "2026-10-06T05:56:55.470Z",
       "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
     },
+    "20a0720770fddc9ae4776c280ffe642b4cf2ae170ea1e4c2ab53571017cdbf0d": {
+      "title": "2026臺中EDU-BUFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/22",
+      "updatedDate": "2026/10/22",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad9a5912ef2985259a96383",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-23T04:21:10.452Z",
+      "lastSentAt": "2026-10-23T04:21:10.452Z",
+      "source": "smtp"
+    },
     "20fc100a6b05b41725a5647f3988328f8d9608da39a5429378c28a020fbd4c7a": {
       "title": "財團法人永長興社會福利慈善基金會「贊助體育團隊參賽補助辦法」",
       "category": "獎補助資訊",
@@ -494,8 +505,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad81b9871b50400990d2b3a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-21T04:17:03.324Z",
-      "lastSentAt": "2026-10-21T04:17:03.327Z",
-      "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
+      "lastSentAt": "2026-10-22T04:17:30.876Z",
+      "source": "log:logs/2026-10-22/scan-2026-10-22-121441-a9630b26-2021-4c67-94ea-1a726c6bfd73.json"
     },
     "3099918bb5e6e083710e0b85e74c2c9d8498ea6fbbc5a649bd20a2e5f19fa3bf": {
       "title": "二至六年級午餐報名",
@@ -813,8 +824,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad84b52522cd909aaef024a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-22T04:17:30.873Z",
-      "lastSentAt": "2026-10-22T04:17:30.873Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-22T04:17:30.876Z",
+      "source": "log:logs/2026-10-22/scan-2026-10-22-121441-a9630b26-2021-4c67-94ea-1a726c6bfd73.json"
     },
     "4ba866839ca9faa12d8c8cdf7e734d7206dbfc791ed235476c14bbbf9c866998": {
       "title": "115學年度古亭國小體育表演會學生志工徵選",
