@@ -1,12 +1,12 @@
 {
-  "runId": "54dc4673-a5f6-422a-b0c5-1cfcedea23cc",
+  "runId": "3a0552e4-90a5-4be2-a064-9bb6f06a6bba",
   "execution": {
-    "startedAtUtc": "2026-10-23T04:18:26.608Z",
-    "completedAtUtc": "2026-10-23T04:21:10.455Z",
-    "executedAtTaipei": "2026/10/23 12:18:26",
+    "startedAtUtc": "2026-10-24T04:09:03.043Z",
+    "completedAtUtc": "2026-10-24T04:11:53.003Z",
+    "executedAtTaipei": "2026/10/24 12:09:03",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-10-22T04:18:26.608Z",
-    "windowEndUtc": "2026-10-23T04:18:26.608Z"
+    "windowStartUtc": "2026-10-23T04:09:03.043Z",
+    "windowEndUtc": "2026-10-24T04:09:03.043Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
@@ -54,162 +54,63 @@
   },
   "counts": {
     "scanned": 1915,
-    "recent24h": 4,
-    "relevant": 1,
-    "newRelevant": 1,
+    "recent24h": 1,
+    "relevant": 0,
+    "newRelevant": 0,
     "alreadySent": 0,
     "sameVersionDuplicates": 0,
-    "skipped": 3,
-    "duplicatesRemoved": 2,
-    "detailAttempts": 6,
-    "detailSuccesses": 6,
+    "skipped": 1,
+    "duplicatesRemoved": 1,
+    "detailAttempts": 2,
+    "detailSuccesses": 2,
     "detailFailures": 0
   },
-  "relevantAnnouncements": [
-    {
-      "relevant": true,
-      "bucket": "今天必看",
-      "priority": "高",
-      "title": "2026臺中EDU-BUFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會",
-      "publishedDate": "2026/10/22",
-      "updatedDate": "2026/10/22",
-      "category": "活動/競賽",
-      "unit": "教務處教學組長",
-      "reason": "提到家長；屬於活動、課程，與小五學生或家長的安排有關。",
-      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
-      "deadline": "無明確截止日期",
-      "importantDates": [
-        {
-          "date": "2026/10/19",
-          "context": "DU-BUFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會 一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會"
-        },
-        {
-          "date": "2026/10/19",
-          "context": "UFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會 一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會"
-        },
-        {
-          "date": "2026/11/07",
-          "context": "附件課程博覽會實施計畫。 四、本案活動、課程介紹、報名資訊暨YouTuber線上課程連結(115年11月7日將公告於旨揭網站),請詳參旨案網站。 五、本案相關問題請洽聯絡窗口林楷植課程督學,聯絡電話"
-        },
-        {
-          "date": "2026/11/07",
-          "context": "博覽會實施計畫。 四、本案活動、課程介紹、報名資訊暨YouTuber線上課程連結(115年11月7日將公告於旨揭網站),請詳參旨案網站。 五、本案相關問題請洽聯絡窗口林楷植課程督學,聯絡電話"
-        }
-      ],
-      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad9a5912ef2985259a96383?vector=private&static=false",
-      "summary": "一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會以「創藝人文・AI賦能」為主題,期待與各縣市學校、教師及家長們,共同交流課程研創數位融入教學實踐之經驗,歡迎教育夥伴共襄盛舉,體驗臺中多元豐富教育力。",
-      "matchedKeywords": [
-        "家長",
-        "報名",
-        "資訊",
-        "AI"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
-    }
-  ],
-  "emailAnnouncements": [
-    {
-      "relevant": true,
-      "bucket": "今天必看",
-      "priority": "高",
-      "title": "2026臺中EDU-BUFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會",
-      "publishedDate": "2026/10/22",
-      "updatedDate": "2026/10/22",
-      "category": "活動/競賽",
-      "unit": "教務處教學組長",
-      "reason": "提到家長；屬於活動、課程，與小五學生或家長的安排有關。",
-      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
-      "deadline": "無明確截止日期",
-      "importantDates": [
-        {
-          "date": "2026/10/19",
-          "context": "DU-BUFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會 一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會"
-        },
-        {
-          "date": "2026/10/19",
-          "context": "UFFET課程流動心饗宴『創藝人文・AI賦能』課程博覽會 一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會"
-        },
-        {
-          "date": "2026/11/07",
-          "context": "附件課程博覽會實施計畫。 四、本案活動、課程介紹、報名資訊暨YouTuber線上課程連結(115年11月7日將公告於旨揭網站),請詳參旨案網站。 五、本案相關問題請洽聯絡窗口林楷植課程督學,聯絡電話"
-        },
-        {
-          "date": "2026/11/07",
-          "context": "博覽會實施計畫。 四、本案活動、課程介紹、報名資訊暨YouTuber線上課程連結(115年11月7日將公告於旨揭網站),請詳參旨案網站。 五、本案相關問題請洽聯絡窗口林楷植課程督學,聯絡電話"
-        }
-      ],
-      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad9a5912ef2985259a96383?vector=private&static=false",
-      "summary": "一、依據臺中市政府教育局115年10月19日中市教課字第1150094908號函辦理。 二、2026臺中EDU—BUFFET課程博覽會以「創藝人文・AI賦能」為主題,期待與各縣市學校、教師及家長們,共同交流課程研創數位融入教學實踐之經驗,歡迎教育夥伴共襄盛舉,體驗臺中多元豐富教育力。",
-      "matchedKeywords": [
-        "家長",
-        "報名",
-        "資訊",
-        "AI"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
-    }
-  ],
+  "relevantAnnouncements": [],
+  "emailAnnouncements": [],
   "alreadySentAnnouncements": [],
   "sameVersionDuplicateAnnouncements": [],
   "skippedAnnouncements": [
     {
-      "title": "賀!本校學生508鍾任安參加「 2026 第十一屆國際金鼓獎爵士鼓大賽」 榮獲國小C組特優獎!",
-      "category": "榮譽榜",
+      "title": "2027年第四十五屆大墩陽光冬令營",
+      "category": "活動/競賽",
       "reason": "未達相關條件"
-    },
-    {
-      "title": "教育部國民及學前教育署115學年度「2026世界人權日—AI與人權」教材包研習活動",
-      "category": "研習進修",
-      "reason": "已截止"
-    },
-    {
-      "title": "「程式控制無人機初階」教師研習",
-      "category": "研習進修",
-      "reason": "教師／行政等低優先內容"
     }
   ],
   "rss": {
     "success": true,
     "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
     "itemCount": 100,
-    "lastBuildDate": "Fri, 23 Oct 2026 04:18:33 GMT"
+    "lastBuildDate": "Sat, 24 Oct 2026 04:09:09 GMT"
   },
   "email": {
-    "attempted": true,
-    "sent": true,
-    "provider": "Gmail SMTP",
-    "response": "250 2.0.0 OK  1792729270 af79cd13be357-93f70f23936sm88943185a.13 - gsmtp"
+    "attempted": false,
+    "sent": false,
+    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
     "loadedFromFile": true,
     "safeToSend": true,
     "readError": "",
-    "recordsBeforeImport": 221,
-    "recordsAfterImport": 221,
-    "historicalLogsRead": 72,
-    "historicalSuccessfulLogs": 50,
+    "recordsBeforeImport": 222,
+    "recordsAfterImport": 222,
+    "historicalLogsRead": 73,
+    "historicalSuccessfulLogs": 51,
     "historicalVersionsImported": 0,
-    "historicalVersionsRefreshed": 2,
+    "historicalVersionsRefreshed": 1,
     "historyErrors": [],
-    "markedAfterEmailSuccess": 1,
+    "markedAfterEmailSuccess": 0,
     "recordsAfterRun": 222,
     "saved": true,
     "saveError": "",
     "saveNeeded": true,
     "saveReason": "已儲存已寄送狀態"
   },
-  "status": "relevant_found",
-  "noEmailReason": "",
+  "status": "no_related_announcements",
+  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
   "failureReason": "",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-23/scan-2026-10-23-121826-54dc4673-a5f6-422a-b0c5-1cfcedea23cc.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-24/scan-2026-10-24-120903-3a0552e4-90a5-4be2-a064-9bb6f06a6bba.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }

@@ -1,0 +1,116 @@
+{
+  "runId": "3a0552e4-90a5-4be2-a064-9bb6f06a6bba",
+  "execution": {
+    "startedAtUtc": "2026-10-24T04:09:03.043Z",
+    "completedAtUtc": "2026-10-24T04:11:53.003Z",
+    "executedAtTaipei": "2026/10/24 12:09:03",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-10-23T04:09:03.043Z",
+    "windowEndUtc": "2026-10-24T04:09:03.043Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 1,
+    "relevant": 0,
+    "newRelevant": 0,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 1,
+    "duplicatesRemoved": 1,
+    "detailAttempts": 2,
+    "detailSuccesses": 2,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [],
+  "emailAnnouncements": [],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "2027年第四十五屆大墩陽光冬令營",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Sat, 24 Oct 2026 04:09:09 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 222,
+    "recordsAfterImport": 222,
+    "historicalLogsRead": 73,
+    "historicalSuccessfulLogs": 51,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 1,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 0,
+    "recordsAfterRun": 222,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "no_related_announcements",
+  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-24/scan-2026-10-24-120903-3a0552e4-90a5-4be2-a064-9bb6f06a6bba.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

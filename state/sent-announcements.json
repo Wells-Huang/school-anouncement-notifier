@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T04:21:10.452Z",
+  "updatedAt": "2026-10-23T04:21:10.455Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -318,8 +318,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad9a5912ef2985259a96383",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-23T04:21:10.452Z",
-      "lastSentAt": "2026-10-23T04:21:10.452Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-23T04:21:10.455Z",
+      "source": "log:logs/2026-10-23/scan-2026-10-23-121826-54dc4673-a5f6-422a-b0c5-1cfcedea23cc.json"
     },
     "20fc100a6b05b41725a5647f3988328f8d9608da39a5429378c28a020fbd4c7a": {
       "title": "財團法人永長興社會福利慈善基金會「贊助體育團隊參賽補助辦法」",
