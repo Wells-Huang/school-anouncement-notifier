@@ -1,31 +1,38 @@
 {
-  "runId": "3a0552e4-90a5-4be2-a064-9bb6f06a6bba",
+  "runId": "2e20517c-7fc2-4fbf-af7e-e2a46fd78ca1",
   "execution": {
-    "startedAtUtc": "2026-10-24T04:09:03.043Z",
-    "completedAtUtc": "2026-10-24T04:11:53.003Z",
-    "executedAtTaipei": "2026/10/24 12:09:03",
+    "startedAtUtc": "2026-10-25T04:11:39.607Z",
+    "completedAtUtc": "2026-10-25T04:12:25.131Z",
+    "executedAtTaipei": "2026/10/25 12:11:39",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-10-23T04:09:03.043Z",
-    "windowEndUtc": "2026-10-24T04:09:03.043Z"
+    "windowStartUtc": "2026-10-24T04:11:39.607Z",
+    "windowEndUtc": "2026-10-25T04:11:39.607Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
   },
   "methods": [
     "rendered page",
-    "RSS"
+    "搜尋引擎備援"
   ],
   "page": {
-    "opened": true,
-    "renderedPageSuccess": true,
-    "announcementListSuccess": true,
-    "responseStatus": 200,
+    "opened": false,
+    "renderedPageSuccess": false,
+    "announcementListSuccess": false,
+    "responseStatus": null,
     "jsShellDetected": false,
     "jsShellSummary": "",
-    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
-    "rssSuccess": true,
-    "rssItemCount": 100,
-    "searchEngineBackup": null
+    "rssUrl": "",
+    "rssSuccess": false,
+    "rssItemCount": 0,
+    "searchEngineBackup": {
+      "attempted": true,
+      "success": true,
+      "url": "https://www.google.com/search?q=site%3Awww.gtes.tp.edu.tw%20%E5%8F%A4%E4%BA%AD%E5%9C%8B%E5%B0%8F%20%E5%85%AC%E5%91%8A",
+      "status": 200,
+      "summary": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please click here , or send feedback .",
+      "usableForNoAnnouncement": false
+    }
   },
   "categories": {
     "requested": [
@@ -39,53 +46,34 @@
       "音樂班聯招",
       "教師甄選"
     ],
-    "successful": [
-      "榮譽榜",
-      "校務公告",
-      "獎補助資訊",
-      "公文公告",
-      "活動/競賽",
-      "研習進修",
-      "人事服務",
-      "音樂班聯招",
-      "教師甄選"
-    ],
+    "successful": [],
     "failed": []
   },
   "counts": {
-    "scanned": 1915,
-    "recent24h": 1,
+    "scanned": 0,
+    "recent24h": 0,
     "relevant": 0,
     "newRelevant": 0,
     "alreadySent": 0,
     "sameVersionDuplicates": 0,
-    "skipped": 1,
-    "duplicatesRemoved": 1,
-    "detailAttempts": 2,
-    "detailSuccesses": 2,
+    "skipped": 0,
+    "duplicatesRemoved": 0,
+    "detailAttempts": 0,
+    "detailSuccesses": 0,
     "detailFailures": 0
   },
   "relevantAnnouncements": [],
   "emailAnnouncements": [],
   "alreadySentAnnouncements": [],
   "sameVersionDuplicateAnnouncements": [],
-  "skippedAnnouncements": [
-    {
-      "title": "2027年第四十五屆大墩陽光冬令營",
-      "category": "活動/競賽",
-      "reason": "未達相關條件"
-    }
-  ],
+  "skippedAnnouncements": [],
   "rss": {
-    "success": true,
-    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
-    "itemCount": 100,
-    "lastBuildDate": "Sat, 24 Oct 2026 04:09:09 GMT"
+    "success": false
   },
   "email": {
     "attempted": false,
     "sent": false,
-    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
+    "reason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
@@ -94,23 +82,23 @@
     "readError": "",
     "recordsBeforeImport": 222,
     "recordsAfterImport": 222,
-    "historicalLogsRead": 73,
+    "historicalLogsRead": 74,
     "historicalSuccessfulLogs": 51,
     "historicalVersionsImported": 0,
-    "historicalVersionsRefreshed": 1,
+    "historicalVersionsRefreshed": 0,
     "historyErrors": [],
     "markedAfterEmailSuccess": 0,
     "recordsAfterRun": 222,
-    "saved": true,
+    "saved": false,
     "saveError": "",
-    "saveNeeded": true,
-    "saveReason": "已儲存已寄送狀態"
+    "saveNeeded": false,
+    "saveReason": "已寄送狀態無變更"
   },
-  "status": "no_related_announcements",
-  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
-  "failureReason": "",
+  "status": "read_failure",
+  "noEmailReason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信",
+  "failureReason": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.gtes.tp.edu.tw/nss/p/index\", waiting until \"domcontentloaded\"\n",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-24/scan-2026-10-24-120903-3a0552e4-90a5-4be2-a064-9bb6f06a6bba.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-25/scan-2026-10-25-121139-2e20517c-7fc2-4fbf-af7e-e2a46fd78ca1.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }
