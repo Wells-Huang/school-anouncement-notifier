@@ -1,38 +1,31 @@
 {
-  "runId": "2e20517c-7fc2-4fbf-af7e-e2a46fd78ca1",
+  "runId": "5d28854b-4e3d-494e-8efe-e51d787f1782",
   "execution": {
-    "startedAtUtc": "2026-10-25T04:11:39.607Z",
-    "completedAtUtc": "2026-10-25T04:12:25.131Z",
-    "executedAtTaipei": "2026/10/25 12:11:39",
+    "startedAtUtc": "2026-10-26T04:15:39.875Z",
+    "completedAtUtc": "2026-10-26T04:18:17.870Z",
+    "executedAtTaipei": "2026/10/26 12:15:39",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-10-24T04:11:39.607Z",
-    "windowEndUtc": "2026-10-25T04:11:39.607Z"
+    "windowStartUtc": "2026-10-25T04:15:39.875Z",
+    "windowEndUtc": "2026-10-26T04:15:39.875Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
   },
   "methods": [
     "rendered page",
-    "搜尋引擎備援"
+    "RSS"
   ],
   "page": {
-    "opened": false,
-    "renderedPageSuccess": false,
-    "announcementListSuccess": false,
-    "responseStatus": null,
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
     "jsShellDetected": false,
     "jsShellSummary": "",
-    "rssUrl": "",
-    "rssSuccess": false,
-    "rssItemCount": 0,
-    "searchEngineBackup": {
-      "attempted": true,
-      "success": true,
-      "url": "https://www.google.com/search?q=site%3Awww.gtes.tp.edu.tw%20%E5%8F%A4%E4%BA%AD%E5%9C%8B%E5%B0%8F%20%E5%85%AC%E5%91%8A",
-      "status": 200,
-      "summary": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please click here , or send feedback .",
-      "usableForNoAnnouncement": false
-    }
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
   },
   "categories": {
     "requested": [
@@ -46,11 +39,21 @@
       "音樂班聯招",
       "教師甄選"
     ],
-    "successful": [],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
     "failed": []
   },
   "counts": {
-    "scanned": 0,
+    "scanned": 1915,
     "recent24h": 0,
     "relevant": 0,
     "newRelevant": 0,
@@ -68,12 +71,15 @@
   "sameVersionDuplicateAnnouncements": [],
   "skippedAnnouncements": [],
   "rss": {
-    "success": false
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Mon, 26 Oct 2026 04:15:45 GMT"
   },
   "email": {
     "attempted": false,
     "sent": false,
-    "reason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信"
+    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
@@ -82,7 +88,7 @@
     "readError": "",
     "recordsBeforeImport": 222,
     "recordsAfterImport": 222,
-    "historicalLogsRead": 74,
+    "historicalLogsRead": 75,
     "historicalSuccessfulLogs": 51,
     "historicalVersionsImported": 0,
     "historicalVersionsRefreshed": 0,
@@ -94,11 +100,11 @@
     "saveNeeded": false,
     "saveReason": "已寄送狀態無變更"
   },
-  "status": "read_failure",
-  "noEmailReason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信",
-  "failureReason": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.gtes.tp.edu.tw/nss/p/index\", waiting until \"domcontentloaded\"\n",
+  "status": "no_related_announcements",
+  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
+  "failureReason": "",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-25/scan-2026-10-25-121139-2e20517c-7fc2-4fbf-af7e-e2a46fd78ca1.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-26/scan-2026-10-26-121539-5d28854b-4e3d-494e-8efe-e51d787f1782.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }
