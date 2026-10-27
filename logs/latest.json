@@ -1,12 +1,12 @@
 {
-  "runId": "5d28854b-4e3d-494e-8efe-e51d787f1782",
+  "runId": "47c7be6d-1939-43b3-a83d-bb50d376dd2a",
   "execution": {
-    "startedAtUtc": "2026-10-26T04:15:39.875Z",
-    "completedAtUtc": "2026-10-26T04:18:17.870Z",
-    "executedAtTaipei": "2026/10/26 12:15:39",
+    "startedAtUtc": "2026-10-27T04:34:40.274Z",
+    "completedAtUtc": "2026-10-27T04:37:27.681Z",
+    "executedAtTaipei": "2026/10/27 12:34:40",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-10-25T04:15:39.875Z",
-    "windowEndUtc": "2026-10-26T04:15:39.875Z"
+    "windowStartUtc": "2026-10-26T04:34:40.274Z",
+    "windowEndUtc": "2026-10-27T04:34:40.274Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
@@ -54,32 +54,225 @@
   },
   "counts": {
     "scanned": 1915,
-    "recent24h": 0,
-    "relevant": 0,
-    "newRelevant": 0,
+    "recent24h": 3,
+    "relevant": 2,
+    "newRelevant": 2,
     "alreadySent": 0,
     "sameVersionDuplicates": 0,
-    "skipped": 0,
-    "duplicatesRemoved": 0,
-    "detailAttempts": 0,
-    "detailSuccesses": 0,
+    "skipped": 1,
+    "duplicatesRemoved": 2,
+    "detailAttempts": 5,
+    "detailSuccesses": 5,
     "detailFailures": 0
   },
-  "relevantAnnouncements": [],
-  "emailAnnouncements": [],
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "10/29(四)學童流感疫苗接種注意事項及(疫苗廠牌)公告",
+      "publishedDate": "2026/10/27",
+      "updatedDate": "2026/10/27",
+      "category": "校務公告",
+      "unit": "學務處衛生組長",
+      "reason": "提到學生、學童、家長；涉及疫苗，與小五學生或家長的安排有關。",
+      "action": "請留意學校後續通知；若需家長同意或配合，請依通知回覆。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6adffabe2f63342788eea283?vector=private&static=false",
+      "summary": "關於10/29(四)本校學童流感疫苗接種注意事項請各位家長留意: (一)入校服務之醫療院所:台北市立聯醫仁愛院區 (二)本次施打疫苗廠牌:國光流感疫苗 (三)要更動接種意願,請於(8:00~16:00)來電23639795-827或828 (四)若當天因故無法施打,請家長告知班導師,由班導師當天轉達給健康中心 ★當天施打流程 1.學生將會→領到家長同意書→測量體溫→醫師評估→再次身分核對→施打疫苗→休息觀察→無不適→返回教室。 2.若醫師評估不適合施打者,日後會另發補種通知單(憑單可至醫療院所公費接種疫苗)。",
+      "matchedKeywords": [
+        "學生",
+        "學童",
+        "家長",
+        "注意事項",
+        "疫苗"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115學年度教育盃中小學圍棋錦標賽",
+      "publishedDate": "2026/10/27",
+      "updatedDate": "2026/10/27",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於比賽、資訊；有重要日期：2026/11/11，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/11前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/11",
+      "importantDates": [
+        {
+          "date": "2026/10/31",
+          "context": "分為職業棋士暨7段、6段、5段、4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行"
+        },
+        {
+          "date": "2026/10/31",
+          "context": "棋士暨7段、6段、5段、4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行"
+        },
+        {
+          "date": "2026/11/09",
+          "context": "低報或低棋高報。其他比賽規定及相關資訊,請參閱競賽規程。 有意參賽者,請留意報名期限,並於11月9日 星期一前 洽訓育組辦理相關報名事宜。"
+        },
+        {
+          "date": "2026/11/11",
+          "context": "4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行政單位統一辦理報名。報名"
+        },
+        {
+          "date": "2026/11/24",
+          "context": "臺北市115學年度教育盃中小學圍棋錦標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)1"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "學圍棋錦標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:臺北市立信義國民中學(臺北市信義區松仁路158巷1號)"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:臺北市立信義國民中學(臺北市信義區松仁路158巷1號)"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae0290b4de044367b07f583?vector=private&static=false",
+      "summary": "一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "注意事項",
+        "比賽",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "10/29(四)學童流感疫苗接種注意事項及(疫苗廠牌)公告",
+      "publishedDate": "2026/10/27",
+      "updatedDate": "2026/10/27",
+      "category": "校務公告",
+      "unit": "學務處衛生組長",
+      "reason": "提到學生、學童、家長；涉及疫苗，與小五學生或家長的安排有關。",
+      "action": "請留意學校後續通知；若需家長同意或配合，請依通知回覆。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6adffabe2f63342788eea283?vector=private&static=false",
+      "summary": "關於10/29(四)本校學童流感疫苗接種注意事項請各位家長留意: (一)入校服務之醫療院所:台北市立聯醫仁愛院區 (二)本次施打疫苗廠牌:國光流感疫苗 (三)要更動接種意願,請於(8:00~16:00)來電23639795-827或828 (四)若當天因故無法施打,請家長告知班導師,由班導師當天轉達給健康中心 ★當天施打流程 1.學生將會→領到家長同意書→測量體溫→醫師評估→再次身分核對→施打疫苗→休息觀察→無不適→返回教室。 2.若醫師評估不適合施打者,日後會另發補種通知單(憑單可至醫療院所公費接種疫苗)。",
+      "matchedKeywords": [
+        "學生",
+        "學童",
+        "家長",
+        "注意事項",
+        "疫苗"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115學年度教育盃中小學圍棋錦標賽",
+      "publishedDate": "2026/10/27",
+      "updatedDate": "2026/10/27",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於比賽、資訊；有重要日期：2026/11/11，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/11前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/11",
+      "importantDates": [
+        {
+          "date": "2026/10/31",
+          "context": "分為職業棋士暨7段、6段、5段、4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行"
+        },
+        {
+          "date": "2026/10/31",
+          "context": "棋士暨7段、6段、5段、4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行"
+        },
+        {
+          "date": "2026/11/09",
+          "context": "低報或低棋高報。其他比賽規定及相關資訊,請參閱競賽規程。 有意參賽者,請留意報名期限,並於11月9日 星期一前 洽訓育組辦理相關報名事宜。"
+        },
+        {
+          "date": "2026/11/11",
+          "context": "4段、3段、2段及1段等組別。 四、報名方式: 網路報名:115年10月31日(星期六)至11月11日(星期三)晚間11時59分止。 請有意參賽者洽本校訓育組,由學校行政單位統一辦理報名。報名"
+        },
+        {
+          "date": "2026/11/24",
+          "context": "臺北市115學年度教育盃中小學圍棋錦標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)1"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "學圍棋錦標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "標賽 一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:臺北市立信義國民中學(臺北市信義區松仁路158巷1號)"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。 (三)115年11月26日(星期四):個人賽。 二、比賽地點:臺北市立信義國民中學(臺北市信義區松仁路158巷1號)"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae0290b4de044367b07f583?vector=private&static=false",
+      "summary": "一、比賽日期: (一)115年11月24日(星期二):國小組團體賽。 (二)115年11月25日(星期三):中學組團體賽。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "注意事項",
+        "比賽",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
   "alreadySentAnnouncements": [],
   "sameVersionDuplicateAnnouncements": [],
-  "skippedAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "【轉知】臺北市政府消防局防災科學教育館訂於115年11月3日起進行場館試營運",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    }
+  ],
   "rss": {
     "success": true,
     "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
     "itemCount": 100,
-    "lastBuildDate": "Mon, 26 Oct 2026 04:15:45 GMT"
+    "lastBuildDate": "Tue, 27 Oct 2026 04:34:46 GMT"
   },
   "email": {
-    "attempted": false,
-    "sent": false,
-    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793075847 006d021491bc7-70b9dd3c9b5sm9200493eaf.2 - gsmtp"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
@@ -88,23 +281,23 @@
     "readError": "",
     "recordsBeforeImport": 222,
     "recordsAfterImport": 222,
-    "historicalLogsRead": 75,
+    "historicalLogsRead": 76,
     "historicalSuccessfulLogs": 51,
     "historicalVersionsImported": 0,
     "historicalVersionsRefreshed": 0,
     "historyErrors": [],
-    "markedAfterEmailSuccess": 0,
-    "recordsAfterRun": 222,
-    "saved": false,
+    "markedAfterEmailSuccess": 2,
+    "recordsAfterRun": 224,
+    "saved": true,
     "saveError": "",
-    "saveNeeded": false,
-    "saveReason": "已寄送狀態無變更"
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
   },
-  "status": "no_related_announcements",
-  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
+  "status": "relevant_found",
+  "noEmailReason": "",
   "failureReason": "",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-26/scan-2026-10-26-121539-5d28854b-4e3d-494e-8efe-e51d787f1782.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-27/scan-2026-10-27-123440-47c7be6d-1939-43b3-a83d-bb50d376dd2a.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }
