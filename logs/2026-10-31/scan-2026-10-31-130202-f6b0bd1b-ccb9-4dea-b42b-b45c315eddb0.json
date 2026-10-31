@@ -1,0 +1,321 @@
+{
+  "runId": "f6b0bd1b-ccb9-4dea-b42b-b45c315eddb0",
+  "execution": {
+    "startedAtUtc": "2026-10-31T05:02:02.031Z",
+    "completedAtUtc": "2026-10-31T05:04:46.285Z",
+    "executedAtTaipei": "2026/10/31 13:02:02",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-10-30T05:02:02.031Z",
+    "windowEndUtc": "2026-10-31T05:02:02.031Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 6,
+    "relevant": 3,
+    "newRelevant": 1,
+    "alreadySent": 2,
+    "sameVersionDuplicates": 0,
+    "skipped": 3,
+    "duplicatesRemoved": 1,
+    "detailAttempts": 7,
+    "detailSuccesses": 7,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "2027臺北兒童月系列活動「微夢想的旅行」計畫",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、資訊；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/20",
+      "importantDates": [
+        {
+          "date": "2026/01/15",
+          "context": "年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公布於臺北市修德國小網站,並另行通知發表說明會相關資訊。 詳細活動內容及報名規定請參閱附"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "報名2個團隊。 學校班級數不含資源(優)班及幼兒園。 三、報名方式及期限 先經校內甄選,於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "團隊。 學校班級數不含資源(優)班及幼兒園。 三、報名方式及期限 先經校內甄選,於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公"
+        },
+        {
+          "date": "2027/01/15",
+          "context": "於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公布於臺北市修德國小網站,並另行通知發表說明會相關資訊。 詳細活動內容及報名規定請參閱附"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae43389c9966d0fa9590cdd?vector=private&static=false",
+      "summary": "臺北市政府教育局舉辦2027臺北兒童月系列活動「微夢想的旅行」計畫,為讓孩子能夠勇敢踏實完成屬於自己的夢,涵養孩子解決、實踐想法的勇氣和智慧。 一、參加對象 就讀臺北市公私立國民小學之學生。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115學年度第1學期資優生家長親職講座",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "unit": "輔導室特教組長",
+      "reason": "提到學生、家長；屬於資訊、資優，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae3f1959da445ffe4635118?vector=private&static=false",
+      "summary": "一、為增進資優生家長對資優生特質、親職教養策略與生涯輔導知能之瞭解,資優教育資源中心特辦理旨揭講座。 二、講座對象 (一)臺北市國民小學一般智能資優資源班、資優方案(含:校本、區域衛星)學生家長 (二)臺北市國民中學學術性向資優資源班、資優方案(含:校本、區域衛星)學生家長 (三)臺北市高級中學學術性向資優班學生家長 (四)臺北市國民小學藝術才能資優方案學生家長 (五)臺北市國民中學藝術才能資優方案學生家長 (六)臺北市高級中學藝術才能資優班學生家長 (七)對研習主題感興趣之家長與教師 三、本親職系列講座共計辦理5場次,各場次講座資訊、報名及錄取方式,…",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "資訊",
+        "資優"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115學年度高級中等以下學校財務智商活動",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、酷課；屬於活動、課程；涉及酷課，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/02",
+          "context": "標準,即可獲得抽獎資格。國小課程邀請碼:CHCZZE2EU0H1 二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週"
+        },
+        {
+          "date": "2026/11/02",
+          "context": "可獲得抽獎資格。國小課程邀請碼:CHCZZE2EU0H1 二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週"
+        },
+        {
+          "date": "2026/11/13",
+          "context": "格。國小課程邀請碼:CHCZZE2EU0H1 二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週,每兩週舉行抽"
+        },
+        {
+          "date": "2026/11/16",
+          "context": "CZZE2EU0H1 二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週,每兩週舉行抽獎。 (二)完成答題者(可重複作"
+        },
+        {
+          "date": "2026/11/16",
+          "context": "2EU0H1 二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週,每兩週舉行抽獎。 (二)完成答題者(可重複作"
+        },
+        {
+          "date": "2026/11/30",
+          "context": "二、活動時間 第一階段:115年11月2日至11月13日 第二階段:115年11月16日至11月30日 三、活動規則 (一)連續4週,每兩週舉行抽獎。 (二)完成答題者(可重複作答),可參加抽"
+        },
+        {
+          "date": "2026/12/16",
+          "context": "國小、國中、高中各學層20位學生獲200元商品卡,共計120個獲獎名額。 (三)得獎名單於115年12月16日下午5點後公布於臺北酷課雲及臺北市理財教育專區。 詳細活動資訊請參閱附件海報,歡迎同學把握"
+        },
+        {
+          "date": "2026/12/16",
+          "context": "中、高中各學層20位學生獲200元商品卡,共計120個獲獎名額。 (三)得獎名單於115年12月16日下午5點後公布於臺北酷課雲及臺北市理財教育專區。 詳細活動資訊請參閱附件海報,歡迎同學把握"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae4234cb4064908dd2b795f?vector=private&static=false",
+      "summary": "為提升學生金融理財知能,臺北市政府教育局辦理「115學年度高級中等以下學校財務智商活動」,歡迎本校學生踴躍參加! 一、活動方式 至酷課OnO線上教室,依就讀學層加入「財務智商課程」,完成10題測驗並達通過標準,即可獲得抽獎資格。",
+      "matchedKeywords": [
+        "學生",
+        "資訊",
+        "酷課"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "2027臺北兒童月系列活動「微夢想的旅行」計畫",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生；屬於活動、資訊；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/20",
+      "importantDates": [
+        {
+          "date": "2026/01/15",
+          "context": "年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公布於臺北市修德國小網站,並另行通知發表說明會相關資訊。 詳細活動內容及報名規定請參閱附"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "報名2個團隊。 學校班級數不含資源(優)班及幼兒園。 三、報名方式及期限 先經校內甄選,於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "團隊。 學校班級數不含資源(優)班及幼兒園。 三、報名方式及期限 先經校內甄選,於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公"
+        },
+        {
+          "date": "2027/01/15",
+          "context": "於115年11月20日(星期五)下午4時前,將報名表件送訓育組報名。 四、審查結果 預計於116年1月15日前公布於臺北市修德國小網站,並另行通知發表說明會相關資訊。 詳細活動內容及報名規定請參閱附"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae43389c9966d0fa9590cdd?vector=private&static=false",
+      "summary": "臺北市政府教育局舉辦2027臺北兒童月系列活動「微夢想的旅行」計畫,為讓孩子能夠勇敢踏實完成屬於自己的夢,涵養孩子解決、實踐想法的勇氣和智慧。 一、參加對象 就讀臺北市公私立國民小學之學生。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "臺北市115學年度第1學期資優生家長親職講座",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae3f1959da445ffe4635118?vector=private&static=false",
+      "firstSentAt": "2026-10-30T05:21:40.818Z",
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "115學年度高級中等以下學校財務智商活動",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae4234cb4064908dd2b795f?vector=private&static=false",
+      "firstSentAt": "2026-10-30T05:21:40.818Z",
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "115年全國中正盃柔道錦標賽",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「教育部115—116 年全國語文競賽之臺灣台語朗讀文章徵稿暨修審工作計畫」寫作人才培訓營",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "教育部辦理「2026自主學習節」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Sat, 31 Oct 2026 05:02:07 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793423086 98e67ed59e1d1-3ae87fc548fsm3366532a91.4 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 239,
+    "recordsAfterImport": 239,
+    "historicalLogsRead": 80,
+    "historicalSuccessfulLogs": 55,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 5,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 1,
+    "recordsAfterRun": 240,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-10-31/scan-2026-10-31-130202-f6b0bd1b-ccb9-4dea-b42b-b45c315eddb0.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T05:21:40.818Z",
+  "updatedAt": "2026-10-31T05:04:46.282Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -1396,8 +1396,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae2a56455e5a6b99924a895",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-29T05:22:25.524Z",
-      "lastSentAt": "2026-10-29T05:22:25.527Z",
-      "source": "log:logs/2026-10-29/scan-2026-10-29-131924-36dd9ee6-2c94-4dad-b606-9881c4b28507.json"
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "source": "log:logs/2026-10-30/scan-2026-10-30-131853-37a6ca9c-1606-44c5-8736-66bbe9303781.json"
     },
     "7f215e3d542c11f42060152302a7ec64a35a06879193c26d975f9a67981d66c5": {
       "title": "臺北市溪山實驗國民小學115學年度第1學期發展藝術學校體驗課程開放外校學生申請",
@@ -1462,8 +1462,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae2f218530753cab8723ee4",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-30T05:21:40.818Z",
-      "lastSentAt": "2026-10-30T05:21:40.818Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "source": "log:logs/2026-10-30/scan-2026-10-30-131853-37a6ca9c-1606-44c5-8736-66bbe9303781.json"
     },
     "81a7149e9555a4343e3536f40d964aacbdd156434fd3f13dcd73f4b8772fda43": {
       "title": "公告台積電孝道親子工作坊錄取名單",
@@ -1894,6 +1894,17 @@
       "lastSentAt": "2026-10-17T03:59:18.545Z",
       "source": "log:logs/2026-10-17/scan-2026-10-17-115635-00045f5a-74fb-4080-828d-d9e83ce487d7.json"
     },
+    "af91778dd97b526c00f62fb9b97c26c20e462a57e4be7e9c95af70eb5bc895ea": {
+      "title": "2027臺北兒童月系列活動「微夢想的旅行」計畫",
+      "category": "活動/競賽",
+      "publishedDate": "2026/10/30",
+      "updatedDate": "2026/10/30",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae43389c9966d0fa9590cdd",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-10-31T05:04:46.282Z",
+      "lastSentAt": "2026-10-31T05:04:46.282Z",
+      "source": "smtp"
+    },
     "af929a5e5709f6cb16ed70d2e5fbbdf49ea3e0c6a75047034216759651661c94": {
       "title": "115年「蛙」現任務~斑腿樹蛙移除與夜間生態探索親子營隊",
       "category": "活動/競賽",
@@ -2254,8 +2265,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae2c5da44b10ebc7bec5a42",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-29T05:22:25.524Z",
-      "lastSentAt": "2026-10-29T05:22:25.527Z",
-      "source": "log:logs/2026-10-29/scan-2026-10-29-131924-36dd9ee6-2c94-4dad-b606-9881c4b28507.json"
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "source": "log:logs/2026-10-30/scan-2026-10-30-131853-37a6ca9c-1606-44c5-8736-66bbe9303781.json"
     },
     "d1a3f5696cbe5f25ab4a1108644aa4187e1f042e3331d2010cb29561e343af9f": {
       "title": "賀!本校學生六年九班 林莊慎 參加2026卓越盃國際音樂公開賽 榮獲第二名銀獎佳績!",
@@ -2276,8 +2287,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae4234cb4064908dd2b795f",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-30T05:21:40.818Z",
-      "lastSentAt": "2026-10-30T05:21:40.818Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "source": "log:logs/2026-10-30/scan-2026-10-30-131853-37a6ca9c-1606-44c5-8736-66bbe9303781.json"
     },
     "d407da2a14597c9cf2a256c24e8bcd795cf0ba706303323e17cac7bfc855a30c": {
       "title": "中正國民中學115年度第1學期假日科學實驗探索營「國小組」及「國中組」",
@@ -2408,8 +2419,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae3f1959da445ffe4635118",
       "identityType": "originalUrl",
       "firstSentAt": "2026-10-30T05:21:40.818Z",
-      "lastSentAt": "2026-10-30T05:21:40.818Z",
-      "source": "smtp"
+      "lastSentAt": "2026-10-30T05:21:40.821Z",
+      "source": "log:logs/2026-10-30/scan-2026-10-30-131853-37a6ca9c-1606-44c5-8736-66bbe9303781.json"
     },
     "dfc4bb57a7c0d828834de22567b163d6589e09a5e3cdb19d1c99ff6c128c6470": {
       "title": "賀!本校學生六年一班 蕭羽希 參加舞蹈及音樂比賽榮獲佳績!",
