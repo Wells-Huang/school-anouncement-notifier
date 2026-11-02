@@ -1,0 +1,161 @@
+{
+  "runId": "e02ec6c7-e616-4de1-b1a7-0e1dd7376c6c",
+  "execution": {
+    "startedAtUtc": "2026-11-02T05:30:04.259Z",
+    "completedAtUtc": "2026-11-02T05:32:46.224Z",
+    "executedAtTaipei": "2026/11/02 13:30:04",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-01T05:30:04.259Z",
+    "windowEndUtc": "2026-11-02T05:30:04.259Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 1,
+    "relevant": 1,
+    "newRelevant": 1,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 0,
+    "duplicatesRemoved": 1,
+    "detailAttempts": 2,
+    "detailSuccesses": 2,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115學年度校內國語文篇目:演說、朗讀及硬筆書法公告",
+      "publishedDate": "2026/11/02",
+      "updatedDate": "2026/10/21",
+      "category": "校務公告",
+      "unit": "教務處教學組長",
+      "reason": "提到五年級；屬於比賽，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e?vector=private&static=false",
+      "summary": "日前已公告國語文競賽實施日程及計畫,現公告演說、朗讀及硬筆書法題目,如下: 一、演說題目 :共三題,現場抽一題 時時心懷感恩 最讓我緊張的一件事 挑戰,讓我更上層樓 二、朗讀題目 :共十篇,現場抽一篇,請參閱附件 三、硬筆書法 :共三題,現場抽一題,請參閱附件(中年級為40字、五年級為50字) *有關字音字形比賽題目,可參閱全國字音字形歷屆試題題目做練習。",
+      "matchedKeywords": [
+        "五年級",
+        "比賽"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115學年度校內國語文篇目:演說、朗讀及硬筆書法公告",
+      "publishedDate": "2026/11/02",
+      "updatedDate": "2026/10/21",
+      "category": "校務公告",
+      "unit": "教務處教學組長",
+      "reason": "提到五年級；屬於比賽，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e?vector=private&static=false",
+      "summary": "日前已公告國語文競賽實施日程及計畫,現公告演說、朗讀及硬筆書法題目,如下: 一、演說題目 :共三題,現場抽一題 時時心懷感恩 最讓我緊張的一件事 挑戰,讓我更上層樓 二、朗讀題目 :共十篇,現場抽一篇,請參閱附件 三、硬筆書法 :共三題,現場抽一題,請參閱附件(中年級為40字、五年級為50字) *有關字音字形比賽題目,可參閱全國字音字形歷屆試題題目做練習。",
+      "matchedKeywords": [
+        "五年級",
+        "比賽"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Mon, 02 Nov 2026 05:30:10 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793597566 006d021491bc7-714f2d16197sm7842589eaf.6 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 240,
+    "recordsAfterImport": 240,
+    "historicalLogsRead": 82,
+    "historicalSuccessfulLogs": 56,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 0,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 1,
+    "recordsAfterRun": 241,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-02/scan-2026-11-02-133004-e02ec6c7-e616-4de1-b1a7-0e1dd7376c6c.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

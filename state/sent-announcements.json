@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T05:04:46.285Z",
+  "updatedAt": "2026-11-02T05:32:46.221Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -1508,6 +1508,17 @@
       "firstSentAt": "2026-10-19T04:15:05.273Z",
       "lastSentAt": "2026-10-20T04:26:53.143Z",
       "source": "log:logs/2026-10-20/scan-2026-10-20-122351-e5767016-d49d-4155-80d4-44377499fa0f.json"
+    },
+    "8566fdca3aecaa1007b3960e153c13e9be93705040968c28a72feb299feaea2e": {
+      "title": "115學年度校內國語文篇目:演說、朗讀及硬筆書法公告",
+      "category": "校務公告",
+      "publishedDate": "2026/11/02",
+      "updatedDate": "2026/10/21",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-02T05:32:46.221Z",
+      "lastSentAt": "2026-11-02T05:32:46.221Z",
+      "source": "smtp"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
