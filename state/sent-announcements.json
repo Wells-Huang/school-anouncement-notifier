@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T05:32:46.221Z",
+  "updatedAt": "2026-11-03T06:13:41.327Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -89,6 +89,17 @@
       "firstSentAt": "2026-10-13T06:29:05.356Z",
       "lastSentAt": "2026-10-13T06:29:05.359Z",
       "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
+    },
+    "0bdbe20a36bb7e1bfd2e41f2a7954cb4b0c82358048540473f7ee03b9aac1069": {
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.327Z",
+      "source": "smtp"
     },
     "0cad5f3c411a7d8987b338f5882ea1e590cc68639de78ce9c2f6bef0332655d0": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -1124,6 +1135,17 @@
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
     },
+    "63a8c591da0f51b15619a23c6906f36ca6985be3ecbf9841d801f087938db935": {
+      "title": "臺北市115年教師「防災數位教材研習」",
+      "category": "研習進修",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.327Z",
+      "source": "smtp"
+    },
     "63fcf03475a8be65b34dbc1251598656a0374af3583d72043997f6ffc367436c": {
       "title": "【轉知】臺北市115年度國民小學基本學力檢測教師版及家長版電子說帖",
       "category": "公文公告",
@@ -1134,6 +1156,17 @@
       "lastSentAt": "2026-09-01T12:47:10.243Z",
       "source": "log:logs/2026-09-01/scan-2026-09-01-204420-cbe4b29e-5fae-49c7-a54d-3e3e3eff9737.json",
       "firstSentAt": "2026-09-01T04:41:11.023Z"
+    },
+    "6479e189c3f81b557a5461e8e8bea97b8e9c8253002b451e495ae1a61a13e328": {
+      "title": "115學年度教育盃中小學手球錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.327Z",
+      "source": "smtp"
     },
     "6582d6c379d6c30cd31d4ea0f30a57ce77a1b939d2f03a8cee468d0237c28041": {
       "title": "中華傳統文化弘揚孝道總會辦理「2026台灣的孝—百善孝為先為父母長輩洗腳暨反毒宣導」",
@@ -1517,8 +1550,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-02T05:32:46.221Z",
-      "lastSentAt": "2026-11-02T05:32:46.221Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-02T05:32:46.224Z",
+      "source": "log:logs/2026-11-02/scan-2026-11-02-133004-e02ec6c7-e616-4de1-b1a7-0e1dd7376c6c.json"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -1706,6 +1739,17 @@
       "firstSentAt": "2026-09-15T04:30:35.578Z",
       "lastSentAt": "2026-09-16T04:25:51.072Z",
       "source": "log:logs/2026-09-16/scan-2026-09-16-122252-32c58700-c326-4940-b60a-5157e0c80572.json"
+    },
+    "a37a625aa4fe4e1455dbd99bf60a42a8aba96072e3447cb75327a1b6e4733653": {
+      "title": "國立陽明交通大學「心智圖超記憶親子免費講座」及「2027寒假-心智圖超記憶學習營」招生資訊",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.327Z",
+      "source": "smtp"
     },
     "a3ac57d99d97429ac90b455f52340d9ab97f54c07dca3db6e769da4f3903364c": {
       "title": "徐匯高級中學辦理「徐匯OPEN DAY」特色課程活動",

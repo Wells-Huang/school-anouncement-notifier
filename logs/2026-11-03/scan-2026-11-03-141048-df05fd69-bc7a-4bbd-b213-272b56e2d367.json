@@ -1,0 +1,529 @@
+{
+  "runId": "df05fd69-bc7a-4bbd-b213-272b56e2d367",
+  "execution": {
+    "startedAtUtc": "2026-11-03T06:10:48.952Z",
+    "completedAtUtc": "2026-11-03T06:13:41.330Z",
+    "executedAtTaipei": "2026/11/03 14:10:48",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-02T06:10:48.952Z",
+    "windowEndUtc": "2026-11-03T06:10:48.952Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 9,
+    "relevant": 5,
+    "newRelevant": 4,
+    "alreadySent": 1,
+    "sameVersionDuplicates": 0,
+    "skipped": 4,
+    "duplicatesRemoved": 3,
+    "detailAttempts": 12,
+    "detailSuccesses": 12,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度教育盃中小學手球錦標賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處體育組長",
+      "reason": "提到學生；屬於活動、比賽；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/20",
+      "importantDates": [
+        {
+          "date": "2026/01/07",
+          "context": "學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        },
+        {
+          "date": "2026/01/10",
+          "context": "委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "115學年度教育盃中小學手球錦標賽 一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "活動中心5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2027/01/07",
+          "context": "本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c?vector=private&static=false",
+      "summary": "一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "比賽",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立陽明交通大學「心智圖超記憶親子免費講座」及「2027寒假-心智圖超記憶學習營」招生資訊",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長、親子；屬於活動、課程；涉及交通；有重要日期：2026/12/27，與小五學生或家長的安排有關。",
+      "action": "請留意2026/12/27前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/12/27",
+      "importantDates": [
+        {
+          "date": "2026/01/21",
+          "context": "7寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "子免費講座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2027/01/21",
+          "context": ")2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2027/02/03",
+          "context": "圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742?vector=private&static=false",
+      "summary": "一、活動對象:國小三年級至高中三年級學生(親子免費講座歡迎家長共同參與)。 二、活動內容: (一)心智圖超記憶親子免費講座: 台北陽明校區:實體辦理。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "資訊",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115年教師「防災數位教材研習」",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "研習進修",
+      "unit": "學務處生教組長",
+      "reason": "提到學生；屬於課程、ai；有重要日期：2026/11/16，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/16前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/16",
+      "importantDates": [
+        {
+          "date": "2026/11/16",
+          "context": "對防災教育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/16",
+          "context": "育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "防災教學成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335?vector=private&static=false",
+      "summary": "一、依115年度教育部補助「直轄市及縣(市)政府辦理防災教育計畫」暨「高級中等以下學校防災校園建置計畫」作業說明辦理。 二、為增進教師運用AI生成防災教育影片及數位教材設計與應用之專業知能,結合在地災害潛勢與防災教育課程需求, 發展具情境性及互動性之數位教材,提升防災教學成效與學生防災素養及災害應變能力,特辦理研習。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115學年度校內國語文篇目:演說、朗讀及硬筆書法公告",
+      "publishedDate": "2026/11/02",
+      "updatedDate": "2026/10/21",
+      "category": "校務公告",
+      "unit": "教務處教學組長",
+      "reason": "提到五年級；屬於比賽，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e?vector=private&static=false",
+      "summary": "日前已公告國語文競賽實施日程及計畫,現公告演說、朗讀及硬筆書法題目,如下: 一、演說題目 :共三題,現場抽一題 時時心懷感恩 最讓我緊張的一件事 挑戰,讓我更上層樓 二、朗讀題目 :共十篇,現場抽一篇,請參閱附件 三、硬筆書法 :共三題,現場抽一題,請參閱附件(中年級為40字、五年級為50字) *有關字音字形比賽題目,可參閱全國字音字形歷屆試題題目做練習。",
+      "matchedKeywords": [
+        "五年級",
+        "比賽"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到高年級、學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0?vector=private&static=false",
+      "summary": "一、為增進本市師生地震防災知識及應變能力,培養正確防災觀念,並推動學生自主學習及數位學習成果認證,教育局防災教育輔導團建置數位證書測驗平台,提供師生線上學習及檢測。 二、數位證書測驗資訊如下: (一)測驗網址:臺北市防災教育資訊網「地震小達人數位證書測驗」專區。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度教育盃中小學手球錦標賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處體育組長",
+      "reason": "提到學生；屬於活動、比賽；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/20",
+      "importantDates": [
+        {
+          "date": "2026/01/07",
+          "context": "學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        },
+        {
+          "date": "2026/01/10",
+          "context": "委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "115學年度教育盃中小學手球錦標賽 一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "活動中心5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2027/01/07",
+          "context": "本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c?vector=private&static=false",
+      "summary": "一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "比賽",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立陽明交通大學「心智圖超記憶親子免費講座」及「2027寒假-心智圖超記憶學習營」招生資訊",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長、親子；屬於活動、課程；涉及交通；有重要日期：2026/12/27，與小五學生或家長的安排有關。",
+      "action": "請留意2026/12/27前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/12/27",
+      "importantDates": [
+        {
+          "date": "2026/01/21",
+          "context": "7寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "子免費講座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2027/01/21",
+          "context": ")2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2027/02/03",
+          "context": "圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742?vector=private&static=false",
+      "summary": "一、活動對象:國小三年級至高中三年級學生(親子免費講座歡迎家長共同參與)。 二、活動內容: (一)心智圖超記憶親子免費講座: 台北陽明校區:實體辦理。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "資訊",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115年教師「防災數位教材研習」",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "研習進修",
+      "unit": "學務處生教組長",
+      "reason": "提到學生；屬於課程、ai；有重要日期：2026/11/16，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/16前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/16",
+      "importantDates": [
+        {
+          "date": "2026/11/16",
+          "context": "對防災教育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/16",
+          "context": "育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "防災教學成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335?vector=private&static=false",
+      "summary": "一、依115年度教育部補助「直轄市及縣(市)政府辦理防災教育計畫」暨「高級中等以下學校防災校園建置計畫」作業說明辦理。 二、為增進教師運用AI生成防災教育影片及數位教材設計與應用之專業知能,結合在地災害潛勢與防災教育課程需求, 發展具情境性及互動性之數位教材,提升防災教學成效與學生防災素養及災害應變能力,特辦理研習。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到高年級、學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0?vector=private&static=false",
+      "summary": "一、為增進本市師生地震防災知識及應變能力,培養正確防災觀念,並推動學生自主學習及數位學習成果認證,教育局防災教育輔導團建置數位證書測驗平台,提供師生線上學習及檢測。 二、數位證書測驗資訊如下: (一)測驗網址:臺北市防災教育資訊網「地震小達人數位證書測驗」專區。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "115學年度校內國語文篇目:演說、朗讀及硬筆書法公告",
+      "publishedDate": "2026/11/02",
+      "updatedDate": "2026/10/21",
+      "category": "校務公告",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e?vector=private&static=false",
+      "firstSentAt": "2026-11-02T05:32:46.221Z",
+      "lastSentAt": "2026-11-02T05:32:46.224Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "臺北市115-1國民小學特殊教育教師充實校園法律知能專業成長研習",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度孝道教育種子教師研習",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "115學年度第一學期「文山區雙語聯盟增能研習」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】臺北市政府提供員工使用場館優惠一覽表(115.11.02)",
+      "category": "人事服務",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Tue, 03 Nov 2026 06:10:55 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793686421 46e09a7af769-85d3545b880sm11807419a34.8 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 241,
+    "recordsAfterImport": 241,
+    "historicalLogsRead": 83,
+    "historicalSuccessfulLogs": 57,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 1,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 4,
+    "recordsAfterRun": 245,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}
