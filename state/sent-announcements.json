@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T06:13:41.327Z",
+  "updatedAt": "2026-11-04T05:51:34.230Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -98,8 +98,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.327Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
     },
     "0cad5f3c411a7d8987b338f5882ea1e590cc68639de78ce9c2f6bef0332655d0": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -617,6 +617,17 @@
       "firstSentAt": "2026-09-16T04:25:51.070Z",
       "lastSentAt": "2026-09-16T04:25:51.072Z",
       "source": "log:logs/2026-09-16/scan-2026-09-16-122252-32c58700-c326-4940-b60a-5157e0c80572.json"
+    },
+    "36c9477e5fb0bbee3ffcd7b575442406e626163577d32ae37cc93ef1fb7938c3": {
+      "title": "115學年度PaGamO教師應用經驗分享活動",
+      "category": "研習進修",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.230Z",
+      "source": "smtp"
     },
     "376182c6a8a3bcd8cf34051b8e89af9df313781175211d875a7a6b8cba56e207": {
       "title": "退休校長協會115學年度第1學期 「關懷急難學童」助學金",
@@ -1143,8 +1154,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.327Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
     },
     "63fcf03475a8be65b34dbc1251598656a0374af3583d72043997f6ffc367436c": {
       "title": "【轉知】臺北市115年度國民小學基本學力檢測教師版及家長版電子說帖",
@@ -1165,8 +1176,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.327Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
     },
     "6582d6c379d6c30cd31d4ea0f30a57ce77a1b939d2f03a8cee468d0237c28041": {
       "title": "中華傳統文化弘揚孝道總會辦理「2026台灣的孝—百善孝為先為父母長輩洗腳暨反毒宣導」",
@@ -1333,6 +1344,17 @@
       "lastSentAt": "2026-09-11T04:11:46.001Z",
       "source": "log:logs/2026-09-11/scan-2026-09-11-120840-2fbaf931-363f-4f83-a3bf-c02db7cf477f.json"
     },
+    "75e229f7f9c767bb5778e023ce101799b37340f8d238a1160e73d069a4859dad": {
+      "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.230Z",
+      "source": "smtp"
+    },
     "77b1eddf1ecb39dd5e70e911550244d9bfad9a7026affb4026f7811d7c155b4e": {
       "title": "115學年度教育盃國民小學擊劍錦標賽",
       "category": "活動/競賽",
@@ -1365,6 +1387,17 @@
       "firstSentAt": "2026-10-13T06:29:05.356Z",
       "lastSentAt": "2026-10-13T06:29:05.359Z",
       "source": "log:logs/2026-10-13/scan-2026-10-13-142605-94baf4ee-5b1c-42a9-83ff-edd9c2293c3c.json"
+    },
+    "798237f3e83a0d64b9b4e45339f153f28374eed4b0bfbde9694aa2fed526fcf3": {
+      "title": "115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.230Z",
+      "source": "smtp"
     },
     "79dc505ee30a69bca6102142e5ec0f8f66de15e83f7e159c321dea72567b3aec": {
       "title": "國立臺南大學辦理「《中小學AI之學習應用手冊》競賽」",
@@ -1550,8 +1583,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ad8261890b80bf7c00f429e",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-02T05:32:46.221Z",
-      "lastSentAt": "2026-11-02T05:32:46.224Z",
-      "source": "log:logs/2026-11-02/scan-2026-11-02-133004-e02ec6c7-e616-4de1-b1a7-0e1dd7376c6c.json"
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -1748,8 +1781,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.327Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
     },
     "a3ac57d99d97429ac90b455f52340d9ab97f54c07dca3db6e769da4f3903364c": {
       "title": "徐匯高級中學辦理「徐匯OPEN DAY」特色課程活動",
@@ -1772,6 +1805,17 @@
       "lastSentAt": "2026-08-21T10:17:42.041Z",
       "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
+    },
+    "a72ae984dc499eea97d7e32141d5f43d73766a92e9376ea566db6bf083563940": {
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/04",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.230Z",
+      "source": "smtp"
     },
     "a759a32bb308a44064f49cf70536471f6babce2b281c1cc99da635f188a97326": {
       "title": "臺北市115學年度資賦優異學生縮短修業年限申辦",

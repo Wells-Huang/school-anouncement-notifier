@@ -1,0 +1,602 @@
+{
+  "runId": "f5b1ca99-c353-4516-b0b2-7ae302be0892",
+  "execution": {
+    "startedAtUtc": "2026-11-04T05:48:42.253Z",
+    "completedAtUtc": "2026-11-04T05:51:34.233Z",
+    "executedAtTaipei": "2026/11/04 13:48:42",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-03T05:48:42.253Z",
+    "windowEndUtc": "2026-11-04T05:48:42.253Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 11,
+    "relevant": 7,
+    "newRelevant": 4,
+    "alreadySent": 3,
+    "sameVersionDuplicates": 0,
+    "skipped": 4,
+    "duplicatesRemoved": 3,
+    "detailAttempts": 14,
+    "detailSuccesses": 14,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度教育盃中小學手球錦標賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處體育組長",
+      "reason": "提到學生；屬於活動、比賽；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/20",
+      "importantDates": [
+        {
+          "date": "2026/01/07",
+          "context": "學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        },
+        {
+          "date": "2026/01/10",
+          "context": "委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "115學年度教育盃中小學手球錦標賽 一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)下午5時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "活動中心5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "5樓(臺北市大同區承德路二段235號)。 (四)領隊及抽籤會議日期(不另函通知):115年11月26日(星期四)上午9時30分於成淵高中行政大樓3樓會議室舉行,未出席者由承辦單位代為抽籤,不得"
+        },
+        {
+          "date": "2027/01/07",
+          "context": "本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。 (二)報名日期:即日起至115年11月20日(星期五)"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c?vector=private&static=false",
+      "summary": "一、依據臺北市立成淵高級中學115年10月27日北市成中學字第1156012505號函辦理。 二、為提升本市中小學手球競技實力,本局委請成淵高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年1月7日(星期四)至1月10日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "期限",
+        "比賽",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度PaGamO教師應用經驗分享活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "研習進修",
+      "unit": "教務處資訊組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2026/11/24，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/24前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/24",
+      "importantDates": [
+        {
+          "date": "2026/11/24",
+          "context": "不提供研習時數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/24",
+          "context": "數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "(一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/27",
+          "context": "前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三)研習形式:線上研習(採 Goo"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1?vector=private&static=false",
+      "summary": "一、本公司以 PaGamO 遊戲化學習平台為核心,邀請不同教學背景經驗之教師,分享如何應用平台於考前複習與學習扶助,以第一線教師真實教學案例,協助教師了解數位工具 融入教學之應用,藉此將經驗轉化為自身教學策略,進而逐步提升學生的學習動機與學習成效。 二、本研習辦理資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立陽明交通大學「心智圖超記憶親子免費講座」及「2027寒假-心智圖超記憶學習營」招生資訊",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長、親子；屬於活動、課程；涉及交通；有重要日期：2026/12/27，與小五學生或家長的安排有關。",
+      "action": "請留意2026/12/27前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/12/27",
+      "importantDates": [
+        {
+          "date": "2026/01/21",
+          "context": "7寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "子免費講座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2026/12/27",
+          "context": "座: 台北陽明校區:實體辦理。 新竹光復校區:實體及線上辦理。 報名期間:即日起至115年12月27日止(額滿提前截止)。 (二)2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區"
+        },
+        {
+          "date": "2027/01/21",
+          "context": ")2027寒假-心智圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡"
+        },
+        {
+          "date": "2027/02/03",
+          "context": "圖超記憶學習營: 台北陽明校區及新竹光復校區皆採實體課程。 報名期間:116年1月21日至116年2月3日止(額滿提前截止)。 詳細課程內容、收費標準及報名方式,請參閱附件招生簡章,或至國立陽明交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742?vector=private&static=false",
+      "summary": "一、活動對象:國小三年級至高中三年級學生(親子免費講座歡迎家長共同參與)。 二、活動內容: (一)心智圖超記憶親子免費講座: 台北陽明校區:實體辦理。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "資訊",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市115年教師「防災數位教材研習」",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "研習進修",
+      "unit": "學務處生教組長",
+      "reason": "提到學生；屬於課程、ai；有重要日期：2026/11/16，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/16前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/16",
+      "importantDates": [
+        {
+          "date": "2026/11/16",
+          "context": "對防災教育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/16",
+          "context": "育教材設計與推廣有興趣之教師。 2、本市防災教育輔導團團員。 四、報名請於即日起至115年11月16日(星期一)下午5時前,逕上臺北市教師在職研習網辦理報名作業。 五、本研習出席人員全程參與,"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "防災教學成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        },
+        {
+          "date": "2026/11/20",
+          "context": "成效與學生防災素養及災害應變能力,特辦理研習。 三、研習時間及地點: (一)時間:115年11月20日(星期五)9時至16時10分。 (二)地點:臺北市立仁愛國民中學(臺北市大安區仁愛路四段1"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335?vector=private&static=false",
+      "summary": "一、依115年度教育部補助「直轄市及縣(市)政府辦理防災教育計畫」暨「高級中等以下學校防災校園建置計畫」作業說明辦理。 二、為增進教師運用AI生成防災教育影片及數位教材設計與應用之專業知能,結合在地災害潛勢與防災教育課程需求, 發展具情境性及互動性之數位教材,提升防災教學成效與學生防災素養及災害應變能力,特辦理研習。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/15",
+          "context": "員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        },
+        {
+          "date": "2026/11/15",
+          "context": "流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4?vector=private&static=false",
+      "summary": "社團法人臺灣健康教育暨長期照顧福利協會辦理115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動,以「青銀共賞,以音樂串聯世代溫度」為主軸,邀請專業音樂家、學生及藝文團隊共同演出,透過聲樂、器樂、合唱等多元形式,促進青年、長者及家庭成員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "社團",
+        "音樂",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到兒少、交通；屬於活動；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/27",
+          "context": "童服務中心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10?vector=private&static=false",
+      "summary": "一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交通事故處理推廣座談,期待透過對話的方式,從交通、心理與家庭等角度,分享中心協助處理兒少交通事故的服務經驗給更多相關工作者,讓不同專業之間相互交流分享,一同為孩子謀取最大的利益。",
+      "matchedKeywords": [
+        "兒少",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到高年級、學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0?vector=private&static=false",
+      "summary": "一、為增進本市師生地震防災知識及應變能力,培養正確防災觀念,並推動學生自主學習及數位學習成果認證,教育局防災教育輔導團建置數位證書測驗平台,提供師生線上學習及檢測。 二、數位證書測驗資訊如下: (一)測驗網址:臺北市防災教育資訊網「地震小達人數位證書測驗」專區。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度PaGamO教師應用經驗分享活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "研習進修",
+      "unit": "教務處資訊組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2026/11/24，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/24前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/24",
+      "importantDates": [
+        {
+          "date": "2026/11/24",
+          "context": "不提供研習時數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/24",
+          "context": "數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "(一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/27",
+          "context": "前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三)研習形式:線上研習(採 Goo"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1?vector=private&static=false",
+      "summary": "一、本公司以 PaGamO 遊戲化學習平台為核心,邀請不同教學背景經驗之教師,分享如何應用平台於考前複習與學習扶助,以第一線教師真實教學案例,協助教師了解數位工具 融入教學之應用,藉此將經驗轉化為自身教學策略,進而逐步提升學生的學習動機與學習成效。 二、本研習辦理資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/15",
+          "context": "員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        },
+        {
+          "date": "2026/11/15",
+          "context": "流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4?vector=private&static=false",
+      "summary": "社團法人臺灣健康教育暨長期照顧福利協會辦理115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動,以「青銀共賞,以音樂串聯世代溫度」為主軸,邀請專業音樂家、學生及藝文團隊共同演出,透過聲樂、器樂、合唱等多元形式,促進青年、長者及家庭成員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "社團",
+        "音樂",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到兒少、交通；屬於活動；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/27",
+          "context": "童服務中心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10?vector=private&static=false",
+      "summary": "一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交通事故處理推廣座談,期待透過對話的方式,從交通、心理與家庭等角度,分享中心協助處理兒少交通事故的服務經驗給更多相關工作者,讓不同專業之間相互交流分享,一同為孩子謀取最大的利益。",
+      "matchedKeywords": [
+        "兒少",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "臺北市教育局防災教育「地震小達人數位證書測驗」活動",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到高年級、學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0?vector=private&static=false",
+      "summary": "一、為增進本市師生地震防災知識及應變能力,培養正確防災觀念,並推動學生自主學習及數位學習成果認證,教育局防災教育輔導團建置數位證書測驗平台,提供師生線上學習及檢測。 二、數位證書測驗資訊如下: (一)測驗網址:臺北市防災教育資訊網「地震小達人數位證書測驗」專區。",
+      "matchedKeywords": [
+        "高年級",
+        "學生",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "115學年度教育盃中小學手球錦標賽",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c?vector=private&static=false",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "國立陽明交通大學「心智圖超記憶親子免費講座」及「2027寒假-心智圖超記憶學習營」招生資訊",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742?vector=private&static=false",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "臺北市115年教師「防災數位教材研習」",
+      "publishedDate": "2026/11/03",
+      "updatedDate": "2026/11/03",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335?vector=private&static=false",
+      "firstSentAt": "2026-11-03T06:13:41.327Z",
+      "lastSentAt": "2026-11-03T06:13:41.330Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "【轉知】國中小學現職教師工作狀況問卷調查表",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立彰化生活美學館辦理「打開地方未來式:百大文化基地交流分享會議II」",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市115-1國民小學特殊教育教師充實校園法律知能專業成長研習",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年度孝道教育種子教師研習",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Wed, 04 Nov 2026 05:48:47 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793771494 a92af1059eb24-1b245c4706bsm5949692c88.15 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 245,
+    "recordsAfterImport": 245,
+    "historicalLogsRead": 84,
+    "historicalSuccessfulLogs": 58,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 5,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 4,
+    "recordsAfterRun": 249,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}
