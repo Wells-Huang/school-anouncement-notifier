@@ -1,0 +1,340 @@
+{
+  "runId": "120a712f-2544-452e-a6fa-31decb2603c5",
+  "execution": {
+    "startedAtUtc": "2026-11-05T06:07:09.583Z",
+    "completedAtUtc": "2026-11-05T06:09:57.743Z",
+    "executedAtTaipei": "2026/11/05 14:07:09",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-04T06:07:09.582Z",
+    "windowEndUtc": "2026-11-05T06:07:09.582Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 9,
+    "relevant": 4,
+    "newRelevant": 1,
+    "alreadySent": 3,
+    "sameVersionDuplicates": 0,
+    "skipped": 5,
+    "duplicatesRemoved": 3,
+    "detailAttempts": 12,
+    "detailSuccesses": 12,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115年11月「天文親子營」天文館一日遊活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長、親子；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aead5ad93071e78e1db8976?vector=private&static=false",
+      "summary": "「天文親子營」天文館一日遊活動,歡迎親子踴躍報名參加! 臺北市立天文科學教育館為推廣天文教育並關懷低收入家庭,於115年11月辦理「天文親子營」天文館一日遊活動,每梯次提供10個名額,供設籍臺北市之低收入戶親子全程免費參加,歡迎符合資格之家長與學生踴躍報名。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "科學"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度PaGamO教師應用經驗分享活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "研習進修",
+      "unit": "教務處資訊組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2026/11/24，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/24前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/24",
+      "importantDates": [
+        {
+          "date": "2026/11/24",
+          "context": "不提供研習時數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/24",
+          "context": "數,敬請見諒。 四、報名方式: (一)請填表報名 (二)報名期間:自即日起至 115 年 11 月 24 日(星期二)18:00 止 (三)報名提交後將於研習前一日以電子郵件寄送課程通知信,敬請留意"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/26",
+          "context": "(一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三"
+        },
+        {
+          "date": "2026/11/27",
+          "context": "前複習 × 學習扶助交流夜。 (二)研習場次:115 年 11 月 26 日(星期四)至 11 月 27 日(星期五)連續兩天,每日18:30 至 20:10。 (三)研習形式:線上研習(採 Goo"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1?vector=private&static=false",
+      "summary": "一、本公司以 PaGamO 遊戲化學習平台為核心,邀請不同教學背景經驗之教師,分享如何應用平台於考前複習與學習扶助,以第一線教師真實教學案例,協助教師了解數位工具 融入教學之應用,藉此將經驗轉化為自身教學策略,進而逐步提升學生的學習動機與學習成效。 二、本研習辦理資訊如下: (一)研習主題:PaGamO 考前複習 × 學習扶助交流夜。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、音樂，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/15",
+          "context": "員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        },
+        {
+          "date": "2026/11/15",
+          "context": "流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。 二、活動時間: 成果展示及互動體驗:下午1時起開放。 音樂會:下午2時至4時"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4?vector=private&static=false",
+      "summary": "社團法人臺灣健康教育暨長期照顧福利協會辦理115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動,以「青銀共賞,以音樂串聯世代溫度」為主軸,邀請專業音樂家、學生及藝文團隊共同演出,透過聲樂、器樂、合唱等多元形式,促進青年、長者及家庭成員間的交流,增進世代理解與情感連結,歡迎本校教職員工、學生及家長踴躍參與。 一、活動日期:115年11月15日(星期日)。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "社團",
+        "音樂",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處生教組長",
+      "reason": "提到兒少、交通；屬於活動；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/10/27",
+          "context": "童服務中心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        },
+        {
+          "date": "2026/10/27",
+          "context": "心辦理「115年兒少交通事故處理推廣座談」 一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10?vector=private&static=false",
+      "summary": "一、依據財團法人靖娟兒童安全文教基金會115年10月27日115靖娟北總字第1150000486號函辦理。 二、靖娟教基金會自111年開始辦理兒少交通事故處理推廣座談,期待透過對話的方式,從交通、心理與家庭等角度,分享中心協助處理兒少交通事故的服務經驗給更多相關工作者,讓不同專業之間相互交流分享,一同為孩子謀取最大的利益。",
+      "matchedKeywords": [
+        "兒少",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115年11月「天文親子營」天文館一日遊活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長、親子；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aead5ad93071e78e1db8976?vector=private&static=false",
+      "summary": "「天文親子營」天文館一日遊活動,歡迎親子踴躍報名參加! 臺北市立天文科學教育館為推廣天文教育並關懷低收入家庭,於115年11月辦理「天文親子營」天文館一日遊活動,每梯次提供10個名額,供設籍臺北市之低收入戶親子全程免費參加,歡迎符合資格之家長與學生踴躍報名。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "親子",
+        "報名",
+        "科學"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "115學年度PaGamO教師應用經驗分享活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1?vector=private&static=false",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "115年度公益彩券回饋金補助計畫「世代共鳴音樂會」公益活動",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4?vector=private&static=false",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10?vector=private&static=false",
+      "firstSentAt": "2026-11-04T05:51:34.230Z",
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選簡章(特教教師)",
+      "category": "校務公告",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "2027瀚宇教育「STEAM兒童冬令營」",
+      "category": "活動/競賽",
+      "reason": "已截止"
+    },
+    {
+      "title": "民生國小辦理115學年度沉浸式科技融入素養導向教學全市公開授課",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立彰化生活美學館辦理「打開地方未來式:百大文化基地交流分享會議II」",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選簡章(特教教師)",
+      "category": "人事服務",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Thu, 05 Nov 2026 06:07:15 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1793858997 98e67ed59e1d1-3b0b3131f8csm2288161a91.2 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 249,
+    "recordsAfterImport": 249,
+    "historicalLogsRead": 85,
+    "historicalSuccessfulLogs": 59,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 7,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 1,
+    "recordsAfterRun": 250,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

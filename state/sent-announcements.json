@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T05:51:34.230Z",
+  "updatedAt": "2026-11-05T06:09:57.740Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -626,8 +626,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.230Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "376182c6a8a3bcd8cf34051b8e89af9df313781175211d875a7a6b8cba56e207": {
       "title": "退休校長協會115學年度第1學期 「關懷急難學童」助學金",
@@ -1154,8 +1154,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae926021924411455ee0335",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.330Z",
-      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "63fcf03475a8be65b34dbc1251598656a0374af3583d72043997f6ffc367436c": {
       "title": "【轉知】臺北市115年度國民小學基本學力檢測教師版及家長版電子說帖",
@@ -1176,8 +1176,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b6bff0b2d128b7b4e1c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.330Z",
-      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "6582d6c379d6c30cd31d4ea0f30a57ce77a1b939d2f03a8cee468d0237c28041": {
       "title": "中華傳統文化弘揚孝道總會辦理「2026台灣的孝—百善孝為先為父母長輩洗腳暨反毒宣導」",
@@ -1352,8 +1352,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.230Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "77b1eddf1ecb39dd5e70e911550244d9bfad9a7026affb4026f7811d7c155b4e": {
       "title": "115學年度教育盃國民小學擊劍錦標賽",
@@ -1396,8 +1396,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.230Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "79dc505ee30a69bca6102142e5ec0f8f66de15e83f7e159c321dea72567b3aec": {
       "title": "國立臺南大學辦理「《中小學AI之學習應用手冊》競賽」",
@@ -1585,6 +1585,17 @@
       "firstSentAt": "2026-11-02T05:32:46.221Z",
       "lastSentAt": "2026-11-03T06:13:41.330Z",
       "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
+    },
+    "88470828afc86e6eee3c21951a3e56560ef8d91ce3bfdad3596e1608ac1135e2": {
+      "title": "115年11月「天文親子營」天文館一日遊活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/04",
+      "updatedDate": "2026/11/04",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aead5ad93071e78e1db8976",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-05T06:09:57.740Z",
+      "lastSentAt": "2026-11-05T06:09:57.740Z",
+      "source": "smtp"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -1781,8 +1792,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae91ea1dfd102127fa5a742",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-03T06:13:41.327Z",
-      "lastSentAt": "2026-11-03T06:13:41.330Z",
-      "source": "log:logs/2026-11-03/scan-2026-11-03-141048-df05fd69-bc7a-4bbd-b213-272b56e2d367.json"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "a3ac57d99d97429ac90b455f52340d9ab97f54c07dca3db6e769da4f3903364c": {
       "title": "徐匯高級中學辦理「徐匯OPEN DAY」特色課程活動",
@@ -1814,8 +1825,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6ae92b5cea175615fe218ba0",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.230Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-04T05:51:34.233Z",
+      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
     },
     "a759a32bb308a44064f49cf70536471f6babce2b281c1cc99da635f188a97326": {
       "title": "臺北市115學年度資賦優異學生縮短修業年限申辦",
