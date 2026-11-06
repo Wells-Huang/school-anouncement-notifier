@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T06:09:57.740Z",
+  "updatedAt": "2026-11-06T06:03:50.081Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -618,6 +618,17 @@
       "lastSentAt": "2026-09-16T04:25:51.072Z",
       "source": "log:logs/2026-09-16/scan-2026-09-16-122252-32c58700-c326-4940-b60a-5157e0c80572.json"
     },
+    "3699c590d27b2bfb72a10cf2133254b4a78af3e7f32e7dbbb2b7243e3df4fca4": {
+      "title": "【轉知】靜修高級中學招生文宣資料",
+      "category": "公文公告",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1faf6c0238fd7d351532",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.081Z",
+      "source": "smtp"
+    },
     "36c9477e5fb0bbee3ffcd7b575442406e626163577d32ae37cc93ef1fb7938c3": {
       "title": "115學年度PaGamO教師應用經驗分享活動",
       "category": "研習進修",
@@ -626,8 +637,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea82bb3704806724fa28e1",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.233Z",
-      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
+      "lastSentAt": "2026-11-05T06:09:57.743Z",
+      "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
     },
     "376182c6a8a3bcd8cf34051b8e89af9df313781175211d875a7a6b8cba56e207": {
       "title": "退休校長協會115學年度第1學期 「關懷急難學童」助學金",
@@ -826,6 +837,17 @@
       "firstSentAt": "2026-10-13T06:29:05.356Z",
       "lastSentAt": "2026-10-14T04:30:12.566Z",
       "source": "log:logs/2026-10-14/scan-2026-10-14-122709-533c933d-9f5f-48cc-8932-8238699dcc66.json"
+    },
+    "42dbff09401f389da905a380e5e18c23e95791e34c17c0086aead10259f8fe94": {
+      "title": "115學年度教育盃國民小學跆拳道錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1ffd7e01e6fd5f3bb3bb",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.081Z",
+      "source": "smtp"
     },
     "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
       "title": "「藝起在艋舺」藝文活動",
@@ -1352,8 +1374,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aea756d6255dc65207b8b10",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.233Z",
-      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
+      "lastSentAt": "2026-11-05T06:09:57.743Z",
+      "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
     },
     "77b1eddf1ecb39dd5e70e911550244d9bfad9a7026affb4026f7811d7c155b4e": {
       "title": "115學年度教育盃國民小學擊劍錦標賽",
@@ -1396,8 +1418,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aeaba583ff8036ff686c4d4",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-04T05:51:34.230Z",
-      "lastSentAt": "2026-11-04T05:51:34.233Z",
-      "source": "log:logs/2026-11-04/scan-2026-11-04-134842-f5b1ca99-c353-4516-b0b2-7ae302be0892.json"
+      "lastSentAt": "2026-11-05T06:09:57.743Z",
+      "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
     },
     "79dc505ee30a69bca6102142e5ec0f8f66de15e83f7e159c321dea72567b3aec": {
       "title": "國立臺南大學辦理「《中小學AI之學習應用手冊》競賽」",
@@ -1594,8 +1616,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aead5ad93071e78e1db8976",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-05T06:09:57.740Z",
-      "lastSentAt": "2026-11-05T06:09:57.740Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-05T06:09:57.743Z",
+      "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -1772,6 +1794,17 @@
       "firstSentAt": "2026-10-19T04:15:05.273Z",
       "lastSentAt": "2026-10-19T04:15:05.276Z",
       "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
+    },
+    "a144fcd6ae1ffbcfbfd0fc776668ac254007c2ef496f5bf91262e82acd83f7f1": {
+      "title": "115學年度教育盃中小學柔道錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed20e278eca1fcd4ed8edd",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.081Z",
+      "source": "smtp"
     },
     "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
       "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
@@ -2718,6 +2751,17 @@
       "firstSentAt": "2026-09-22T04:26:23.749Z",
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
+    },
+    "fd15aae9266171a54b805a9a30a2e47bfffb260af5fc44e66c217d18e2e5fa9c": {
+      "title": "115學年度教育盃中小學空手道錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1f366c0238fd7d34f9e6",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.081Z",
+      "source": "smtp"
     },
     "fd40a7e475750ea71bb1e32727a1f6a3dc5c717033fcdf69b0ede687162d7e3f": {
       "title": "視障教育資源中心「AI工具應用於視障教材製作」研習計畫",
