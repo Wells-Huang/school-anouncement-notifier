@@ -1,12 +1,12 @@
 {
-  "runId": "dea6c75c-d51e-48a0-84d1-5513735fd603",
+  "runId": "22711aad-3791-476f-bf6f-36d1c2cb274c",
   "execution": {
-    "startedAtUtc": "2026-11-06T06:00:55.014Z",
-    "completedAtUtc": "2026-11-06T06:03:50.085Z",
-    "executedAtTaipei": "2026/11/06 14:00:55",
+    "startedAtUtc": "2026-11-07T05:33:46.384Z",
+    "completedAtUtc": "2026-11-07T05:36:34.601Z",
+    "executedAtTaipei": "2026/11/07 13:33:46",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-11-05T06:00:55.014Z",
-    "windowEndUtc": "2026-11-06T06:00:55.014Z"
+    "windowStartUtc": "2026-11-06T05:33:46.383Z",
+    "windowEndUtc": "2026-11-07T05:33:46.383Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
@@ -55,15 +55,15 @@
   "counts": {
     "scanned": 1915,
     "recent24h": 11,
-    "relevant": 4,
-    "newRelevant": 4,
-    "alreadySent": 0,
-    "sameVersionDuplicates": 0,
-    "skipped": 7,
+    "relevant": 7,
+    "newRelevant": 2,
+    "alreadySent": 4,
+    "sameVersionDuplicates": 1,
+    "skipped": 4,
     "duplicatesRemoved": 3,
     "detailAttempts": 14,
-    "detailSuccesses": 13,
-    "detailFailures": 1
+    "detailSuccesses": 14,
+    "detailFailures": 0
   },
   "relevantAnnouncements": [
     {
@@ -232,6 +232,130 @@
     },
     {
       "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "台灣展翅協會與Google台灣合作辦理「AI世代的兒少網路安全與數位素養-座談會暨研習營」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "活動/競賽",
+      "unit": "輔導室輔導組長",
+      "reason": "提到兒少、家長；屬於活動、資訊；有重要日期：2026/11/25，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/25前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/25",
+      "importantDates": [
+        {
+          "date": "2026/11/25",
+          "context": "形式:可選擇參加實體會議(120席座位)或觀看線 上直播。 (四)本活動採網路報名,報名至11月25日(三)截止; 報名連結。 四、詳細議程規劃請見附件簡章,如有任何疑義請逕向 Google"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "立健康的數位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763?vector=private&static=false",
+      "summary": "一、面對變遷快速的數位環境,保護兒少網路安全需要多方共 同努力。 社會對網路安全的認知正逐漸從過去傳統的消極防堵與監控,走向長期的「數位素養培養與引導」。",
+      "matchedKeywords": [
+        "兒少",
+        "家長",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "台灣展翅協會與Google台灣合作辦理「AI世代的兒少網路安全與數位素養-座談會暨研習營」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "研習進修",
+      "unit": "輔導室輔導組長",
+      "reason": "提到兒少、家長；屬於活動、資訊；有重要日期：2026/11/25，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/25前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/25",
+      "importantDates": [
+        {
+          "date": "2026/11/25",
+          "context": "形式:可選擇參加實體會議(120席座位)或觀看線 上直播。 (四)本活動採網路報名,報名至11月25日(三)截止; 報名連結。 四、詳細議程規劃請見附件簡章,如有任何疑義請逕向 Google"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "立健康的數位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763?vector=private&static=false",
+      "summary": "一、面對變遷快速的數位環境,保護兒少網路安全需要多方共 同努力。 社會對網路安全的認知正逐漸從過去傳統的消極防堵與監控,走向長期的「數位素養培養與引導」。",
+      "matchedKeywords": [
+        "兒少",
+        "家長",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市立臺北特殊教育學校辦理「臺北市115年度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "研習進修",
+      "unit": "輔導室輔導組長",
+      "reason": "提到兒少；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/09/21",
+          "context": "115年度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」 說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講"
+        },
+        {
+          "date": "2026/09/21",
+          "context": "度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」 說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講"
+        },
+        {
+          "date": "2026/11/17",
+          "context": "教學小組學校分享兒少性剝削防治與情感教育課程之教學實務成果。 三、活動資訊: (一)日期:115年11月17日(星期二)13時至16時。 (二)地點:本校3樓校史室。 (三)參加對象:本市高中以下各級"
+        },
+        {
+          "date": "2026/11/17",
+          "context": "學校分享兒少性剝削防治與情感教育課程之教學實務成果。 三、活動資訊: (一)日期:115年11月17日(星期二)13時至16時。 (二)地點:本校3樓校史室。 (三)參加對象:本市高中以下各級"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb706af3db623148186f4?vector=private&static=false",
+      "summary": "說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講師及課程教學小組學校分享兒少性剝削防治與情感教育課程之教學實務成果。",
+      "matchedKeywords": [
+        "兒少",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
       "bucket": "適合女兒參加",
       "priority": "中",
       "title": "【轉知】靜修高級中學招生文宣資料",
@@ -260,227 +384,158 @@
       "relevant": true,
       "bucket": "今天必看",
       "priority": "高",
+      "title": "台灣展翅協會與Google台灣合作辦理「AI世代的兒少網路安全與數位素養-座談會暨研習營」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "活動/競賽",
+      "unit": "輔導室輔導組長",
+      "reason": "提到兒少、家長；屬於活動、資訊；有重要日期：2026/11/25，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/25前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/25",
+      "importantDates": [
+        {
+          "date": "2026/11/25",
+          "context": "形式:可選擇參加實體會議(120席座位)或觀看線 上直播。 (四)本活動採網路報名,報名至11月25日(三)截止; 報名連結。 四、詳細議程規劃請見附件簡章,如有任何疑義請逕向 Google"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "立健康的數位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "位信任,讓孩子在安全的網路環境下成長。 三、旨揭活動資訊如下: (一)活動日期:2026年12月2日(三)13:30-16:00。 (二)活動地點:台北國際會議中心 2 樓會議室 201 B"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763?vector=private&static=false",
+      "summary": "一、面對變遷快速的數位環境,保護兒少網路安全需要多方共 同努力。 社會對網路安全的認知正逐漸從過去傳統的消極防堵與監控,走向長期的「數位素養培養與引導」。",
+      "matchedKeywords": [
+        "兒少",
+        "家長",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "臺北市立臺北特殊教育學校辦理「臺北市115年度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "研習進修",
+      "unit": "輔導室輔導組長",
+      "reason": "提到兒少；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/09/21",
+          "context": "115年度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」 說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講"
+        },
+        {
+          "date": "2026/09/21",
+          "context": "度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」 說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講"
+        },
+        {
+          "date": "2026/11/17",
+          "context": "教學小組學校分享兒少性剝削防治與情感教育課程之教學實務成果。 三、活動資訊: (一)日期:115年11月17日(星期二)13時至16時。 (二)地點:本校3樓校史室。 (三)參加對象:本市高中以下各級"
+        },
+        {
+          "date": "2026/11/17",
+          "context": "學校分享兒少性剝削防治與情感教育課程之教學實務成果。 三、活動資訊: (一)日期:115年11月17日(星期二)13時至16時。 (二)地點:本校3樓校史室。 (三)參加對象:本市高中以下各級"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb706af3db623148186f4?vector=private&static=false",
+      "summary": "說明: 一、依據本校115年9月21日北特輔字第115600755501號函辦理。 二、本成果發表係延續本校前揭研習活動,邀請講師及課程教學小組學校分享兒少性剝削防治與情感教育課程之教學實務成果。",
+      "matchedKeywords": [
+        "兒少",
+        "報名",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
       "title": "115學年度教育盃中小學空手道錦標賽",
       "publishedDate": "2026/11/06",
       "updatedDate": "2026/11/06",
       "category": "活動/競賽",
-      "unit": "學務處體育組長",
-      "reason": "提到學生；屬於活動、比賽；有重要日期：2026/11/24，與小五學生或家長的安排有關。",
-      "action": "請留意2026/11/24前的報名、繳費、回覆或收件要求，並依原公告辦理。",
-      "deadline": "2026/11/24",
-      "importantDates": [
-        {
-          "date": "2026/10/29",
-          "context": "115學年度教育盃中小學空手道錦標賽 一、依據臺北市立內湖高級中學115年10月29日北市內高學字第1156011143號函辦理。 二、為提升本市中小學空手道競技實力,本局委請"
-        },
-        {
-          "date": "2026/11/24",
-          "context": "賽日期:115年12月11日(星期五)至12月13日(星期日)。 (二)報名日期:即日起至115年11月24日(星期二)截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報名資料。"
-        },
-        {
-          "date": "2026/11/24",
-          "context": "115年12月11日(星期五)至12月13日(星期日)。 (二)報名日期:即日起至115年11月24日(星期二)截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報名資料。"
-        },
-        {
-          "date": "2026/11/27",
-          "context": "(臺北市內湖區文德路218號)。 (四)領隊及抽籤會議日期(不另函通知): 1、賽程抽籤:115年11月27日(星期五)上午9時30分於內湖高中活動中心1樓體育組辦公室舉行,未出席者由承辦單位代為抽籤"
-        },
-        {
-          "date": "2026/11/27",
-          "context": "內湖區文德路218號)。 (四)領隊及抽籤會議日期(不另函通知): 1、賽程抽籤:115年11月27日(星期五)上午9時30分於內湖高中活動中心1樓體育組辦公室舉行,未出席者由承辦單位代為抽籤"
-        },
-        {
-          "date": "2026/12/11",
-          "context": "市中小學空手道競技實力,本局委請內湖高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月11日(星期五)至12月13日(星期日)。 (二)報名日期:即日起至115年11月24日(星期二"
-        },
-        {
-          "date": "2026/12/11",
-          "context": "空手道競技實力,本局委請內湖高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月11日(星期五)至12月13日(星期日)。 (二)報名日期:即日起至115年11月24日(星期二"
-        },
-        {
-          "date": "2026/12/13",
-          "context": "內湖高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月11日(星期五)至12月13日(星期日)。 (二)報名日期:即日起至115年11月24日(星期二)截止,請參賽學校務必於"
-        }
-      ],
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1f366c0238fd7d34f9e6?vector=private&static=false",
-      "summary": "一、依據臺北市立內湖高級中學115年10月29日北市內高學字第1156011143號函辦理。 二、為提升本市中小學空手道競技實力,本局委請內湖高中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月11日(星期五)至12月13日(星期日)。",
-      "matchedKeywords": [
-        "學生",
-        "報名",
-        "期限",
-        "比賽",
-        "資訊"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
     },
     {
-      "relevant": true,
-      "bucket": "今天必看",
-      "priority": "高",
       "title": "115學年度教育盃中小學柔道錦標賽",
       "publishedDate": "2026/11/06",
       "updatedDate": "2026/11/06",
       "category": "活動/競賽",
-      "unit": "學務處體育組長",
-      "reason": "提到學生；屬於活動、比賽；有重要日期：2026/11/20，與小五學生或家長的安排有關。",
-      "action": "請留意2026/11/20前的報名、繳費、回覆或收件要求，並依原公告辦理。",
-      "deadline": "2026/11/20",
-      "importantDates": [
-        {
-          "date": "2026/11/02",
-          "context": "115學年度教育盃中小學柔道錦標賽 一、依據臺北市立新民國民中學115年11月2日北市新中學字第1153007878號函辦理。 二、為提升本市中小學柔道競技實力,本局委請新"
-        },
-        {
-          "date": "2026/11/20",
-          "context": "賽日期:115年12月16日(星期三)及12月17日(星期四)。 (二)報名日期:即日起至115年11月20日(星期五)截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報名資料。"
-        },
-        {
-          "date": "2026/11/20",
-          "context": "115年12月16日(星期三)及12月17日(星期四)。 (二)報名日期:即日起至115年11月20日(星期五)截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報名資料。"
-        },
-        {
-          "date": "2026/12/16",
-          "context": "本市中小學柔道競技實力,本局委請新民國中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月16日(星期三)及12月17日(星期四)。 (二)報名日期:即日起至115年11月20日(星期五"
-        },
-        {
-          "date": "2026/12/16",
-          "context": "學柔道競技實力,本局委請新民國中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月16日(星期三)及12月17日(星期四)。 (二)報名日期:即日起至115年11月20日(星期五"
-        },
-        {
-          "date": "2026/12/17",
-          "context": "新民國中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月16日(星期三)及12月17日(星期四)。 (二)報名日期:即日起至115年11月20日(星期五)截止,請參賽學校務必於"
-        }
-      ],
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed20e278eca1fcd4ed8edd?vector=private&static=false",
-      "summary": "一、依據臺北市立新民國民中學115年11月2日北市新中學字第1153007878號函辦理。 二、為提升本市中小學柔道競技實力,本局委請新民國中承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:115年12月16日(星期三)及12月17日(星期四)。",
-      "matchedKeywords": [
-        "學生",
-        "報名",
-        "期限",
-        "比賽",
-        "資訊"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
     },
     {
-      "relevant": true,
-      "bucket": "今天必看",
-      "priority": "高",
       "title": "115學年度教育盃國民小學跆拳道錦標賽",
       "publishedDate": "2026/11/06",
       "updatedDate": "2026/11/06",
       "category": "活動/競賽",
-      "unit": "學務處體育組長",
-      "reason": "提到學生；屬於比賽、資訊；有重要日期：2026/12/14，與小五學生或家長的安排有關。",
-      "action": "請留意2026/12/14前的報名、繳費、回覆或收件要求，並依原公告辦理。",
-      "deadline": "2026/12/14",
-      "importantDates": [
-        {
-          "date": "2026/02/20",
-          "context": "跆拳道競技實力,本局委請武功國小承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年2月20日(星期六)至2月22日(星期一)。 (二)報名日期:即日起至115年12月14日(星期一)"
-        },
-        {
-          "date": "2026/02/22",
-          "context": "請武功國小承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年2月20日(星期六)至2月22日(星期一)。 (二)報名日期:即日起至115年12月14日(星期一)下午4時截止,請參賽學"
-        },
-        {
-          "date": "2026/10/29",
-          "context": "115學年度教育盃國民小學跆拳道錦標賽 一、依據臺北市文山區武功國民小學 115年10月29日北市武國字第1153017696號函辦理。 二、為提升本市國小跆拳道競技實力,本局委請武功"
-        },
-        {
-          "date": "2026/12/14",
-          "context": ")比賽日期:116年2月20日(星期六)至2月22日(星期一)。 (二)報名日期:即日起至115年12月14日(星期一)下午4時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
-        },
-        {
-          "date": "2026/12/14",
-          "context": "期:116年2月20日(星期六)至2月22日(星期一)。 (二)報名日期:即日起至115年12月14日(星期一)下午4時截止,請參賽學校務必於報名期限內完成報名,報名截止後一概不得增刪、修改報"
-        },
-        {
-          "date": "2027/02/20",
-          "context": "本市國小跆拳道競技實力,本局委請武功國小承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年2月20日(星期六)至2月22日(星期一)。 (二)報名日期:即日起至115年12月14日(星期一)"
-        }
-      ],
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1ffd7e01e6fd5f3bb3bb?vector=private&static=false",
-      "summary": "一、依據臺北市文山區武功國民小學 115年10月29日北市武國字第1153017696號函辦理。 二、為提升本市國小跆拳道競技實力,本局委請武功國小承辦旨揭賽事,相關資訊摘要如下: (一)比賽日期:116年2月20日(星期六)至2月22日(星期一)。",
-      "matchedKeywords": [
-        "學生",
-        "報名",
-        "期限",
-        "比賽",
-        "資訊"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
     },
     {
-      "relevant": true,
-      "bucket": "適合女兒參加",
-      "priority": "中",
       "title": "【轉知】靜修高級中學招生文宣資料",
       "publishedDate": "2026/11/06",
       "updatedDate": "2026/11/06",
       "category": "公文公告",
-      "unit": "教務處註冊組長",
-      "reason": "提到學生；屬於資訊，與小五學生或家長的安排有關。",
-      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
-      "deadline": "無明確截止日期",
-      "importantDates": [],
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1faf6c0238fd7d351532?vector=private&static=false",
-      "summary": "一、臺北市私立靜修高中寒假ESL體驗營,對象為小五小六學生。 二、靜修高級中學附設國中部招生資訊。",
-      "matchedKeywords": [
-        "學生",
-        "資訊"
-      ],
-      "exclusionMatches": [],
-      "expired": false,
-      "detailRead": true,
-      "datePrecision": "date-only"
+      "firstSentAt": "2026-11-06T06:03:50.081Z",
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
     }
   ],
-  "alreadySentAnnouncements": [],
-  "sameVersionDuplicateAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [
+    {
+      "title": "台灣展翅協會與Google台灣合作辦理「AI世代的兒少網路安全與數位素養-座談會暨研習營」",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763?vector=private&static=false",
+      "reason": "本次掃描已有相同原始公告連結與更新日期，僅保留一則"
+    }
+  ],
   "skippedAnnouncements": [
+    {
+      "title": "賀!本校四年七班吳岳穎同學參加CAMBRIDGE劍橋英語達到歐洲語言教學與測試標準A2等級!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
     {
       "title": "115學年度上學期十月份升級綠精靈學生名單",
       "category": "校務公告",
       "reason": "未達相關條件"
     },
     {
-      "title": "2026臺灣教育科技展",
-      "category": "活動/競賽",
+      "title": "【轉知】內政部移民署辦理「第13屆新住民及子女築夢計畫」",
+      "category": "公文公告",
       "reason": "未達相關條件"
     },
     {
       "title": "2026臺灣教育科技展",
       "category": "活動/競賽",
-      "reason": "未達相關條件"
-    },
-    {
-      "title": "115學年度第1學期第七群組精進研習",
-      "category": "研習進修",
-      "reason": "未達相關條件"
-    },
-    {
-      "title": "115學年度「2026世界人權日—AI與人權」教材包研習活動",
-      "category": "研習進修",
-      "reason": "未達相關條件"
-    },
-    {
-      "title": "福林國小「115學年度中小學數位學習示範學校計畫」第一學期公開授課研習",
-      "category": "研習進修",
-      "reason": "未達相關條件"
-    },
-    {
-      "title": "民生國小辦理115學年度沉浸式科技融入素養導向教學全市公開授課",
-      "category": "研習進修",
       "reason": "未達相關條件"
     }
   ],
@@ -488,28 +543,28 @@
     "success": true,
     "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
     "itemCount": 100,
-    "lastBuildDate": "Fri, 06 Nov 2026 06:01:00 GMT"
+    "lastBuildDate": "Sat, 07 Nov 2026 05:33:51 GMT"
   },
   "email": {
     "attempted": true,
     "sent": true,
     "provider": "Gmail SMTP",
-    "response": "250 2.0.0 OK  1793945030 5a478bee46e88-36faa5afffasm3508763eec.25 - gsmtp"
+    "response": "250 2.0.0 OK  1794029794 98e67ed59e1d1-3b0fc487e05sm1423601a91.1 - gsmtp"
   },
   "sentState": {
     "path": "state/sent-announcements.json",
     "loadedFromFile": true,
     "safeToSend": true,
     "readError": "",
-    "recordsBeforeImport": 250,
-    "recordsAfterImport": 250,
-    "historicalLogsRead": 86,
-    "historicalSuccessfulLogs": 60,
+    "recordsBeforeImport": 254,
+    "recordsAfterImport": 254,
+    "historicalLogsRead": 87,
+    "historicalSuccessfulLogs": 61,
     "historicalVersionsImported": 0,
     "historicalVersionsRefreshed": 4,
     "historyErrors": [],
-    "markedAfterEmailSuccess": 4,
-    "recordsAfterRun": 254,
+    "markedAfterEmailSuccess": 2,
+    "recordsAfterRun": 256,
     "saved": true,
     "saveError": "",
     "saveNeeded": true,
@@ -519,7 +574,7 @@
   "noEmailReason": "",
   "failureReason": "",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }

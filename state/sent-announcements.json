@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T06:03:50.081Z",
+  "updatedAt": "2026-11-07T05:36:34.598Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -453,6 +453,17 @@
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
     },
+    "2a69a30f66b69f0af457316f9010fa81ef525e620012a8eabf8d9e67e8633eda": {
+      "title": "台灣展翅協會與Google台灣合作辦理「AI世代的兒少網路安全與數位素養-座談會暨研習營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-07T05:36:34.598Z",
+      "lastSentAt": "2026-11-07T05:36:34.598Z",
+      "source": "smtp"
+    },
     "2a7675dcaea141d3278934db74ba720b40264bf1a7df34310aa49c22c742f84e": {
       "title": "轉知115學年度國小自然科學探究實驗班",
       "category": "活動/競賽",
@@ -626,8 +637,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1faf6c0238fd7d351532",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.081Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
     },
     "36c9477e5fb0bbee3ffcd7b575442406e626163577d32ae37cc93ef1fb7938c3": {
       "title": "115學年度PaGamO教師應用經驗分享活動",
@@ -846,8 +857,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1ffd7e01e6fd5f3bb3bb",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.081Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
     },
     "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
       "title": "「藝起在艋舺」藝文活動",
@@ -1803,8 +1814,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed20e278eca1fcd4ed8edd",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.081Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
     },
     "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
       "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
@@ -1838,6 +1849,17 @@
       "firstSentAt": "2026-09-12T04:11:51.078Z",
       "lastSentAt": "2026-09-12T04:11:51.079Z",
       "source": "log:logs/2026-09-12/scan-2026-09-12-120832-9582ec32-2436-414e-b8ed-5804341d3246.json"
+    },
+    "a4fef9e217f2914cdac2d32f3d9639c29c1bddeeb49276eb05cf667d1e0241f1": {
+      "title": "臺北市立臺北特殊教育學校辦理「臺北市115年度課程教學組活動」成果發表— 「兒少性剝削與隱形的情感教育」",
+      "category": "研習進修",
+      "publishedDate": "2026/11/06",
+      "updatedDate": "2026/11/06",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb706af3db623148186f4",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-07T05:36:34.598Z",
+      "lastSentAt": "2026-11-07T05:36:34.598Z",
+      "source": "smtp"
     },
     "a6b123b10de1fe8d4fa02732d533dd981588fa3862f3eaadb46dba916869c071": {
       "title": "二至六年級午餐報名",
@@ -2760,8 +2782,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1f366c0238fd7d34f9e6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.081Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-06T06:03:50.085Z",
+      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
     },
     "fd40a7e475750ea71bb1e32727a1f6a3dc5c717033fcdf69b0ede687162d7e3f": {
       "title": "視障教育資源中心「AI工具應用於視障教材製作」研習計畫",
