@@ -1,0 +1,110 @@
+{
+  "runId": "98b81278-f8b7-4375-af55-041f710513c6",
+  "execution": {
+    "startedAtUtc": "2026-11-08T05:35:06.427Z",
+    "completedAtUtc": "2026-11-08T05:37:46.052Z",
+    "executedAtTaipei": "2026/11/08 13:35:06",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-07T05:35:06.427Z",
+    "windowEndUtc": "2026-11-08T05:35:06.427Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 0,
+    "relevant": 0,
+    "newRelevant": 0,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 0,
+    "duplicatesRemoved": 0,
+    "detailAttempts": 0,
+    "detailSuccesses": 0,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [],
+  "emailAnnouncements": [],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Sun, 08 Nov 2026 05:35:12 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "reason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 256,
+    "recordsAfterImport": 256,
+    "historicalLogsRead": 88,
+    "historicalSuccessfulLogs": 62,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 6,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 0,
+    "recordsAfterRun": 256,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "no_related_announcements",
+  "noEmailReason": "今日無相關公告；僅記錄 log，不寄送掃描狀態信",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-08/scan-2026-11-08-133506-98b81278-f8b7-4375-af55-041f710513c6.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

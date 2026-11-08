@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T05:36:34.598Z",
+  "updatedAt": "2026-11-07T05:36:34.601Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -461,8 +461,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb68d4a26332143f18763",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-07T05:36:34.598Z",
-      "lastSentAt": "2026-11-07T05:36:34.598Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "2a7675dcaea141d3278934db74ba720b40264bf1a7df34310aa49c22c742f84e": {
       "title": "轉知115學年度國小自然科學探究實驗班",
@@ -637,8 +637,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1faf6c0238fd7d351532",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.085Z",
-      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "36c9477e5fb0bbee3ffcd7b575442406e626163577d32ae37cc93ef1fb7938c3": {
       "title": "115學年度PaGamO教師應用經驗分享活動",
@@ -857,8 +857,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1ffd7e01e6fd5f3bb3bb",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.085Z",
-      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
       "title": "「藝起在艋舺」藝文活動",
@@ -1814,8 +1814,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed20e278eca1fcd4ed8edd",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.085Z",
-      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "a29aa11552f1587aeeedc0523b45512651f59f8ac84085610bee77f9e14bd37e": {
       "title": "新興自造教育及科技中心115學年度第1學期科技教育種子教師培訓研習",
@@ -1858,8 +1858,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aedb706af3db623148186f4",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-07T05:36:34.598Z",
-      "lastSentAt": "2026-11-07T05:36:34.598Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "a6b123b10de1fe8d4fa02732d533dd981588fa3862f3eaadb46dba916869c071": {
       "title": "二至六年級午餐報名",
@@ -2782,8 +2782,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6aed1f366c0238fd7d34f9e6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-06T06:03:50.081Z",
-      "lastSentAt": "2026-11-06T06:03:50.085Z",
-      "source": "log:logs/2026-11-06/scan-2026-11-06-140055-dea6c75c-d51e-48a0-84d1-5513735fd603.json"
+      "lastSentAt": "2026-11-07T05:36:34.601Z",
+      "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
     "fd40a7e475750ea71bb1e32727a1f6a3dc5c717033fcdf69b0ede687162d7e3f": {
       "title": "視障教育資源中心「AI工具應用於視障教材製作」研習計畫",
