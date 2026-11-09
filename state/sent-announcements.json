@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T05:36:34.601Z",
+  "updatedAt": "2026-11-09T05:47:34.109Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -1113,6 +1113,17 @@
       "lastSentAt": "2026-10-21T04:17:03.327Z",
       "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
+    "5b72b9e60e085853ab1e373bda1b3a10328d78c5e250cf0f022f605cb4511a5c": {
+      "title": "國立臺北教育大學「2027冬令營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af10fbc7b3f8ce487b830bd",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-09T05:47:34.109Z",
+      "lastSentAt": "2026-11-09T05:47:34.109Z",
+      "source": "smtp"
+    },
     "5b80826eb88b8a96838cb8a9d7859804ce963a9f58f93a269bae39de0b513f6f": {
       "title": "115課後班編班公告與請假方式",
       "category": "校務公告",
@@ -1145,6 +1156,17 @@
       "firstSentAt": "2026-10-05T05:10:12.548Z",
       "lastSentAt": "2026-10-06T05:56:55.470Z",
       "source": "log:logs/2026-10-06/scan-2026-10-06-135404-b8a2f2d7-62c4-4abb-a5ee-02536fbe6f93.json"
+    },
+    "60253fd5c6d2027bcf5893cd4446e3d85def0f1ce6deb578fb2c02dfdc96f72a": {
+      "title": "115學年度教育盃中小學角力錦標賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af10c08a49dece6c48e499c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-09T05:47:34.109Z",
+      "lastSentAt": "2026-11-09T05:47:34.109Z",
+      "source": "smtp"
     },
     "60a175a89de94f502d486d20c73ecf26156a576f990357006e665dd511b82451": {
       "title": "台灣心輔犬培育團隊115年人才培育計畫課程",
@@ -1762,6 +1784,17 @@
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
+    "99191d167814f076c6ccdc500e8c85b19ddc21dd0e3010974e78b2b3d362fbe9": {
+      "title": "國立屏東科技大學2027冬令營「吠常任務」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af15d5bd739ebfa9c0850bc",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-09T05:47:34.109Z",
+      "lastSentAt": "2026-11-09T05:47:34.109Z",
+      "source": "smtp"
+    },
     "9b38e60f55dae333088229e5fde3ddeec120a034554a0aabffa1466bfde93d63": {
       "title": "115課後班編班公告與請假方式",
       "category": "校務公告",
@@ -1772,6 +1805,17 @@
       "lastSentAt": "2026-08-28T10:58:36.073Z",
       "source": "log:logs/2026-08-28/scan-2026-08-28-185535-fb344a58-e8cd-4557-80be-e634398e1189.json",
       "firstSentAt": "2026-08-27T08:46:07.499Z"
+    },
+    "9bd513b14262f6145668c2a31b9c288b2b707db47b1b7d1e26e3e8acc8d04e20": {
+      "title": "教育部116年3月臺灣台語語言能力認證考試",
+      "category": "研習進修",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af14727d7599bf1b2047323",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-09T05:47:34.109Z",
+      "lastSentAt": "2026-11-09T05:47:34.109Z",
+      "source": "smtp"
     },
     "9cb45a19b5205422905273ab869af009d9787b1454c56662e869f6f1060456a3": {
       "title": "蘭州國中「拏風躍雲、做享騎乘2.0 PLUS」戶外教育活動",
@@ -1805,6 +1849,17 @@
       "firstSentAt": "2026-10-19T04:15:05.273Z",
       "lastSentAt": "2026-10-19T04:15:05.276Z",
       "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
+    },
+    "a1388c5fb425572d4cd699bb2271f5993b682ff9c3b9c7c17e8b7bcd2fa9032f": {
+      "title": "臺北市立臺北特殊教育學校辦理115年度「身心障礙成年監護與輔助宣告」親師研習",
+      "category": "研習進修",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af137a67b427cefa6e2c4a6",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-09T05:47:34.109Z",
+      "lastSentAt": "2026-11-09T05:47:34.109Z",
+      "source": "smtp"
     },
     "a144fcd6ae1ffbcfbfd0fc776668ac254007c2ef496f5bf91262e82acd83f7f1": {
       "title": "115學年度教育盃中小學柔道錦標賽",
