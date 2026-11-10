@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T05:47:34.109Z",
+  "updatedAt": "2026-11-10T06:55:48.977Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -155,6 +155,17 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "113973830f0ff289d5b49a072ea2f5aa7afe52dd574073e5c0807e344ab84fa6": {
+      "title": "國立臺灣師範大學「2027臺師大SEED中心聯名營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af26eff3c3e0034f4c50e3f",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
     },
     "1170ed6eb93eecdccf35f528f4e4fd4d0851e96ed37192796fe816b2b9d9a199": {
       "title": "教育部115學年度教師專業發展初階專業回饋人才培訓研習",
@@ -518,6 +529,17 @@
       "lastSentAt": "2026-08-21T10:17:42.041Z",
       "source": "log:logs/2026-08-21/scan-2026-08-21-181451-03f4ec09-9dc5-4136-823b-a2cce6b8c5ea.json",
       "firstSentAt": "2026-08-21T08:49:37.023Z"
+    },
+    "2d87fc4f4d7b9dffa03ecf98197dd9bd54741cf83748216336e29243508f283a": {
+      "title": "賀!404何枘頤同學榮獲115年度臺北市性別平等教育宣導月徵件比賽「多元共融性別無界線」中年級組-優選!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af270f7ecf61f33a8684fca",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
     },
     "2efef7234232bcb16ed88246a7136cd3c726f5a4b102f4802877481c4693a311": {
       "title": "【轉知】教育部提供之115年中小學《教師數位與AI教學指引》、《校長數位與AI學習領導指引》、《家長數位與AI學習知能指引》及學生可自學之《AI之學習應用手冊》內容",
@@ -1121,8 +1143,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af10fbc7b3f8ce487b830bd",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-09T05:47:34.109Z",
-      "lastSentAt": "2026-11-09T05:47:34.109Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-09T05:47:34.112Z",
+      "source": "log:logs/2026-11-09/scan-2026-11-09-134441-fa6f05e6-a363-4877-b646-9fc032885265.json"
     },
     "5b80826eb88b8a96838cb8a9d7859804ce963a9f58f93a269bae39de0b513f6f": {
       "title": "115課後班編班公告與請假方式",
@@ -1165,8 +1187,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af10c08a49dece6c48e499c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-09T05:47:34.109Z",
-      "lastSentAt": "2026-11-09T05:47:34.109Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-09T05:47:34.112Z",
+      "source": "log:logs/2026-11-09/scan-2026-11-09-134441-fa6f05e6-a363-4877-b646-9fc032885265.json"
     },
     "60a175a89de94f502d486d20c73ecf26156a576f990357006e665dd511b82451": {
       "title": "台灣心輔犬培育團隊115年人才培育計畫課程",
@@ -1376,6 +1398,17 @@
       "firstSentAt": "2026-09-29T05:21:40.147Z",
       "lastSentAt": "2026-09-30T05:09:14.272Z",
       "source": "log:logs/2026-09-30/scan-2026-09-30-130604-188902f3-082d-4ec2-bc2e-cfb104ae267e.json"
+    },
+    "70378cce385c20e98e0bed500e0309ae2a94384d773529a7973d1582ee45926a": {
+      "title": "國立陽明交通大學「2027冬季手作藝術探索營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af18d4b1358bc046e4b2e72",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
     },
     "704c42b63d8707e39d15c307b615e661889281498d76bbbe2eb83a60fc146f12": {
       "title": "115-1課後班異動截止重要通知",
@@ -1685,6 +1718,17 @@
       "lastSentAt": "2026-09-30T05:09:14.272Z",
       "source": "log:logs/2026-09-30/scan-2026-09-30-130604-188902f3-082d-4ec2-bc2e-cfb104ae267e.json"
     },
+    "8a88e6484a1a96b2d03cc3c35b423829bee6ef526570a17f20dc8d5624c262c4": {
+      "title": "自然悠遊工作室「【自然拾光手札】森野探索蒐藏營」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af294344168313e666904eb",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
+    },
     "8b7a94a68bf907871b4a2100450e6f4f98cfc8f41af21ad83065c19c88dcd77f": {
       "title": "台灣展翅協會 X 台灣微軟《數位素養與網路安全》國中小教師線上研習",
       "category": "研習進修",
@@ -1706,6 +1750,17 @@
       "firstSentAt": "2026-10-03T04:54:10.614Z",
       "lastSentAt": "2026-10-03T04:54:10.616Z",
       "source": "log:logs/2026-10-03/scan-2026-10-03-125123-bfdd2ea3-574b-48ba-be28-41690972ed2b.json"
+    },
+    "9216b2bc55602d4e3ab5e3e3fed89a5ab91c1fda9d4a83c93d647d9477539166": {
+      "title": "第八屆『廣達游智盃』創意程式競賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/09",
+      "updatedDate": "2026/11/09",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af1834ed739ebfa9c15938e",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
     },
     "92e4f6e0acd235fbd69a5c3543deb8f66ca6e97c34727e01502e1ebd76808663": {
       "title": "115學年度教育盃中小學競技體操錦標賽競賽",
@@ -1792,8 +1847,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af15d5bd739ebfa9c0850bc",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-09T05:47:34.109Z",
-      "lastSentAt": "2026-11-09T05:47:34.109Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-09T05:47:34.112Z",
+      "source": "log:logs/2026-11-09/scan-2026-11-09-134441-fa6f05e6-a363-4877-b646-9fc032885265.json"
     },
     "9b38e60f55dae333088229e5fde3ddeec120a034554a0aabffa1466bfde93d63": {
       "title": "115課後班編班公告與請假方式",
@@ -1814,8 +1869,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af14727d7599bf1b2047323",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-09T05:47:34.109Z",
-      "lastSentAt": "2026-11-09T05:47:34.109Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-09T05:47:34.112Z",
+      "source": "log:logs/2026-11-09/scan-2026-11-09-134441-fa6f05e6-a363-4877-b646-9fc032885265.json"
     },
     "9cb45a19b5205422905273ab869af009d9787b1454c56662e869f6f1060456a3": {
       "title": "蘭州國中「拏風躍雲、做享騎乘2.0 PLUS」戶外教育活動",
@@ -1858,8 +1913,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af137a67b427cefa6e2c4a6",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-09T05:47:34.109Z",
-      "lastSentAt": "2026-11-09T05:47:34.109Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-09T05:47:34.112Z",
+      "source": "log:logs/2026-11-09/scan-2026-11-09-134441-fa6f05e6-a363-4877-b646-9fc032885265.json"
     },
     "a144fcd6ae1ffbcfbfd0fc776668ac254007c2ef496f5bf91262e82acd83f7f1": {
       "title": "115學年度教育盃中小學柔道錦標賽",
@@ -2147,6 +2202,17 @@
       "lastSentAt": "2026-10-21T04:17:03.327Z",
       "source": "log:logs/2026-10-21/scan-2026-10-21-121408-80e0de96-7c7f-47f4-b280-70bc39ce2515.json"
     },
+    "b0e1b7d05e67b0ad474f66560854c3e1b7485477c845a0b1420ecdf254ef7201": {
+      "title": "賀!本校導護志工 邱顯晟先生榮獲「115年度績優交通導護人員」!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2997f8247d541cc4406c0",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
+    },
     "b0e85ece2ead0fddb757c3bde641dadc7381ab47b2dc3b1345e64c81471198b6": {
       "title": "115年臺北市原住民族學生語言競賽報名簡章",
       "category": "活動/競賽",
@@ -2422,6 +2488,17 @@
       "lastSentAt": "2026-09-04T04:07:33.700Z",
       "source": "log:logs/2026-09-04/scan-2026-09-04-120448-86e8af8c-a051-4e7e-9f70-bdc27f7041c6.json"
     },
+    "c98058c125079037618177bb7162e7803b90ab3f10f0744ed3b0fb0f620db86a": {
+      "title": "清華大學辦理科普活動競賽「吉娃斯愛科學決戰」體驗賽",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b2a50960424422d6b9b9",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
+    },
     "ccb5eeebb22a4dc4395f9a4bd96403775021a818c37853b7c4c0cb5552b12881": {
       "title": "國家華語測驗推動工作委員會116年「華語文能力測驗」",
       "category": "活動/競賽",
@@ -2663,6 +2740,17 @@
       "firstSentAt": "2026-09-06T04:07:02.478Z",
       "lastSentAt": "2026-09-06T04:07:02.479Z",
       "source": "log:logs/2026-09-06/scan-2026-09-06-120419-95f157f9-a85e-4585-b77d-cd590c2a50d1.json"
+    },
+    "e0d2c3407807c0a55b3fe9f452103395089af6136e7d886fc3ca429725626dc7": {
+      "title": "「115學年度原住民族文化與科學展覽會」 計畫競賽徵件說明會",
+      "category": "研習進修",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b583b3de7e4370041c69",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.977Z",
+      "source": "smtp"
     },
     "e2405f352abce38545b01237f265bbeb050b688df9a7af9e19394e028dc770d4": {
       "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
