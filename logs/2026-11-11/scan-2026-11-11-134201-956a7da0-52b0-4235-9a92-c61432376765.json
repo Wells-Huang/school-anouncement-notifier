@@ -1,0 +1,517 @@
+{
+  "runId": "956a7da0-52b0-4235-9a92-c61432376765",
+  "execution": {
+    "startedAtUtc": "2026-11-11T05:42:01.289Z",
+    "completedAtUtc": "2026-11-11T05:44:59.589Z",
+    "executedAtTaipei": "2026/11/11 13:42:01",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-10T05:42:01.289Z",
+    "windowEndUtc": "2026-11-11T05:42:01.289Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 16,
+    "relevant": 7,
+    "newRelevant": 0,
+    "alreadySent": 7,
+    "sameVersionDuplicates": 0,
+    "skipped": 9,
+    "duplicatesRemoved": 3,
+    "detailAttempts": 19,
+    "detailSuccesses": 18,
+    "detailFailures": 1
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「115學年度原住民族文化與科學展覽會」計畫競賽徵件說明會",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "研習進修",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生；屬於展覽、徵件，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/05",
+          "context": "「115學年度原住民族文化與科學展覽會」計畫競賽徵件說明會 一、依據教育部國民及學前教育署115年11月5日臺教國署原字第1155703695A號辦理。 二、為協助各級學校教師及學生了解「115學年"
+        },
+        {
+          "date": "2026/11/05",
+          "context": "學年度原住民族文化與科學展覽會」計畫競賽徵件說明會 一、依據教育部國民及學前教育署115年11月5日臺教國署原字第1155703695A號辦理。 二、為協助各級學校教師及學生了解「115學年"
+        },
+        {
+          "date": "2026/11/11",
+          "context": "國立宜蘭大學教穡大樓B1文化灣教室(宜蘭縣宜蘭市神農路一段1號)。 2、線上會議: (1)115年11月11日(星期三)中午12時視訊會議連結 (2)115年11月25日(星期三)中午12時視訊會議連"
+        },
+        {
+          "date": "2026/11/11",
+          "context": "大學教穡大樓B1文化灣教室(宜蘭縣宜蘭市神農路一段1號)。 2、線上會議: (1)115年11月11日(星期三)中午12時視訊會議連結 (2)115年11月25日(星期三)中午12時視訊會議連"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "號)。 2、線上會議: (1)115年11月11日(星期三)中午12時視訊會議連結 (2)115年11月25日(星期三)中午12時視訊會議連結 (二)報名方式:一律採網路報名,不開放現場報名,報名網址"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "2、線上會議: (1)115年11月11日(星期三)中午12時視訊會議連結 (2)115年11月25日(星期三)中午12時視訊會議連結 (二)報名方式:一律採網路報名,不開放現場報名,報名網址"
+        },
+        {
+          "date": "2026/11/27",
+          "context": "會辦理日期、地點及報名網址如下: (一)辦理時間及地點: 1、實體會議: (1)花蓮場次:115年11月27日(星期五)上午10時假國立東華大學原住民民族學院A151室(花蓮縣壽豐鄉志學村大學路二段1"
+        },
+        {
+          "date": "2026/11/27",
+          "context": "期、地點及報名網址如下: (一)辦理時間及地點: 1、實體會議: (1)花蓮場次:115年11月27日(星期五)上午10時假國立東華大學原住民民族學院A151室(花蓮縣壽豐鄉志學村大學路二段1"
+        },
+        {
+          "date": "2026/12/05",
+          "context": "立東華大學原住民民族學院A151室(花蓮縣壽豐鄉志學村大學路二段1號)。 (2)臺東場次:115年12月5日(星期六)上午10時假國立臺東大學教學大樓5樓視聽教室A125(臺東縣臺東市中華路一段68"
+        },
+        {
+          "date": "2026/12/05",
+          "context": "學原住民民族學院A151室(花蓮縣壽豐鄉志學村大學路二段1號)。 (2)臺東場次:115年12月5日(星期六)上午10時假國立臺東大學教學大樓5樓視聽教室A125(臺東縣臺東市中華路一段68"
+        },
+        {
+          "date": "2026/12/06",
+          "context": "臺東大學教學大樓5樓視聽教室A125(臺東縣臺東市中華路一段684號)。 (3)宜蘭場次:115年12月6日(星期日)上午10時假國立宜蘭大學教穡大樓B1文化灣教室(宜蘭縣宜蘭市神農路一段1號)。"
+        },
+        {
+          "date": "2026/12/06",
+          "context": "教學大樓5樓視聽教室A125(臺東縣臺東市中華路一段684號)。 (3)宜蘭場次:115年12月6日(星期日)上午10時假國立宜蘭大學教穡大樓B1文化灣教室(宜蘭縣宜蘭市神農路一段1號)。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b583b3de7e4370041c69?vector=private&static=false",
+      "summary": "一、依據教育部國民及學前教育署115年11月5日臺教國署原字第1155703695A號辦理。 二、為協助各級學校教師及學生了解「115學年度原住民族文化 與科學展覽會」之辦理目的、參賽資格、組隊方式及相關規定,發掘具有文化意義與科學探究價值的研究議題,培養學生的科學探究能力、問題解決能力及文化主體性,特辦旨揭計畫。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "徵件",
+        "展覽",
+        "科學"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "自然悠遊工作室「【自然拾光手札】森野探索蒐藏營」",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動、營隊，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/25",
+          "context": "名稱:【自然拾光手札】森野探索蒐藏營 招生對象: 國小一至六年級學生 活動日期: 116年1月25日(星期一)至1月29日(星期五) 活動時間: 每日上午9時至下午4時 活動形式: 五天日歸"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "森野探索蒐藏營 招生對象: 國小一至六年級學生 活動日期: 116年1月25日(星期一)至1月29日(星期五) 活動時間: 每日上午9時至下午4時 活動形式: 五天日歸營,非住宿型營隊報名連"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "。 活動名稱:【自然拾光手札】森野探索蒐藏營 招生對象: 國小一至六年級學生 活動日期: 116年1月25日(星期一)至1月29日(星期五) 活動時間: 每日上午9時至下午4時 活動形式: 五天日歸"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af294344168313e666904eb?vector=private&static=false",
+      "summary": "自然悠遊工作室辦理「【自然拾光手札】森野探索蒐藏營」,透過自然觀察、素材蒐集、紀錄與創作等活動,引導學生認識自然環境,培養觀察力、想像力、美感及自主探索能力。 活動名稱:【自然拾光手札】森野探索蒐藏營 招生對象: 國小一至六年級學生 活動日期: 116年1月25日(星期一)至1月29日(星期五) 活動時間: 每日上午9時至下午4時 活動形式: 五天日歸營,非住宿型營隊報名連結 集合地點: Huge Burger(臺北市士林區小東街14號) 聯絡方式: 官方LINE ID:@whe4708n 詳細活動內容及報名方式請參閱附件宣傳海報,歡迎有興趣之家長及學…",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "營隊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "國立臺灣師範大學「2027臺師大SEED中心聯名營」",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "unit": "輔導室輔導組長",
+      "reason": "提到學生、學童、家長；屬於活動、營隊，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/22",
+          "context": "境活動,引導學生在遊戲中探索與學習。 二、營隊相關資訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5"
+        },
+        {
+          "date": "2026/01/25",
+          "context": "戲中探索與學習。 二、營隊相關資訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5時30分。 (二)地"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "習。 二、營隊相關資訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5時30分。 (二)地點:金甌女中"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5時30分。 (二)地點:金甌女中、敦化國中、美數學"
+        },
+        {
+          "date": "2026/02/03",
+          "context": ")時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5時30分。 (二)地點:金甌女中、敦化國中、美數學院。 (三"
+        },
+        {
+          "date": "2027/01/21",
+          "context": "能力,並搭配主題式情境活動,引導學生在遊戲中探索與學習。 二、營隊相關資訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時2"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af26eff3c3e0034f4c50e3f?vector=private&static=false",
+      "summary": "一、旨揭冬令營由本校「社會情緒教育與發展研究中心」與「數感實驗室」合作辦理,課程依據社會情緒學習(SEL)架構設計,內容涵蓋自我覺察、自我管理、社會覺察、人際 互動與負責任決策等五大核心能力,並搭配主題式情境活動,引導學生在遊戲中探索與學習。 二、營隊相關資訊: (一)時間:2027年1月21至1月22日(2日)、1月25日至1月29日(5日)、2月1日至2月3日(3日)上午8時20分至下午5時30分。",
+      "matchedKeywords": [
+        "學生",
+        "學童",
+        "家長",
+        "報名",
+        "營隊",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "清華大學辦理科普活動競賽「吉娃斯愛科學決戰」體驗賽",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "unit": "教務處註冊組長",
+      "reason": "提到家長；屬於活動、科學，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/11/02",
+          "context": "清華大學辦理科普活動競賽「吉娃斯愛科學決戰」體驗賽 一、依據國立清華大學115年11月2日清教字第1159009034號函辦理。 二、為推廣原住民族文化科學教育及科普學習,國立清華"
+        },
+        {
+          "date": "2026/11/14",
+          "context": "如下: (一)線上測驗練習:完成會員註冊並登入後,即可隨時進行測驗練習。 (二)線上競賽:115年11月14日(星期六)上午10時至12時辦理;競賽共25題單選題,答題時間40分鐘,每位參賽者限參加1"
+        },
+        {
+          "date": "2026/11/14",
+          "context": "(一)線上測驗練習:完成會員註冊並登入後,即可隨時進行測驗練習。 (二)線上競賽:115年11月14日(星期六)上午10時至12時辦理;競賽共25題單選題,答題時間40分鐘,每位參賽者限參加1"
+        },
+        {
+          "date": "2026/11/21",
+          "context": "題時間40分鐘,每位參賽者限參加1次。 (三)實體公開決賽:線上競賽前3名取得決賽資格,於115年11月21日(星期六)上午11時至11時30分,假新竹振道有線電視攝影棚辦理。 (四)活動網址。 五、"
+        },
+        {
+          "date": "2026/11/21",
+          "context": "0分鐘,每位參賽者限參加1次。 (三)實體公開決賽:線上競賽前3名取得決賽資格,於115年11月21日(星期六)上午11時至11時30分,假新竹振道有線電視攝影棚辦理。 (四)活動網址。 五、"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b2a50960424422d6b9b9?vector=private&static=false",
+      "summary": "一、依據國立清華大學115年11月2日清教字第1159009034號函辦理。 二、為推廣原住民族文化科學教育及科普學習,國立清華大學學習科學與科技研究所與原住民族科學發展中心辦理「吉娃斯愛科學決戰」體驗賽,結合《吉娃斯愛科學》系列動畫之科普教育成果與數位科技應用,透過線上測驗練習及競賽方式,引導師生探索科學概念、原住民族文化知識、環境教育及跨域STEM學習。",
+      "matchedKeywords": [
+        "家長",
+        "報名",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!404何枘頤同學榮獲115年度臺北市性別平等教育宣導月徵件比賽「多元共融性別無界線」中年級組-優選!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "unit": "輔導室輔導組長",
+      "reason": "提到家長；屬於比賽、徵件，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af270f7ecf61f33a8684fca?vector=private&static=false",
+      "summary": "恭喜 本校 404班何枘頤同學,以作品〈不一樣,也一樣閃亮〉代表學校參加臺北市115年度國小性別平等教育宣導月「多元共融 性別尊重無界線」徵件比賽,榮獲 中年級組優選! 枘頤以四格漫畫描繪同學分享興趣、選拔班級幹部及分工打掃的日常,傳達「尊重差異,平等對待」的理念,讓我們看見每個人都能自在發展自己的興趣與專長。",
+      "matchedKeywords": [
+        "家長",
+        "比賽",
+        "徵件"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!404何枘頤同學榮獲115年度臺北市性別平等教育宣導月徵件比賽「多元共融性別無界線」中年級組-優選!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "unit": "輔導室輔導組長",
+      "reason": "提到家長；屬於比賽、徵件，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af270f7ecf61f33a8684fca?vector=private&static=false",
+      "summary": "恭喜 本校 404班何枘頤同學 ,以作品〈不一樣,也一樣閃亮〉代表學校參加臺北市115年度國小性別平等教育宣導月「多元共融 性別尊重無界線」徵件比賽,榮獲 中年級組優選 ! 枘頤以四格漫畫描繪同學分享興趣、選拔班級幹部及分工打掃的日常,傳達「尊重差異,平等對待」的理念,讓我們看見每個人都能自在發展自己的興趣與專長。",
+      "matchedKeywords": [
+        "家長",
+        "比賽",
+        "徵件"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": false,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "家長知道即可",
+      "priority": "低",
+      "title": "賀!本校導護志工 邱顯晟先生榮獲「115年度績優交通導護人員」!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "unit": "學務處生教組長",
+      "reason": "提到學生、交通；涉及交通，與小五學生或家長的安排有關。",
+      "action": "請依公告日期調整接送、交通或請假安排。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2997f8247d541cc4406c0?vector=private&static=false",
+      "summary": "本校導護志工 邱顯晟先生 擔任導護人員工作,熱心公益、精神可佩,盡心戮力維護學生上下學安全,榮獲「115年度績優交通導護人員」! 古亭國小全體師生 敬賀 !",
+      "matchedKeywords": [
+        "學生",
+        "交通"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [],
+  "alreadySentAnnouncements": [
+    {
+      "title": "「115學年度原住民族文化與科學展覽會」計畫競賽徵件說明會",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b583b3de7e4370041c69?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "自然悠遊工作室「【自然拾光手札】森野探索蒐藏營」",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af294344168313e666904eb?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "國立臺灣師範大學「2027臺師大SEED中心聯名營」",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af26eff3c3e0034f4c50e3f?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "清華大學辦理科普活動競賽「吉娃斯愛科學決戰」體驗賽",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2b2a50960424422d6b9b9?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "賀!404何枘頤同學榮獲115年度臺北市性別平等教育宣導月徵件比賽「多元共融性別無界線」中年級組-優選!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af270f7ecf61f33a8684fca?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "賀!404何枘頤同學榮獲115年度臺北市性別平等教育宣導月徵件比賽「多元共融性別無界線」中年級組-優選!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af270f7ecf61f33a8684fca?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "賀!本校導護志工 邱顯晟先生榮獲「115年度績優交通導護人員」!",
+      "publishedDate": "2026/11/10",
+      "updatedDate": "2026/11/10",
+      "category": "榮譽榜",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af2997f8247d541cc4406c0?vector=private&static=false",
+      "firstSentAt": "2026-11-10T06:55:48.977Z",
+      "lastSentAt": "2026-11-10T06:55:48.981Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "賀!本校五年四班 黃弈勳於115年運動部輔導臺北市立龍山國中辦理基層運動選手全國區域性跆拳道品勢對抗賽 榮獲 雙人一般國小黑帶A組 第一名、個人一般國小男子高年級黑帶E組 第一名、雙人菁英國小組 第一名!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "賀!本校五年八班 鍾任安於2026第十一屆國際金鼓獎爵士鼓大賽 榮獲 國小C組 特優!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "賀!本校五年一班 鄒承廷於115臺中市市長盃滑冰錦標賽-花式滑冰 榮獲U10男子組指定花式五級 第一名!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "賀!本校飛盤隊學生於115年臺北市協會盃飛盤歡樂賽 躲避盤賽、飛盤高爾夫賽獲得優異成績!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "本市績優運動選手訓練補助金",
+      "category": "獎補助資訊",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "2027年臺北市國際書法展暨迎春揮毫大會",
+      "category": "活動/競賽",
+      "reason": "已截止"
+    },
+    {
+      "title": "臺北市115學年度萬華區雙語聯盟國際教育專題分享「把世界帶進校園讓孩子走進國際」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「AI智慧校園新思維」系列專題講座",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "「走讀人權景點(AI導入戶外教育)工作坊」研習活動",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Wed, 11 Nov 2026 05:42:07 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "reason": "符合條件公告皆已成功通知；僅記錄 log，不重複寄送"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 269,
+    "recordsAfterImport": 269,
+    "historicalLogsRead": 91,
+    "historicalSuccessfulLogs": 64,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 13,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 0,
+    "recordsAfterRun": 269,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "already_notified",
+  "noEmailReason": "符合條件公告皆已成功通知；僅記錄 log，不重複寄送",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-11/scan-2026-11-11-134201-956a7da0-52b0-4235-9a92-c61432376765.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}
