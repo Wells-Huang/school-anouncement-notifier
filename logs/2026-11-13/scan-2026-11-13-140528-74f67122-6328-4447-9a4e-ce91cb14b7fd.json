@@ -1,0 +1,617 @@
+{
+  "runId": "74f67122-6328-4447-9a4e-ce91cb14b7fd",
+  "execution": {
+    "startedAtUtc": "2026-11-13T06:05:28.796Z",
+    "completedAtUtc": "2026-11-13T06:08:22.382Z",
+    "executedAtTaipei": "2026/11/13 14:05:28",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-12T06:05:28.796Z",
+    "windowEndUtc": "2026-11-13T06:05:28.796Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 13,
+    "relevant": 6,
+    "newRelevant": 4,
+    "alreadySent": 2,
+    "sameVersionDuplicates": 0,
+    "skipped": 7,
+    "duplicatesRemoved": 3,
+    "detailAttempts": 16,
+    "detailSuccesses": 14,
+    "detailFailures": 2
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "「開箱獅城教室!一線雙語教師的新加坡教育觀察」分享講座",
+      "publishedDate": "2026/11/12",
+      "updatedDate": "2026/11/12",
+      "category": "研習進修",
+      "unit": "教務處教學組長",
+      "reason": "提到學生；屬於活動、課程；有重要日期：2026/11/25，與小五學生或家長的安排有關。",
+      "action": "請留意2026/11/25前的報名、繳費、回覆或收件要求，並依原公告辦理。",
+      "deadline": "2026/11/25",
+      "importantDates": [
+        {
+          "date": "2026/11/02",
+          "context": "「開箱獅城教室!一線雙語教師的新加坡教育觀察」分享講座 一、依據國立臺灣師範大學115年11月2日師大教育字第1151031270號函辦理。 二、為拓展教師雙語教育專業視野,促進雙語課程設"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "局、國際教育中心及英資中心人員。 (三)對新加坡教育有興趣之教育人員。 六、報名方式:請於115年11月25日(星期三)中午12時前,填妥報名表單。 七、預計錄取人數:至多120人,如報名人數逾額,將"
+        },
+        {
+          "date": "2026/11/25",
+          "context": "教育中心及英資中心人員。 (三)對新加坡教育有興趣之教育人員。 六、報名方式:請於115年11月25日(星期三)中午12時前,填妥報名表單。 七、預計錄取人數:至多120人,如報名人數逾額,將"
+        },
+        {
+          "date": "2026/12/07",
+          "context": "如下: (一)活動名稱:「開箱獅城教室!一線雙語教師的新加坡教育觀察」。 (二)活動時間:115年12月7日(星期一)上午9時至下午4時。 (三)活動地點:國立臺北教育大學附設實驗國民小學階梯教室("
+        },
+        {
+          "date": "2026/12/07",
+          "context": "(一)活動名稱:「開箱獅城教室!一線雙語教師的新加坡教育觀察」。 (二)活動時間:115年12月7日(星期一)上午9時至下午4時。 (三)活動地點:國立臺北教育大學附設實驗國民小學階梯教室("
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af54bfd845271ecff523828?vector=private&static=false",
+      "summary": "一、依據國立臺灣師範大學115年11月2日師大教育字第1151031270號函辦理。 二、為拓展教師雙語教育專業視野,促進雙語課程設計、教學策略及創新教學之實務交流,該校教育學系林子斌特聘教授規劃辦理旨揭分享講座,邀請曾赴新加坡進行雙語教育參訪之第一線種子雙語教師,分享參訪所見、課堂觀察、課程實例及教學反思。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】協和祐德高級中等學校「116學年度國中部新生說明會」",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/09",
+          "context": "時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至11時。 四、活動地點:協和祐德高級中等學校(臺北市信義區忠孝"
+        },
+        {
+          "date": "2026/12/12",
+          "context": "及雙聯學制等特色課程,並重視品格教育與學生多元能力培養。 三、說明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至1"
+        },
+        {
+          "date": "2026/12/12",
+          "context": "制等特色課程,並重視品格教育與學生多元能力培養。 三、說明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至1"
+        },
+        {
+          "date": "2027/01/09",
+          "context": "明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至11時。 四、活動地點:協和祐德高級中等學校(臺北市信義區忠孝"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af68bb3e1b43d3a116e4734?vector=private&static=false",
+      "summary": "一、為使國小六年級學生及家長瞭解本校國中部辦學理念、課程特色及多元學習資源,特辦理116學年度國中部新生說明 會,提供升學選擇及入學相關資訊。 二、本校國中部以多元適性發展及國際教育為辦學方向,結合 Discovery Education及加拿大OIA卓越國際學院資源,規 劃菁英卓越課程、科技融入教學、PBL問題導向學習、AI課 程及雙聯學制等特色課程,並重視品格教育與學生多元能力培養。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "研習進修",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/02",
+          "context": "與創新的學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a8f26e397f3b1911e55c?vector=private&static=false",
+      "summary": "一、依據「臺北市115-117學年度國中小學科學與創新教育實施計畫」辦理。 二、本市魔術方塊競賽今年邁入第四年,歷年參賽學生表現優異,競賽成績逐年精進,尤其114學年度國中組以6.18秒、 國小組以9.08秒雙雙突破歷年大會紀錄,展現學生邏輯思 考、創新挑戰及自我突破的能力。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "研習進修",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/02",
+          "context": "與創新的學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a3d6d883823f0d17a382?vector=private&static=false",
+      "summary": "一、依據「臺北市115-117學年度國中小學科學與創新教育實施計畫」辦理。 二、本市魔術方塊競賽今年邁入第四年,歷年參賽學生表現優異,競賽成績逐年精進,尤其114學年度國中組以6.18秒、 國小組以9.08秒雙雙突破歷年大會紀錄,展現學生邏輯思考、創新挑戰及自我突破的能力。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "弘道國中116年度「寒假科學實驗探索營國小班」、「寒假科學實驗探索營國中班」",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "活動/競賽",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、午餐；屬於活動、營隊；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/21",
+          "context": "高學習效果。 二、師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1"
+        },
+        {
+          "date": "2026/01/23",
+          "context": "師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1"
+        },
+        {
+          "date": "2026/01/25",
+          "context": "日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "9日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國小班:公私立學校"
+        },
+        {
+          "date": "2027/01/21",
+          "context": "」,以提高學習效果。 二、師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2"
+        },
+        {
+          "date": "2027/02/01",
+          "context": "1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a2f6398ac4397886198c?vector=private&static=false",
+      "summary": "一、活動目的:藉由課程設計,應用科技知識,藉由實際操作,培養學生手腦並用,引導學生「從做中學」,以提高學習效果。 二、師資:國立大學碩、博士師資群。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "繳費",
+        "營隊",
+        "科學",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "金車文教基金會「文化任意門—邁向遠方,走向自己:西班牙聖雅各之路 × 日本熊野古道」線上講座",
+      "publishedDate": "2026/11/12",
+      "updatedDate": "2026/11/12",
+      "category": "活動/競賽",
+      "unit": "學務處訓育組長",
+      "reason": "提到學生、家長；屬於活動，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/20",
+          "context": "文化工作者楊馥如,帶領參與者認識朝聖之路串連的自然景觀、歷史遺產與在地生活。 活動日期: 115年12月20日(星期日) 活動時間: 下午1時20分至4時 活動地點: Webex線上分享 活動對象:"
+        },
+        {
+          "date": "2026/12/20",
+          "context": "者楊馥如,帶領參與者認識朝聖之路串連的自然景觀、歷史遺產與在地生活。 活動日期: 115年12月20日(星期日) 活動時間: 下午1時20分至4時 活動地點: Webex線上分享 活動對象:"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af53472dc8905e764278cd5?vector=private&static=false",
+      "summary": "財團法人金車文教基金會辦理「文化任意門」系列線上講座,以「西班牙聖雅各之路」與「日本熊野古道」為主題,邀請旅義文化工作者楊馥如,帶領參與者認識朝聖之路串連的自然景觀、歷史遺產與在地生活。 活動日期: 115年12月20日(星期日) 活動時間: 下午1時20分至4時 活動地點: Webex線上分享 活動對象: 對在地及世界文化、旅遊有興趣之社會大眾 活動費用: 免費,限額500名(需事先報名,講座連結將寄至報名信箱) 報名時間: 即日起至額滿為止 報名網址 洽詢方式: 02-21001110轉203(盧專員);電子郵件:lauren@kingcar.or…",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】協和祐德高級中等學校「116學年度國中部新生說明會」",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/09",
+          "context": "時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至11時。 四、活動地點:協和祐德高級中等學校(臺北市信義區忠孝"
+        },
+        {
+          "date": "2026/12/12",
+          "context": "及雙聯學制等特色課程,並重視品格教育與學生多元能力培養。 三、說明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至1"
+        },
+        {
+          "date": "2026/12/12",
+          "context": "制等特色課程,並重視品格教育與學生多元能力培養。 三、說明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至1"
+        },
+        {
+          "date": "2027/01/09",
+          "context": "明會辦理時間如下: (一)115年12月12日(星期六)上 午9時30分至11時。 (二)116年1月9日(星期六)上午9時 30分至11時。 四、活動地點:協和祐德高級中等學校(臺北市信義區忠孝"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af68bb3e1b43d3a116e4734?vector=private&static=false",
+      "summary": "一、為使國小六年級學生及家長瞭解本校國中部辦學理念、課程特色及多元學習資源,特辦理116學年度國中部新生說明 會,提供升學選擇及入學相關資訊。 二、本校國中部以多元適性發展及國際教育為辦學方向,結合 Discovery Education及加拿大OIA卓越國際學院資源,規 劃菁英卓越課程、科技融入教學、PBL問題導向學習、AI課 程及雙聯學制等特色課程,並重視品格教育與學生多元能力培養。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名",
+        "資訊",
+        "AI"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "研習進修",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/02",
+          "context": "與創新的學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a8f26e397f3b1911e55c?vector=private&static=false",
+      "summary": "一、依據「臺北市115-117學年度國中小學科學與創新教育實施計畫」辦理。 二、本市魔術方塊競賽今年邁入第四年,歷年參賽學生表現優異,競賽成績逐年精進,尤其114學年度國中組以6.18秒、 國小組以9.08秒雙雙突破歷年大會紀錄,展現學生邏輯思 考、創新挑戰及自我突破的能力。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "研習進修",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生；屬於活動、課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/02",
+          "context": "與創新的學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        },
+        {
+          "date": "2026/12/02",
+          "context": "學習新領域,實踐「玩中學、學中創」的教育理念。 五、研習資訊如下 (一)研習時間:115年12月2日(星期三)下午1:30至4:30 時。 (二)研習地點:臺北市松山區三民國民小學視聽教室。"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a3d6d883823f0d17a382?vector=private&static=false",
+      "summary": "一、依據「臺北市115-117學年度國中小學科學與創新教育實施計畫」辦理。 二、本市魔術方塊競賽今年邁入第四年,歷年參賽學生表現優異,競賽成績逐年精進,尤其114學年度國中組以6.18秒、 國小組以9.08秒雙雙突破歷年大會紀錄,展現學生邏輯思考、創新挑戰及自我突破的能力。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "科學",
+        "資訊"
+      ],
+      "exclusionMatches": [
+        "教師研習"
+      ],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "弘道國中116年度「寒假科學實驗探索營國小班」、「寒假科學實驗探索營國中班」",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "category": "活動/競賽",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、午餐；屬於活動、營隊；涉及午餐，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/01/21",
+          "context": "高學習效果。 二、師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1"
+        },
+        {
+          "date": "2026/01/23",
+          "context": "師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1"
+        },
+        {
+          "date": "2026/01/25",
+          "context": "日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2"
+        },
+        {
+          "date": "2026/01/29",
+          "context": "日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月"
+        },
+        {
+          "date": "2026/02/01",
+          "context": "日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國"
+        },
+        {
+          "date": "2026/02/03",
+          "context": "9日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國小班:公私立學校"
+        },
+        {
+          "date": "2027/01/21",
+          "context": "」,以提高學習效果。 二、師資:國立大學碩、博士師資群。 三、上課時間: (一)第一梯次為116年1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1"
+        },
+        {
+          "date": "2027/01/25",
+          "context": "1月21日(四)至1月23日(六),共3天, 每天9:00─16:30。 (二)第二梯次為116年1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2"
+        },
+        {
+          "date": "2027/02/01",
+          "context": "1月25日(一)至1月29日(五),共5天, 每天9:00─16:30。 (三)第三梯次為116年2月1日(一)至2月3日(三),共3天,每 天9:00─16:30。 四、建議參加對象: (一)國"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a2f6398ac4397886198c?vector=private&static=false",
+      "summary": "一、活動目的:藉由課程設計,應用科技知識,藉由實際操作,培養學生手腦並用,引導學生「從做中學」,以提高學習效果。 二、師資:國立大學碩、博士師資群。",
+      "matchedKeywords": [
+        "學生",
+        "報名",
+        "繳費",
+        "營隊",
+        "科學",
+        "午餐"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    }
+  ],
+  "alreadySentAnnouncements": [
+    {
+      "title": "「開箱獅城教室!一線雙語教師的新加坡教育觀察」分享講座",
+      "publishedDate": "2026/11/12",
+      "updatedDate": "2026/11/12",
+      "category": "研習進修",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af54bfd845271ecff523828?vector=private&static=false",
+      "firstSentAt": "2026-11-12T06:51:34.924Z",
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    },
+    {
+      "title": "金車文教基金會「文化任意門—邁向遠方,走向自己:西班牙聖雅各之路 × 日本熊野古道」線上講座",
+      "publishedDate": "2026/11/12",
+      "updatedDate": "2026/11/12",
+      "category": "活動/競賽",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af53472dc8905e764278cd5?vector=private&static=false",
+      "firstSentAt": "2026-11-12T06:51:34.924Z",
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "reason": "相同原始公告連結與更新日期已成功寄送"
+    }
+  ],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選(特教教師)第3招甄選結果",
+      "category": "校務公告",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選(特教教師)第3招甄選結果",
+      "category": "校務公告",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "【轉知】行政院新世代打擊詐欺策略行動-小心「假客服、假物流及OTP電子支付綁定」詐騙!",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度萬華區雙語聯盟國際教育專題分享「國際交流實務與校園創新實踐」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度「從南島語族到都會課堂:紐西蘭毛利語沉浸式教學與國際教育實踐」研習",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "category": "研習進修",
+      "reason": "教師／行政等低優先內容"
+    },
+    {
+      "title": "臺北市大安區古亭國民小學115學年度代理教師甄選(特教教師)第3招甄選結果",
+      "category": "人事服務",
+      "reason": "教師／行政等低優先內容"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Fri, 13 Nov 2026 06:05:34 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1794550102 5a478bee46e88-37955a1c5c2sm4139944eec.14 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 275,
+    "recordsAfterImport": 275,
+    "historicalLogsRead": 93,
+    "historicalSuccessfulLogs": 65,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 6,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 4,
+    "recordsAfterRun": 279,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-13/scan-2026-11-13-140528-74f67122-6328-4447-9a4e-ce91cb14b7fd.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

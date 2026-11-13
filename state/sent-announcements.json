@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T06:51:34.924Z",
+  "updatedAt": "2026-11-13T06:08:22.379Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -959,6 +959,17 @@
       "lastSentAt": "2026-10-01T05:24:35.010Z",
       "source": "log:logs/2026-10-01/scan-2026-10-01-132101-9e99b0b3-1145-4aa0-8c4c-50c35087e009.json"
     },
+    "4cbeda9a49d45e0070a1c7f8c463859e526da7017e4eb9df7dab3a5412b43dff": {
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "category": "研習進修",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a8f26e397f3b1911e55c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-13T06:08:22.379Z",
+      "lastSentAt": "2026-11-13T06:08:22.379Z",
+      "source": "smtp"
+    },
     "4e03c0f0baca6fa34985bf0517670a4cecf7ff068dac9aa49181f7639dc6e9f4": {
       "title": "115年教育部因材網打寇島暨E–game網路競賽",
       "category": "活動/競賽",
@@ -1000,8 +1011,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af44e2e8f2f0aae797b29d8",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "5210b4a9df02c54d4e65fe01bd35ff2f4120be4c2e99fe71da52c76994a65673": {
       "title": "教育部國民及學前教育署辦理115年度弘揚孝道漫畫比賽、孝道故事徵文比賽、Ü好攝影徵件比賽及IUHOW薪傳參與獎(延長收件)",
@@ -1033,8 +1044,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af44d33808c7cae462b16da",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "52f83a4a41056aae9cf7f399955ef7834025924dcdc7e20a7d329f8f4fcd0c0b": {
       "title": "臺北市私立靜修高中國中部招生說明會",
@@ -1454,6 +1465,17 @@
       "lastSentAt": "2026-09-11T04:11:46.001Z",
       "source": "log:logs/2026-09-11/scan-2026-09-11-120840-2fbaf931-363f-4f83-a3bf-c02db7cf477f.json"
     },
+    "74bb12103d51934f782b8618c7df712e52b6f13280507621916888d77e57cbec": {
+      "title": "115學年度「科學與創新教育:玩轉魔術方塊啟動多元智能」教師研習",
+      "category": "研習進修",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a3d6d883823f0d17a382",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-13T06:08:22.379Z",
+      "lastSentAt": "2026-11-13T06:08:22.379Z",
+      "source": "smtp"
+    },
     "75e229f7f9c767bb5778e023ce101799b37340f8d238a1160e73d069a4859dad": {
       "title": "財團法人靖娟兒童安全文教基金會OK繃兒童服務中心辦理「115年兒少交通事故處理推廣座談」",
       "category": "活動/競賽",
@@ -1528,8 +1550,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af54bfd845271ecff523828",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "7a72cc4eae2f9b2bd1d48305203a1936bdab8de88efb579a1de30b3a4efef996": {
       "title": "國立臺灣師範大學辦理專任運動教練線上課程資訊",
@@ -1616,8 +1638,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af44c7a808c7cae462af4b5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "805bdf73c82acb30a43041231d1feb854e67be4f806a58c413836039728728ff": {
       "title": "115年「豬豬小偵探」國小學童及國中學生學習單徵件競賽活動",
@@ -2488,6 +2510,17 @@
       "source": "log:logs/2026-08-29/scan-2026-08-29-144212-d83326fa-3496-4660-845f-3d0f557947bc.json",
       "firstSentAt": "2026-08-28T10:58:36.073Z"
     },
+    "c3bf36b833e5bfd5cfbbaef4f7b50a1e9b0fc23de361a7bbbe69f41952c597e7": {
+      "title": "【轉知】協和祐德高級中等學校「116學年度國中部新生說明會」",
+      "category": "公文公告",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af68bb3e1b43d3a116e4734",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-13T06:08:22.379Z",
+      "lastSentAt": "2026-11-13T06:08:22.379Z",
+      "source": "smtp"
+    },
     "c5fb7657f36bdf01edaee34611b42a3cca73c2aea3ab238dd121b7a1a5583b41": {
       "title": "116年度第1梯次教育部學產基金補助學校培訓具特殊專長需要協助學生計畫",
       "category": "獎補助資訊",
@@ -2529,8 +2562,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af44ef6808c7cae462b6d99",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "c941f0f94dee9f47722fb9d145b45fcf4b027856c702155b53fba25dba01609c": {
       "title": "115學年度教育盃國民中小學網球錦標賽",
@@ -2575,6 +2608,17 @@
       "firstSentAt": "2026-10-01T05:24:35.007Z",
       "lastSentAt": "2026-10-01T05:24:35.010Z",
       "source": "log:logs/2026-10-01/scan-2026-10-01-132101-9e99b0b3-1145-4aa0-8c4c-50c35087e009.json"
+    },
+    "ce2df2e24ea605fe67ee55244d643ea7a2905001072f7534984bde5c2ad9f545": {
+      "title": "弘道國中116年度「寒假科學實驗探索營國小班」、「寒假科學實驗探索營國中班」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/13",
+      "updatedDate": "2026/11/13",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af6a2f6398ac4397886198c",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-13T06:08:22.379Z",
+      "lastSentAt": "2026-11-13T06:08:22.379Z",
+      "source": "smtp"
     },
     "cf98295972937210142e142f51e17404ff173d0ecee1cd6582dc9105b263df65": {
       "title": "臺北市115年國中小學生Scratch貓咪盃創意競賽",
@@ -2815,8 +2859,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6af53472dc8905e764278cd5",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-12T06:51:34.924Z",
-      "lastSentAt": "2026-11-12T06:51:34.924Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-12T06:51:34.927Z",
+      "source": "log:logs/2026-11-12/scan-2026-11-12-144845-64874e6e-ea10-4f84-909b-9c0ac9b41ebb.json"
     },
     "e2405f352abce38545b01237f265bbeb050b688df9a7af9e19394e028dc770d4": {
       "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
