@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T05:56:15.886Z",
+  "updatedAt": "2026-11-17T07:33:24.891Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -265,6 +265,17 @@
       "firstSentAt": "2026-10-19T04:15:05.273Z",
       "lastSentAt": "2026-10-19T04:15:05.276Z",
       "source": "log:logs/2026-10-19/scan-2026-10-19-121209-d517e10c-4b0b-445f-a2d0-faeeaa0a2490.json"
+    },
+    "1b96f326e9e7d6b81945e26effd6f42d57e3b1086d4e77a8a92a53765d676477": {
+      "title": "媒體素養─國際論壇暨教師研習工作坊",
+      "category": "研習進修",
+      "publishedDate": "2026/11/16",
+      "updatedDate": "2026/11/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afabb9436df8a33affd3726",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-17T07:33:24.891Z",
+      "lastSentAt": "2026-11-17T07:33:24.891Z",
+      "source": "smtp"
     },
     "1babc3fc54f1a5a9e5eccb881caaab5591a61316246596fa826632b8e6886f94": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -672,6 +683,17 @@
       "firstSentAt": "2026-11-04T05:51:34.230Z",
       "lastSentAt": "2026-11-05T06:09:57.743Z",
       "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
+    },
+    "37244ddc75db97782fcf4967a7b35b45568c0502fb069bc8003860b26859edc0": {
+      "title": "賀!恭喜本校學生 四年四班黃弈程、二年五班黃思喬 參加115年全國國小學生跆拳道錦標賽暨全民運動俱樂部比賽榮獲佳績!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/11/17",
+      "updatedDate": "2026/11/17",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afba1b8fcb0c768a68b5060",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-17T07:33:24.891Z",
+      "lastSentAt": "2026-11-17T07:33:24.891Z",
+      "source": "smtp"
     },
     "376182c6a8a3bcd8cf34051b8e89af9df313781175211d875a7a6b8cba56e207": {
       "title": "退休校長協會115學年度第1學期 「關懷急難學童」助學金",
@@ -1330,8 +1352,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa4a537e7ed9172edb0163",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.886Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-16T05:56:15.889Z",
+      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
     },
     "671ddffac727f0a44a90885f0910ac297678013b244cf376daccab8caa874dd4": {
       "title": "台北市家長會長協會辦理「與愛同行・2026公益慈善 音樂會」活動贈票一案",
@@ -1407,8 +1429,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa487e7445d819cf90e113",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.886Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-16T05:56:15.889Z",
+      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
     },
     "6e01f509c2fedeb238fb63415f0ae45d808fbae4dd0b314cd8ede07f8ed4062e": {
       "title": "115學年度教育盃中小學射箭錦標賽競賽",
@@ -1783,6 +1805,17 @@
       "firstSentAt": "2026-11-05T06:09:57.740Z",
       "lastSentAt": "2026-11-05T06:09:57.743Z",
       "source": "log:logs/2026-11-05/scan-2026-11-05-140709-120a712f-2544-452e-a6fa-31decb2603c5.json"
+    },
+    "888797b11b314aed1312d47c2964b4c931a11e9106d396194be6aaa0e0702109": {
+      "title": "【轉知】教育部委請國立臺灣藝術大學建置全國學生表演藝術展演平臺「藝秀臺」",
+      "category": "公文公告",
+      "publishedDate": "2026/11/16",
+      "updatedDate": "2026/11/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afab6e6924c832ee9186927",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-17T07:33:24.891Z",
+      "lastSentAt": "2026-11-17T07:33:24.891Z",
+      "source": "smtp"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -2320,8 +2353,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa985ed1d99b2cdd7b831c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.886Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-16T05:56:15.889Z",
+      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
     },
     "b0e1b7d05e67b0ad474f66560854c3e1b7485477c845a0b1420ecdf254ef7201": {
       "title": "賀!本校導護志工 邱顯晟先生榮獲「115年度績優交通導護人員」!",
@@ -2917,6 +2950,17 @@
       "lastSentAt": "2026-11-13T06:08:22.382Z",
       "source": "log:logs/2026-11-13/scan-2026-11-13-140528-74f67122-6328-4447-9a4e-ce91cb14b7fd.json"
     },
+    "e13db6b63269f7dbff21b39ba6e03285473576befc3056fb25460efc51b90227": {
+      "title": "115學年度古亭國小體育表演會學生志工(抽籤中選結果)",
+      "category": "校務公告",
+      "publishedDate": "2026/11/16",
+      "updatedDate": "2026/11/16",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa9a88668a5629e78b65a7",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-17T07:33:24.891Z",
+      "lastSentAt": "2026-11-17T07:33:24.891Z",
+      "source": "smtp"
+    },
     "e2405f352abce38545b01237f265bbeb050b688df9a7af9e19394e028dc770d4": {
       "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
       "category": "榮譽榜",
@@ -2949,6 +2993,17 @@
       "firstSentAt": "2026-09-07T04:06:34.927Z",
       "lastSentAt": "2026-09-08T04:08:23.054Z",
       "source": "log:logs/2026-09-08/scan-2026-09-08-120516-8303f2c3-c4f5-46c4-91c1-17f3984ac924.json"
+    },
+    "e4f1c98bb0bf25049792550977d7f156db9fd0f997e82c9f956252dbee1c406e": {
+      "title": "第67屆中華民國中小學科學展覽會重要宣導事項",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/17",
+      "updatedDate": "2026/11/17",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afbe6041e84a17a2fd57adf",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-17T07:33:24.891Z",
+      "lastSentAt": "2026-11-17T07:33:24.891Z",
+      "source": "smtp"
     },
     "e5c170d2c205d8ab75fc710f5e3a4dc9ff0d5440233b63bf8c47259a5e817824": {
       "title": "115年度臺北市『市長盃』全國青少年象棋錦標賽",
