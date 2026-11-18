@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:33:24.891Z",
+  "updatedAt": "2026-11-18T06:57:21.195Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -274,8 +274,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afabb9436df8a33affd3726",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-17T07:33:24.891Z",
-      "lastSentAt": "2026-11-17T07:33:24.891Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "1babc3fc54f1a5a9e5eccb881caaab5591a61316246596fa826632b8e6886f94": {
       "title": "臺北市政府115年度兒童及少年運動教學安全保障課程",
@@ -692,8 +692,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afba1b8fcb0c768a68b5060",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-17T07:33:24.891Z",
-      "lastSentAt": "2026-11-17T07:33:24.891Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "376182c6a8a3bcd8cf34051b8e89af9df313781175211d875a7a6b8cba56e207": {
       "title": "退休校長協會115學年度第1學期 「關懷急難學童」助學金",
@@ -1124,6 +1124,17 @@
       "lastSentAt": "2026-10-01T05:24:35.010Z",
       "source": "log:logs/2026-10-01/scan-2026-10-01-132101-9e99b0b3-1145-4aa0-8c4c-50c35087e009.json"
     },
+    "57b4989b727031a1fb5e912d93afc58e6ca6f002d561d5cb50c1730855a0e794": {
+      "title": "「武營大圖鑑」PaGamO 線上遊戲任務資訊",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/17",
+      "updatedDate": "2026/11/17",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afc1762fadecb83b8e67710",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-18T06:57:21.195Z",
+      "lastSentAt": "2026-11-18T06:57:21.195Z",
+      "source": "smtp"
+    },
     "5913b6094dbfe5f9e91aaaa3d946dba4a91eb42e24da02617ffba512750138a9": {
       "title": "新北市聖心女子高級中學115學年聖心學園課程體驗活動",
       "category": "活動/競賽",
@@ -1352,8 +1363,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa4a537e7ed9172edb0163",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.889Z",
-      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "671ddffac727f0a44a90885f0910ac297678013b244cf376daccab8caa874dd4": {
       "title": "台北市家長會長協會辦理「與愛同行・2026公益慈善 音樂會」活動贈票一案",
@@ -1376,6 +1387,17 @@
       "firstSentAt": "2026-09-01T12:47:10.241Z",
       "lastSentAt": "2026-09-01T12:47:10.243Z",
       "source": "log:logs/2026-09-01/scan-2026-09-01-204420-cbe4b29e-5fae-49c7-a54d-3e3e3eff9737.json"
+    },
+    "693149b0f2b649d80e86a3d0e2e86bc3465da8346328b582450eae79d320f92d": {
+      "title": "臺灣師範大學「2027臺師大SEL社會情緒學習教室」以及「社會情緒學習 × AI表達探索營:AI 情緒導航隊」營隊招生簡章",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/18",
+      "updatedDate": "2026/11/18",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afcf2b5d5fd58b5c62ff104",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-18T06:57:21.195Z",
+      "lastSentAt": "2026-11-18T06:57:21.195Z",
+      "source": "smtp"
     },
     "6a6dc5a5fa59ee0fb9e1edadeb6349f99f7e73990e76870d3d355872e2e730d7": {
       "title": "本局辦理「臺北市AI無人機教育論壇」活動議程調整",
@@ -1429,8 +1451,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa487e7445d819cf90e113",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.889Z",
-      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "6e01f509c2fedeb238fb63415f0ae45d808fbae4dd0b314cd8ede07f8ed4062e": {
       "title": "115學年度教育盃中小學射箭錦標賽競賽",
@@ -1563,6 +1585,17 @@
       "firstSentAt": "2026-09-09T04:15:19.024Z",
       "lastSentAt": "2026-09-10T04:12:47.748Z",
       "source": "log:logs/2026-09-10/scan-2026-09-10-120944-b89d0681-cf79-43bf-b84e-e280549630a2.json"
+    },
+    "79581dd10604bc5b6a41770299a240de07460de67610a53a62f6074eee0a99e9": {
+      "title": "116年寒假STEAM及新科技教育營隊",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/18",
+      "updatedDate": "2026/11/18",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afd101826d72ebd18c83195",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-18T06:57:21.195Z",
+      "lastSentAt": "2026-11-18T06:57:21.195Z",
+      "source": "smtp"
     },
     "7973b55169a7b97989764eb728396d56e74dfe6a8a80da881caf82db53a39d2d": {
       "title": "115年度高級中等以下學校運動教練校園性別事件專業增能研習",
@@ -1814,8 +1847,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afab6e6924c832ee9186927",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-17T07:33:24.891Z",
-      "lastSentAt": "2026-11-17T07:33:24.891Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "88b581433434ba2d88562fb5edf8d8ff9777e0d661234255343e7bd9e4babd6b": {
       "title": "臺北市115學年度學生創意戲劇比賽",
@@ -2353,8 +2386,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa985ed1d99b2cdd7b831c",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-16T05:56:15.886Z",
-      "lastSentAt": "2026-11-16T05:56:15.889Z",
-      "source": "log:logs/2026-11-16/scan-2026-11-16-135328-fb63c841-4ecb-4db6-afa2-8808cd7acc66.json"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "b0e1b7d05e67b0ad474f66560854c3e1b7485477c845a0b1420ecdf254ef7201": {
       "title": "賀!本校導護志工 邱顯晟先生榮獲「115年度績優交通導護人員」!",
@@ -2958,8 +2991,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afa9a88668a5629e78b65a7",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-17T07:33:24.891Z",
-      "lastSentAt": "2026-11-17T07:33:24.891Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "e2405f352abce38545b01237f265bbeb050b688df9a7af9e19394e028dc770d4": {
       "title": "賀!本校學生 四年七班 林彥博 參加 2026卓越盃國際音樂公開賽 榮獲 鋼琴獨奏 國小三年級專業組 第一名銀獎佳績!",
@@ -3002,8 +3035,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afbe6041e84a17a2fd57adf",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-17T07:33:24.891Z",
-      "lastSentAt": "2026-11-17T07:33:24.891Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-17T07:33:24.894Z",
+      "source": "log:logs/2026-11-17/scan-2026-11-17-153032-da9179a9-ef56-4cba-8e53-dd8d5bfd2014.json"
     },
     "e5c170d2c205d8ab75fc710f5e3a4dc9ff0d5440233b63bf8c47259a5e817824": {
       "title": "115年度臺北市『市長盃』全國青少年象棋錦標賽",
@@ -3015,6 +3048,17 @@
       "firstSentAt": "2026-09-12T04:11:51.078Z",
       "lastSentAt": "2026-09-12T04:11:51.079Z",
       "source": "log:logs/2026-09-12/scan-2026-09-12-120832-9582ec32-2436-414e-b8ed-5804341d3246.json"
+    },
+    "e6129d05512ae6fdcbf0c4a9eb97df9fb2bf62587d18d3831ea4578327465c2c": {
+      "title": "臺北市115年性別平等教育宣導月成果展「看見尊重的瞬間」",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/18",
+      "updatedDate": "2026/11/18",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afcf5117058b8b74ad1951b",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-18T06:57:21.195Z",
+      "lastSentAt": "2026-11-18T06:57:21.195Z",
+      "source": "smtp"
     },
     "e68e7d976de9aae9f148a547a30ffe84f841e22cfa57c31679d7c6b8e1aadb95": {
       "title": "轉知臺北市政府教育局「臺北市115學年度學生五項藝術比賽」",
