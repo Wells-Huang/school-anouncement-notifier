@@ -1,0 +1,255 @@
+{
+  "runId": "93dd49a0-ce12-4142-a376-3092acdf8a08",
+  "execution": {
+    "startedAtUtc": "2026-11-23T07:00:18.001Z",
+    "completedAtUtc": "2026-11-23T07:02:49.857Z",
+    "executedAtTaipei": "2026/11/23 15:00:18",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-22T07:00:18.000Z",
+    "windowEndUtc": "2026-11-23T07:00:18.000Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": true,
+    "announcementListSuccess": true,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 1915,
+    "recent24h": 7,
+    "relevant": 2,
+    "newRelevant": 2,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 5,
+    "duplicatesRemoved": 4,
+    "detailAttempts": 11,
+    "detailSuccesses": 9,
+    "detailFailures": 2
+  },
+  "relevantAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】濱江實驗國民中學「116學年度新生入學招生簡章」",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/13",
+          "context": "特定教育理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。 三、特定教育理念說明會將於115年12月13日(日)上午 8:30 ~ 11:30在濱江實中舉辦,報名網址。 四、相關資料可至本校校網「"
+        },
+        {
+          "date": "2026/12/13",
+          "context": "理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。 三、特定教育理念說明會將於115年12月13日(日)上午 8:30 ~ 11:30在濱江實中舉辦,報名網址。 四、相關資料可至本校校網「"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03a4b50384c275448d5e39?vector=private&static=false",
+      "summary": "一、檢送本校「116學年度新生入學招生簡章」,請惠予公告並 協助宣導,請查照。 二、依本校116學年度新生入學招生簡章,為使家長了解本校教育理念、課程及教學規劃,本校將舉辦特定教育理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!115學年度台北市美術展校內得獎名單!",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "category": "榮譽榜",
+      "unit": "教務處設備組長",
+      "reason": "提到學生；屬於美術，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03b599bdb7907aa75d866a?vector=private&static=false",
+      "summary": "恭喜獲獎學生~~ 金牌獎得主將代表本校參加台北市美術展複選機會,預祝榮獲佳績。",
+      "matchedKeywords": [
+        "學生",
+        "美術"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "timestamp"
+    }
+  ],
+  "emailAnnouncements": [
+    {
+      "relevant": true,
+      "bucket": "今天必看",
+      "priority": "高",
+      "title": "【轉知】濱江實驗國民中學「116學年度新生入學招生簡章」",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "category": "公文公告",
+      "unit": "教務處註冊組長",
+      "reason": "提到學生、家長；屬於課程，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [
+        {
+          "date": "2026/12/13",
+          "context": "特定教育理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。 三、特定教育理念說明會將於115年12月13日(日)上午 8:30 ~ 11:30在濱江實中舉辦,報名網址。 四、相關資料可至本校校網「"
+        },
+        {
+          "date": "2026/12/13",
+          "context": "理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。 三、特定教育理念說明會將於115年12月13日(日)上午 8:30 ~ 11:30在濱江實中舉辦,報名網址。 四、相關資料可至本校校網「"
+        }
+      ],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03a4b50384c275448d5e39?vector=private&static=false",
+      "summary": "一、檢送本校「116學年度新生入學招生簡章」,請惠予公告並 協助宣導,請查照。 二、依本校116學年度新生入學招生簡章,為使家長了解本校教育理念、課程及教學規劃,本校將舉辦特定教育理念說明會,請有意願選擇就讀本校之學生及家長踴躍參加。",
+      "matchedKeywords": [
+        "學生",
+        "家長",
+        "報名"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "date-only"
+    },
+    {
+      "relevant": true,
+      "bucket": "適合女兒參加",
+      "priority": "中",
+      "title": "賀!115學年度台北市美術展校內得獎名單!",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "category": "榮譽榜",
+      "unit": "教務處設備組長",
+      "reason": "提到學生；屬於美術，與小五學生或家長的安排有關。",
+      "action": "若女兒有興趣，請查看簡章、資格與期限，再決定是否報名或準備作品。",
+      "deadline": "無明確截止日期",
+      "importantDates": [],
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03b599bdb7907aa75d866a?vector=private&static=false",
+      "summary": "恭喜獲獎學生~~ 金牌獎得主將代表本校參加台北市美術展複選機會,預祝榮獲佳績。",
+      "matchedKeywords": [
+        "學生",
+        "美術"
+      ],
+      "exclusionMatches": [],
+      "expired": false,
+      "detailRead": true,
+      "datePrecision": "timestamp"
+    }
+  ],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [
+    {
+      "title": "賀!115學年度台北市美術展階段證書!",
+      "category": "榮譽榜",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115學年度古亭募書計畫開跑囉~~",
+      "category": "校務公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "【轉知】濱江實驗國民中學「116學年度新生入學招生簡章」",
+      "category": "公文公告",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "115年臺灣閱讀節,歡迎踴躍參加~",
+      "category": "活動/競賽",
+      "reason": "未達相關條件"
+    },
+    {
+      "title": "國立屏東大學「2026藝術、科學與社會跨域論壇(ASSC 2026)」",
+      "category": "研習進修",
+      "reason": "未達相關條件"
+    }
+  ],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Mon, 23 Nov 2026 07:00:24 GMT"
+  },
+  "email": {
+    "attempted": true,
+    "sent": true,
+    "provider": "Gmail SMTP",
+    "response": "250 2.0.0 OK  1795417369 98e67ed59e1d1-3b4afeaaa84sm797377a91.10 - gsmtp"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 304,
+    "recordsAfterImport": 304,
+    "historicalLogsRead": 103,
+    "historicalSuccessfulLogs": 71,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 0,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 2,
+    "recordsAfterRun": 306,
+    "saved": true,
+    "saveError": "",
+    "saveNeeded": true,
+    "saveReason": "已儲存已寄送狀態"
+  },
+  "status": "relevant_found",
+  "noEmailReason": "",
+  "failureReason": "",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-23/scan-2026-11-23-150018-93dd49a0-ce12-4142-a376-3092acdf8a08.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}

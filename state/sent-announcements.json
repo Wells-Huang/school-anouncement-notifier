@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:49:00.190Z",
+  "updatedAt": "2026-11-23T07:02:49.853Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -970,6 +970,17 @@
       "lastSentAt": "2026-09-12T04:11:51.079Z",
       "source": "log:logs/2026-09-12/scan-2026-09-12-120832-9582ec32-2436-414e-b8ed-5804341d3246.json"
     },
+    "48e4ad9abf7a08cd1a086b165a890daade717a98c6ba87c367b431f1d69147ae": {
+      "title": "賀!115學年度台北市美術展校內得獎名單!",
+      "category": "榮譽榜",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03b599bdb7907aa75d866a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-23T07:02:49.853Z",
+      "lastSentAt": "2026-11-23T07:02:49.853Z",
+      "source": "smtp"
+    },
     "49f71c146b58a350c9239eebd55cff11d6b201b619d404b621dde6f25776ec0f": {
       "title": "【轉知】內政部移民署辦理「培力同行 無限10年」活動,鼓勵僑外生踴躍報名參加",
       "category": "公文公告",
@@ -1167,6 +1178,17 @@
       "firstSentAt": "2026-11-18T06:57:21.195Z",
       "lastSentAt": "2026-11-18T06:57:21.197Z",
       "source": "log:logs/2026-11-18/scan-2026-11-18-145437-fdf729f2-24ba-4033-a649-b6d26474ca0d.json"
+    },
+    "57e96b71c971333ae667d168021b5d0e656575eeafe6e9a07e14bff1fddf4f75": {
+      "title": "【轉知】濱江實驗國民中學「116學年度新生入學招生簡章」",
+      "category": "公文公告",
+      "publishedDate": "2026/11/23",
+      "updatedDate": "2026/11/23",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03a4b50384c275448d5e39",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-23T07:02:49.853Z",
+      "lastSentAt": "2026-11-23T07:02:49.853Z",
+      "source": "smtp"
     },
     "5913b6094dbfe5f9e91aaaa3d946dba4a91eb42e24da02617ffba512750138a9": {
       "title": "新北市聖心女子高級中學115學年聖心學園課程體驗活動",
