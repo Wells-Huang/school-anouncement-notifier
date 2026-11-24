@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:02:49.853Z",
+  "updatedAt": "2026-11-24T09:29:40.510Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -937,6 +937,17 @@
       "lastSentAt": "2026-11-07T05:36:34.601Z",
       "source": "log:logs/2026-11-07/scan-2026-11-07-133346-22711aad-3791-476f-bf6f-36d1c2cb274c.json"
     },
+    "42ea2ae7747f76992b0d3cbbbddceb22fa17d9c827f314bff0727ca6eb1f1656": {
+      "title": "【轉知】國立臺灣科技大學(下稱臺科大)辦理「教育部中小學教師教學創新行動計畫」AI前瞻教學創新計畫徵件",
+      "category": "公文公告",
+      "publishedDate": "2026/11/24",
+      "updatedDate": "2026/11/24",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b053c7676fa83e2cb78bd71",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-24T09:29:40.510Z",
+      "lastSentAt": "2026-11-24T09:29:40.510Z",
+      "source": "smtp"
+    },
     "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
       "title": "「藝起在艋舺」藝文活動",
       "category": "活動/競賽",
@@ -978,8 +989,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03b599bdb7907aa75d866a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-23T07:02:49.853Z",
-      "lastSentAt": "2026-11-23T07:02:49.853Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-23T07:02:49.857Z",
+      "source": "log:logs/2026-11-23/scan-2026-11-23-150018-93dd49a0-ce12-4142-a376-3092acdf8a08.json"
     },
     "49f71c146b58a350c9239eebd55cff11d6b201b619d404b621dde6f25776ec0f": {
       "title": "【轉知】內政部移民署辦理「培力同行 無限10年」活動,鼓勵僑外生踴躍報名參加",
@@ -1124,6 +1135,17 @@
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
     },
+    "534512da12759ffedc15dd003b7ffebbd0ae1fc7f548ef1ea66b3f56252dd3fb": {
+      "title": "悠遊一下 探索臺大:2027臺大博物館群兒童學習體驗冬令營",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/24",
+      "updatedDate": "2026/11/24",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b051318a21caed151aec779",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-24T09:29:40.510Z",
+      "lastSentAt": "2026-11-24T09:29:40.510Z",
+      "source": "smtp"
+    },
     "53930c4bb07bea7af89fe7b9e064a28219c16b8d2dcc55caed8490aacdd696d2": {
       "title": "115年度「臺北市本土小學堂」教學活動教案甄選計畫",
       "category": "活動/競賽",
@@ -1187,8 +1209,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03a4b50384c275448d5e39",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-23T07:02:49.853Z",
-      "lastSentAt": "2026-11-23T07:02:49.853Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-23T07:02:49.857Z",
+      "source": "log:logs/2026-11-23/scan-2026-11-23-150018-93dd49a0-ce12-4142-a376-3092acdf8a08.json"
     },
     "5913b6094dbfe5f9e91aaaa3d946dba4a91eb42e24da02617ffba512750138a9": {
       "title": "新北市聖心女子高級中學115學年聖心學園課程體驗活動",
@@ -3236,6 +3258,17 @@
       "lastSentAt": "2026-09-18T04:16:12.330Z",
       "source": "log:logs/2026-09-18/scan-2026-09-18-121315-3c0248d9-2015-40f2-8839-c94222c4568f.json"
     },
+    "eb914f375bc68776692a86edb5c43d2ea7eb0eb03b27b4c54e99e87dfe3cf9cd": {
+      "title": "臺北市116年青少年民俗運動訪問團團員甄選",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/24",
+      "updatedDate": "2026/11/24",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b04d70cd6b8e2bae4c7e1d9",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-24T09:29:40.510Z",
+      "lastSentAt": "2026-11-24T09:29:40.510Z",
+      "source": "smtp"
+    },
     "eb988779bcaa0eebf7bfb9ec5389f25fa8f5a5cac7c3663d4f0a86e89886868d": {
       "title": "115年臺北市體育總會長盃棒球錦標賽",
       "category": "活動/競賽",
@@ -3301,6 +3334,17 @@
       "firstSentAt": "2026-09-22T04:26:23.749Z",
       "lastSentAt": "2026-09-22T04:26:23.751Z",
       "source": "log:logs/2026-09-22/scan-2026-09-22-122252-761feca6-de8f-4351-a2b8-35e93f09c796.json"
+    },
+    "f92d33071105a50282acfafb0f83def666f208f63224ab7cf21988fbc7817343": {
+      "title": "【轉知】2026臺北馬拉松列活動交通管制等相關訊息",
+      "category": "公文公告",
+      "publishedDate": "2026/11/24",
+      "updatedDate": "2026/11/24",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b04d349d6b8e2bae4c6b19a",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-24T09:29:40.510Z",
+      "lastSentAt": "2026-11-24T09:29:40.510Z",
+      "source": "smtp"
     },
     "f9a780641259e2ad646a3e28b83987d16ea00057575ae95cadc7272d76988c62": {
       "title": "「CHA-CHING兒童理財教育」教師研習",
