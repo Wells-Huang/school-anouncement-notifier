@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T09:29:40.510Z",
+  "updatedAt": "2026-11-25T08:01:00.666Z",
   "sentVersions": {
     "02affe8f00ab7e0c649fae927c13fb8082df3240df10ea74a454196d4eebc3d1": {
       "title": "115學年度第1學期臺北酷課雲多元增能培力班",
@@ -387,6 +387,17 @@
       "lastSentAt": "2026-10-01T05:24:35.010Z",
       "source": "log:logs/2026-10-01/scan-2026-10-01-132101-9e99b0b3-1145-4aa0-8c4c-50c35087e009.json"
     },
+    "2238d659bc515591aeeaf4f94ae3633b2b2485d4d75c65272700f6ebc2d1965b": {
+      "title": "物聯網智慧家電技術教學中心-國中職業試探課程",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/25",
+      "updatedDate": "2026/11/25",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b065d07434dfc6862280b6e",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-25T08:01:00.666Z",
+      "lastSentAt": "2026-11-25T08:01:00.666Z",
+      "source": "smtp"
+    },
     "2241ed33465fde3951e74740cfc352b55cd5f7b2741928979b0908defb1eebc3": {
       "title": "2026雙北公車友善月『畫出我們的友善公車』兒童繪畫比賽",
       "category": "活動/競賽",
@@ -684,6 +695,17 @@
       "lastSentAt": "2026-09-16T04:25:51.072Z",
       "source": "log:logs/2026-09-16/scan-2026-09-16-122252-32c58700-c326-4940-b60a-5157e0c80572.json"
     },
+    "35f1178597a3d7617fc51f2ad3a5b499b86f9609bfc9042607c0a95b7f277360": {
+      "title": "115學年度第73屆畢業紀念冊封面及畢業典禮邀請卡設計徵稿活動",
+      "category": "活動/競賽",
+      "publishedDate": "2026/11/25",
+      "updatedDate": "2026/11/25",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b065e7e4559336f4dc8e985",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-25T08:01:00.666Z",
+      "lastSentAt": "2026-11-25T08:01:00.666Z",
+      "source": "smtp"
+    },
     "3699c590d27b2bfb72a10cf2133254b4a78af3e7f32e7dbbb2b7243e3df4fca4": {
       "title": "【轉知】靜修高級中學招生文宣資料",
       "category": "公文公告",
@@ -945,8 +967,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b053c7676fa83e2cb78bd71",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-24T09:29:40.510Z",
-      "lastSentAt": "2026-11-24T09:29:40.510Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "430057e0ec8776aba52b32b722a0674d12eedd5daded3175355e5703058b730e": {
       "title": "「藝起在艋舺」藝文活動",
@@ -989,8 +1011,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03b599bdb7907aa75d866a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-23T07:02:49.853Z",
-      "lastSentAt": "2026-11-23T07:02:49.857Z",
-      "source": "log:logs/2026-11-23/scan-2026-11-23-150018-93dd49a0-ce12-4142-a376-3092acdf8a08.json"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "49f71c146b58a350c9239eebd55cff11d6b201b619d404b621dde6f25776ec0f": {
       "title": "【轉知】內政部移民署辦理「培力同行 無限10年」活動,鼓勵僑外生踴躍報名參加",
@@ -1143,8 +1165,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b051318a21caed151aec779",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-24T09:29:40.510Z",
-      "lastSentAt": "2026-11-24T09:29:40.510Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "53930c4bb07bea7af89fe7b9e064a28219c16b8d2dcc55caed8490aacdd696d2": {
       "title": "115年度「臺北市本土小學堂」教學活動教案甄選計畫",
@@ -1209,8 +1231,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b03a4b50384c275448d5e39",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-23T07:02:49.853Z",
-      "lastSentAt": "2026-11-23T07:02:49.857Z",
-      "source": "log:logs/2026-11-23/scan-2026-11-23-150018-93dd49a0-ce12-4142-a376-3092acdf8a08.json"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "5913b6094dbfe5f9e91aaaa3d946dba4a91eb42e24da02617ffba512750138a9": {
       "title": "新北市聖心女子高級中學115學年聖心學園課程體驗活動",
@@ -2113,6 +2135,17 @@
       "firstSentAt": "2026-11-20T06:49:00.187Z",
       "lastSentAt": "2026-11-20T06:49:00.190Z",
       "source": "log:logs/2026-11-20/scan-2026-11-20-144615-d91712b0-6b73-4d1b-8389-9b513709208c.json"
+    },
+    "9abb510986c593251d552d89cdf6cf093a52f1044d62d7ef0f3efbba332daa04": {
+      "title": "臺北市116學年度身心障礙學生入學國民小學(入小一)鑑定及安置工作計畫及相關報名表件",
+      "category": "校務公告",
+      "publishedDate": "2026/11/25",
+      "updatedDate": "2026/11/25",
+      "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6afbf940042c017e2d8fe21b",
+      "identityType": "originalUrl",
+      "firstSentAt": "2026-11-25T08:01:00.666Z",
+      "lastSentAt": "2026-11-25T08:01:00.666Z",
+      "source": "smtp"
     },
     "9b38e60f55dae333088229e5fde3ddeec120a034554a0aabffa1466bfde93d63": {
       "title": "115課後班編班公告與請假方式",
@@ -3266,8 +3299,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b04d70cd6b8e2bae4c7e1d9",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-24T09:29:40.510Z",
-      "lastSentAt": "2026-11-24T09:29:40.510Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "eb988779bcaa0eebf7bfb9ec5389f25fa8f5a5cac7c3663d4f0a86e89886868d": {
       "title": "115年臺北市體育總會長盃棒球錦標賽",
@@ -3343,8 +3376,8 @@
       "originalUrl": "https://www.gtes.tp.edu.tw/nss/main/freeze/5abf2d62aa93092cee58ceb4/T5NtG6S4123/6b04d349d6b8e2bae4c6b19a",
       "identityType": "originalUrl",
       "firstSentAt": "2026-11-24T09:29:40.510Z",
-      "lastSentAt": "2026-11-24T09:29:40.510Z",
-      "source": "smtp"
+      "lastSentAt": "2026-11-24T09:29:40.513Z",
+      "source": "log:logs/2026-11-24/scan-2026-11-24-172637-70d6e66e-e92c-4f46-8db3-79b46a0ba3a9.json"
     },
     "f9a780641259e2ad646a3e28b83987d16ea00057575ae95cadc7272d76988c62": {
       "title": "「CHA-CHING兒童理財教育」教師研習",
