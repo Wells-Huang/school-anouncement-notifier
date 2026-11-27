@@ -1,12 +1,12 @@
 {
-  "runId": "d752d572-baa2-4fff-9d96-57a91d23abb4",
+  "runId": "a2282125-51ce-4ab6-8d23-c45653623736",
   "execution": {
-    "startedAtUtc": "2026-11-26T07:50:04.248Z",
-    "completedAtUtc": "2026-11-26T07:50:59.408Z",
-    "executedAtTaipei": "2026/11/26 15:50:04",
+    "startedAtUtc": "2026-11-27T07:50:26.765Z",
+    "completedAtUtc": "2026-11-27T07:51:21.242Z",
+    "executedAtTaipei": "2026/11/27 15:50:26",
     "timezone": "Asia/Taipei",
-    "windowStartUtc": "2026-11-25T07:50:04.248Z",
-    "windowEndUtc": "2026-11-26T07:50:04.248Z"
+    "windowStartUtc": "2026-11-26T07:50:26.765Z",
+    "windowEndUtc": "2026-11-27T07:50:26.765Z"
   },
   "source": {
     "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
@@ -64,7 +64,7 @@
     "success": true,
     "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
     "itemCount": 100,
-    "lastBuildDate": "Thu, 26 Nov 2026 07:50:14 GMT"
+    "lastBuildDate": "Fri, 27 Nov 2026 07:50:35 GMT"
   },
   "email": {
     "attempted": false,
@@ -78,23 +78,23 @@
     "readError": "",
     "recordsBeforeImport": 313,
     "recordsAfterImport": 313,
-    "historicalLogsRead": 106,
+    "historicalLogsRead": 107,
     "historicalSuccessfulLogs": 74,
     "historicalVersionsImported": 0,
-    "historicalVersionsRefreshed": 7,
+    "historicalVersionsRefreshed": 0,
     "historyErrors": [],
     "markedAfterEmailSuccess": 0,
     "recordsAfterRun": 313,
-    "saved": true,
+    "saved": false,
     "saveError": "",
-    "saveNeeded": true,
-    "saveReason": "已儲存已寄送狀態"
+    "saveNeeded": false,
+    "saveReason": "已寄送狀態無變更"
   },
   "status": "read_failure",
   "noEmailReason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信",
   "failureReason": "公告表格未在等待時間內載入",
   "logFiles": {
-    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-26/scan-2026-11-26-155004-d752d572-baa2-4fff-9d96-57a91d23abb4.json",
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-27/scan-2026-11-27-155026-a2282125-51ce-4ab6-8d23-c45653623736.json",
     "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
   }
 }
