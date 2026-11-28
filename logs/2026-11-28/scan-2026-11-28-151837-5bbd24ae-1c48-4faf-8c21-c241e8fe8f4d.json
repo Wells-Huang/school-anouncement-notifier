@@ -1,0 +1,100 @@
+{
+  "runId": "5bbd24ae-1c48-4faf-8c21-c241e8fe8f4d",
+  "execution": {
+    "startedAtUtc": "2026-11-28T07:18:37.410Z",
+    "completedAtUtc": "2026-11-28T07:19:31.091Z",
+    "executedAtTaipei": "2026/11/28 15:18:37",
+    "timezone": "Asia/Taipei",
+    "windowStartUtc": "2026-11-27T07:18:37.410Z",
+    "windowEndUtc": "2026-11-28T07:18:37.410Z"
+  },
+  "source": {
+    "pageUrl": "https://www.gtes.tp.edu.tw/nss/p/index"
+  },
+  "methods": [
+    "rendered page",
+    "RSS"
+  ],
+  "page": {
+    "opened": true,
+    "renderedPageSuccess": false,
+    "announcementListSuccess": false,
+    "responseStatus": 200,
+    "jsShellDetected": false,
+    "jsShellSummary": "移至主要內容區 ::: 登入 網站導覽 首頁 Language 小 中 大 關於古亭 校園網頁 行政E化服務 教職員服務 家長資訊專區 資安管理 上一張 下一張 第 5 張,共 5 張:雙語學校祝賀 ::: 首頁 輸入標題、關鍵字後按下Enter查詢 發布單位: 全部 RSS訂閱 榮譽榜校務公告獎補助資訊公文公告活動/競賽研習進修人事服務音樂班聯招教師甄選 標題 單位 日期 賀!115學年度台北市美術展階段證書! 教務處設備組長 2026/11/23 賀!115學年度台北市美術展校內得獎名單! 內有附件 教務處設備組長 2026/11/23 賀!恭喜本校學生 四年四班黃弈程、二年五班黃思喬 …",
+    "rssUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "rssSuccess": true,
+    "rssItemCount": 100,
+    "searchEngineBackup": null
+  },
+  "categories": {
+    "requested": [
+      "榮譽榜",
+      "校務公告",
+      "獎補助資訊",
+      "公文公告",
+      "活動/競賽",
+      "研習進修",
+      "人事服務",
+      "音樂班聯招",
+      "教師甄選"
+    ],
+    "successful": [],
+    "failed": []
+  },
+  "counts": {
+    "scanned": 0,
+    "recent24h": 0,
+    "relevant": 0,
+    "newRelevant": 0,
+    "alreadySent": 0,
+    "sameVersionDuplicates": 0,
+    "skipped": 0,
+    "duplicatesRemoved": 0,
+    "detailAttempts": 0,
+    "detailSuccesses": 0,
+    "detailFailures": 0
+  },
+  "relevantAnnouncements": [],
+  "emailAnnouncements": [],
+  "alreadySentAnnouncements": [],
+  "sameVersionDuplicateAnnouncements": [],
+  "skippedAnnouncements": [],
+  "rss": {
+    "success": true,
+    "sourceUrl": "https://www.gtes.tp.edu.tw/nss/main/feeder/5abf2d62aa93092cee58ceb4/T5NtG6S4123?f=normal&%240=sNYL9UH2305&vector=private&static=false",
+    "itemCount": 100,
+    "lastBuildDate": "Sat, 28 Nov 2026 07:18:45 GMT"
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "reason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信"
+  },
+  "sentState": {
+    "path": "state/sent-announcements.json",
+    "loadedFromFile": true,
+    "safeToSend": true,
+    "readError": "",
+    "recordsBeforeImport": 313,
+    "recordsAfterImport": 313,
+    "historicalLogsRead": 108,
+    "historicalSuccessfulLogs": 74,
+    "historicalVersionsImported": 0,
+    "historicalVersionsRefreshed": 0,
+    "historyErrors": [],
+    "markedAfterEmailSuccess": 0,
+    "recordsAfterRun": 313,
+    "saved": false,
+    "saveError": "",
+    "saveNeeded": false,
+    "saveReason": "已寄送狀態無變更"
+  },
+  "status": "read_failure",
+  "noEmailReason": "公告頁讀取失敗／無法完整判斷；僅記錄 log，不寄送掃描狀態信",
+  "failureReason": "公告表格未在等待時間內載入",
+  "logFiles": {
+    "archivePath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/2026-11-28/scan-2026-11-28-151837-5bbd24ae-1c48-4faf-8c21-c241e8fe8f4d.json",
+    "latestPath": "/home/runner/work/school-anouncement-notifier/school-anouncement-notifier/logs/latest.json"
+  }
+}
